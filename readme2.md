@@ -6,6 +6,8 @@ updated: 2024-10-30 21:32
 share: "true"
 ---
 ![[readme2.svg|readme2.svg]]
+![[Pasted image 20240423220058.png|Pasted image 20240423220058.png]]
+
 Hiya
 😆
 
