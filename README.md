@@ -1,5 +1,2 @@
-# carlrobert.github.io
-Home page
-
-[R2](readme2.md)
+[My Obsidian tidbits](obsidian-tidbits.md)
 
