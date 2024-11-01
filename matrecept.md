@@ -1,23 +1,24 @@
 ---
 share: "true"
-updated: 2024-11-01 22:40
+updated: 2024-11-01 22:43
 ---
 # Våra favoritrecept på svenska
 
 **Bak:** [Haralds rågbröd (morfarsbröd)](matrecept.md#haralds-ragbrod-morfarsbrod) • [Majs herdinnor](matrecept.md#majs-herdinnor)
 ## Haralds rågbröd (morfarsbröd)
-
 6 levar. Tillagningstid 2 dagar. Ugnstemperatur 200 ºC
 ### Ingredienser
 #### Dag 1
 - 1 l filmjölk
 - 100 g jäst
 - rågmjöl
+
 #### Dag 2
 - 1 liter varmt vatten
 - ½ liter mjölk
 - c:a 3 kg rågsikt
 - ev. mer rågmjöl
+
 ### Gör så här
 1. Smula jästen i stor degbunke. Tillsätt filmjölk och så mycket rågmjöl att det blir en lös deg.
 2. Täck över och låt jäsa över natten.
@@ -26,6 +27,7 @@ updated: 2024-11-01 22:40
 5. Låt den helst jäsa ytterligare en stund innan den bakas ut till rejäla levar som får jäsa till dubbel storlek, tre på varje plåt.
 6. Grädda i c:a ¾ timme.
 7. Tag ut och knacka på undersidan av brödet. Låter det ihåligt är det klart. Låt svalna på galler under bakduk.
+
 ## Majs herdinnor
 Möra, lättkavlade kakor med fin smak av kardemumma. Det går utmärkt att göra degen i matberedningsmaskin. Recept för cirka 3 bakplåtar.
 
@@ -42,6 +44,7 @@ Till pensling:
 - 1 tsk stött kardemumma
 - ½ dl pärlsocker
 - ev. hackad mandel
+
 ## Gör så här
 1. Vispa ägg och socker pösigt. Tillsätt smör skuret i mindre bitar. Rör ordentligt.
 2. Blanda mjöl och hjorthornssalt och arbeta in i smeten.
