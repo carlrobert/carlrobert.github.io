@@ -3,3 +3,6 @@ description: Leap Day is a theme for GitHub Pages
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
+toc:
+  min_level: 1
+  max_level: 3
