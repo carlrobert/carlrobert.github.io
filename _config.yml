@@ -5,4 +5,4 @@ google_analytics:
 theme: jekyll-theme-leap-day
 toc:
   min_level: 1
-  max_level: 3
+  max_level: 2
