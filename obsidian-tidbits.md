@@ -1,6 +1,9 @@
 ---
-updated: 2024-11-01 21:37
 share: "true"
+updated: 2024-11-01 22:53
+title: Obsidian tidbits
+nav_order: 3
+layout: default
 ---
 # Obsidian tidbits
 This page describes how I currently use [Obsidian](https://obsidian.md). Hope you find this useful 🐱 The page is published using the excellent Enveloppe plugin: https://enveloppe.github.io/
