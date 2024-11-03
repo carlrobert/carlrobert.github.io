@@ -7,6 +7,15 @@ layout: default
 ---
 # Våra favoritrecept på svenska
 
+<details open markdown="block">
+  <summary>
+    Innehåll
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 **Bak:** [Haralds rågbröd (morfarsbröd)](matrecept.md#haralds-ragbrod-morfarsbrod) • [Majs herdinnor](matrecept.md#majs-herdinnor) • [Marsipan](matrecept.md#marsipan) • [Pogácsa – små ungerska ostbröd](matrecept.md#pogacsa-sma-ungerska-ostbrod)
 ## Haralds rågbröd (morfarsbröd)
 6 levar. Tillagningstid 2 dagar. Ugnstemperatur 200 ºC
