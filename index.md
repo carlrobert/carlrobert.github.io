@@ -2,6 +2,8 @@
 title: Home
 layout: home
 ---
-[Matrecept &ndash; food recipes, in Swedish](matrecept.md)
+# Hiya
 
-[Obsidian tidbits](obsidian-tidbits.md)
+[My Obsidian tidbits](obsidian-tidbits.md)
+
+[Matrecept &ndash; food recipes, in Swedish](matrecept.md)
