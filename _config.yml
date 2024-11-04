@@ -18,3 +18,6 @@ description: Trying out the just-the-docs template
 show_downloads: false
 google_analytics:
 theme: just-the-docs
+
+kramdown:
+  toc_levels: 1..2

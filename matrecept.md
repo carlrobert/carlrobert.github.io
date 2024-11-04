@@ -6,17 +6,18 @@ nav_order: 2
 layout: default
 ---
 # Våra favoritrecept på svenska
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
     Innehåll
   </summary>
   {: .text-delta }
-1. TOC
+- TOC
 {:toc}
 </details>
 
-**Bak:** [Haralds rågbröd (morfarsbröd)](matrecept.md#haralds-ragbrod-morfarsbrod) • [Majs herdinnor](matrecept.md#majs-herdinnor) • [Marsipan](matrecept.md#marsipan) • [Pogácsa – små ungerska ostbröd](matrecept.md#pogacsa-sma-ungerska-ostbrod)
+
 ## Haralds rågbröd (morfarsbröd)
 6 levar. Tillagningstid 2 dagar. Ugnstemperatur 200 ºC
 ### Ingredienser
@@ -44,7 +45,7 @@ layout: default
 Möra, lättkavlade kakor med fin smak av kardemumma. Det går utmärkt att göra degen i matberedningsmaskin. Recept för cirka 3 bakplåtar.
 
 Ugn: 175 °C
-## Ingredienser
+### Ingredienser
 - ½ ägg
 - 1½ dl socker (135 g)
 - 125 g smör
@@ -57,7 +58,7 @@ Till pensling:
 - ½ dl pärlsocker
 - ev. hackad mandel
 
-## Gör så här
+### Gör så här
 1. Vispa ägg och socker pösigt. Tillsätt smör skuret i mindre bitar. Rör ordentligt.
 2. Blanda mjöl och hjorthornssalt och arbeta in i smeten.
 3. Kavla ut degen på mjölat bakbord och ta ut kakor med mått, t.ex. runda kakor, löv eller fyrkanter.
@@ -66,6 +67,7 @@ Till pensling:
 6. Grädda i 175 graders varm ugn 5 till 6 minuter eller tills kakorna är gulbruna.
 
 Källa: tidningen [Land](https://www.land.se/), 1981
+
 ## Marsipan
 Tillagningstid 1½ timme 
 - 3 msk mjöl
@@ -76,11 +78,13 @@ Tillagningstid 1½ timme
 - 2 dl florsocker (100 g)
 
 Skålla den vanliga mandeln. Riv mandlarna. Blanda med övriga ingredienser.
+
 ## Pogácsa – små ungerska ostbollar
 En släkting till [focaccia](https://hu.wikipedia.org/wiki/Pog%C3%A1csa)! [Här är ett annat välskrivet recept på engelska](https://thebakingwizard.com/hungarian-cheese-biscuits-pogacsa/)
 
 C:a 50 st. Ugnstemperatur 200ºC
-## Ingredienser
+
+### Ingredienser
 - ½ kg vetemjöl
 - ½ kg margarin/smör
 - 3 dl gräddfil eller crème fraîche
@@ -91,7 +95,7 @@ C:a 50 st. Ugnstemperatur 200ºC
 - 2 äggulor
 - riven ost
 
-## Gör så här
+### Gör så här
 1. Värm mjölk och gräddfil till fingervarmt. Tillsätt socker
 1. Smula i jästen, tillsätt äggulor och rör om
 1. Smula ihop mjöl och smör samt salt
