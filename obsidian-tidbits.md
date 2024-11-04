@@ -6,9 +6,20 @@ nav_order: 3
 layout: default
 ---
 # Obsidian tidbits
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 This page describes how I currently use [Obsidian](https://obsidian.md). Hope you find this useful 🐱 The page is published using the excellent Enveloppe plugin: https://enveloppe.github.io/
 
-[Add word variants as alias properties](obsidian-tidbits.md#add-word-variants-as-alias-properties)
+
 ## Add word variants as alias properties
 You can use the note’s `alias` property to add singular or plural forms of note titles. For example,
 ![400](./Images/obsidian-tidbits-use-aliases-for-plurals.png)
