@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-05 18:17
+updated: 2024-11-05 18:19
 title: Matrecept
 nav_order: 2
 layout: default
@@ -183,6 +183,23 @@ Du behöver en maskin för korvstoppningen.
 *Källa: Irene*
 
 # Tillbehör
+## Flädersaft
+Ger 4 liter. Tillagningstid 1,5 timme (6 dagar), marmelad inte inräknad
+### Ingredienser
+- 40 klasar fläderblommor
+- 3 l vatten
+- 3 l socker = 2,7 kg
+- 3 citroner, skivade, gärna ekologiska
+- 50 g citronsyra
+- natriumbensoat
+
+### Gör så här
+1. Blanda vatten, socker, tvättade citroner och citronsyra och koka upp.
+2. Häll uppkoket över de rensade och sköljda klasarna och låt stå i fem dygn.
+3. Sila saften och konservera med natriumbensoat.
+
+*Koka sedan marmelad på citronerna. Det går fint att frysa in dem och göra marmeladen senare. Använd syltsocker – det är enklast.*
+
 ## Grönkålschips
 Sätt ugnen på 175 grader. Varmluft fungerar och kan vara fördelaktigt om du vaktar ugnen efter första plåtvändningen.
 ### Ingredienser
@@ -250,19 +267,3 @@ Tillagningstid 2 timmar
 2. Tag bort det grövsta på äpplena och lägg i äpplen och lök i kålen
 3. Blanda ner resten av ingredienserna medan kålen kokar
 
-## Flädersaft
-Ger 4 liter. Tillagningstid 1,5 timme (6 dagar), marmelad inte inräknad
-### Ingredienser
-- 40 klasar fläderblommor
-- 3 l vatten
-- 3 l socker = 2,7 kg
-- 3 citroner, skivade, gärna ekologiska
-- 50 g citronsyra
-- natriumbensoat
-
-### Gör så här
-1. Blanda vatten, socker, tvättade citroner och citronsyra och koka upp.
-2. Häll uppkoket över de rensade och sköljda klasarna och låt stå i fem dygn.
-3. Sila saften och konservera med natriumbensoat.
-
-*Koka sedan marmelad på citronerna. Det går fint att frysa in dem och göra marmeladen senare. Använd syltsocker – det är enklast.*
