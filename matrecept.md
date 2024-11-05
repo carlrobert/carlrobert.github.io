@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-05 18:19
+updated: 2024-11-05 18:20
 title: Matrecept
 nav_order: 2
 layout: default
@@ -78,7 +78,7 @@ Tillagningstid 1½ timme
 - 1½ dl mandel (100 g)
 - 2 dl florsocker (100 g)
 
-Skålla den vanliga mandeln. Riv mandlarna. Blanda med övriga ingredienser.
+Skålla den vanliga mandeln. Riv mandlarna, bittermandlarna extra noga. Blanda med övriga ingredienser.
 ## Pogácsa – små ungerska ostbollar
 En släkting till [focaccia](https://hu.wikipedia.org/wiki/Pog%C3%A1csa)! [Här är ett annat välskrivet recept på engelska](https://thebakingwizard.com/hungarian-cheese-biscuits-pogacsa/)
 
