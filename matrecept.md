@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-01 22:53
+updated: 2024-11-05 16:50
 title: Matrecept
 nav_order: 2
 layout: default
