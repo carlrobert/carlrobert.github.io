@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-05 17:42
+updated: 2024-11-05 18:17
 title: Matrecept
 nav_order: 2
 layout: default
@@ -18,6 +18,7 @@ layout: default
 </details>
 
 
+# Baka
 ## Haralds rågbröd (morfarsbröd)
 6 levar. Tillagningstid 2 dagar. Ugnstemperatur 200 ºC
 ### Ingredienser
@@ -109,6 +110,7 @@ C:a 50 st. Ugnstemperatur 200ºC
 
 Källa: Irene 1995-08-02
 
+# Varmrätter
 ## Gedigen julkorv
 6–7 st. à 600–700 gram. Tillagningstid 3 timmar
 
@@ -179,6 +181,8 @@ Du behöver en maskin för korvstoppningen.
 7. Häll av vattnet och blanda med kålen.
 
 *Källa: Irene*
+
+# Tillbehör
 ## Grönkålschips
 Sätt ugnen på 175 grader. Varmluft fungerar och kan vara fördelaktigt om du vaktar ugnen efter första plåtvändningen.
 ### Ingredienser
