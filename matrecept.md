@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-05 16:50
+updated: 2024-11-05 17:00
 title: Matrecept
 nav_order: 2
 layout: default
@@ -110,3 +110,30 @@ C:a 50 st. Ugnstemperatur 200ºC
 1. Grädda i cirka 20 minuter tills de får lite färg
 
 Källa: Irene 1995-08-02
+
+## Gedigen julkorv
+6–7 st. à 600–700 gram. Tillagningstid 3 timmar
+
+Du behöver en maskin för korvstoppningen.
+### Ingredienser
+1 ½ kg fläskfärs
+1 kg nötfärs
+½ kg späck
+¼ kg potatis
+1 l fläskspad
+½ dl potatismjöl
+3 msk salt
+2 tsk ingefära
+2 tsk svartpeppar
+2 tsk vitpeppar
+2 tsk kryddpeppar
+2 tsk socker
+5 m fjälster till korvskinn, gärna av nöt
+### Gör så här
+1. Lägg fjälstren i blöt.
+2. Blanda samman färs, potatis och salt. Tag inte allt salt från början.
+3. Mosa potatisen och blanda i tillsammans med potatismjöl och spad.
+4. Stöt kryddorna i mortel, blanda dem och rör ned dem litet i sänder.
+5. Stek provköttbullar och smaka av. De skall smaka mer salt och kryddigt än normala köttbullar.
+6. Stoppa fjälstren halvhårt med färs och bind om ändarna med tråd. Frys in korvarna direkt.
+7. Koka korven otinad eller halvtinad. Pricka först med en nål och koka sedan i inte alltför mycket vatten, antingen på spis eller i mikrovågsugn, cirka 20–25 minuter.
