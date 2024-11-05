@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-05 19:28
+updated: 2024-11-05 19:50
 title: Obsidian tidbits
 nav_order: 3
 layout: default
@@ -25,10 +25,27 @@ You can use the note’s `alias` property to add singular or plural forms of not
 To do.
 I find this especially useful for source notes.
 Setup checklist:
-- todo
-Refer to Nicole vd H’s video
+- Saving > Files: use .md for Excalidraw
+- Add these properties to your note template: todo
+- Add a shortcut to be able to switch between the two sides of the page
+- Auto-export settings: Keep filenames in sync. Enable autoexport.
+- Misc: Fade out Excalidraw markup
 
-The only disadvantage is the extra svg files.
+To create the drawing page for a note, use the Convert markdown to Excalidraw drawing. This will add these two properties to your note:
+```yaml
+excalidraw-plugin: parsed
+excalidraw-open-md: true
+```
+
+You can transclude the svg version of the Excalidraw page as usual:
+```markdown
+![[pagename.svg]]
+```
+
+See Nicole van der Hoeven’s lovely video: [Visual note templates with Obsidian Excalidraw - YouTube](https://youtu.be/zmgqMZi6QL8)
+
+The only disadvantage I’ve found is the extra svg files in the vault.
 ## Single-page presentations using Excalidraw
 To do.
-Refer to Zsolt V’s video
+
+For details, see Zsolt Viczian’s [A detailed walkthrough of the Excalidraw-Obsidian Slideshow 3.0 script - YouTube](https://www.youtube.com/watch?v=JwgtCrIVeEU)
