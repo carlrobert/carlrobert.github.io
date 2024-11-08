@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-08 18:18
+updated: 2024-11-08 18:53
 title: Matrecept
 nav_order: 2
 layout: default
@@ -19,6 +19,47 @@ layout: default
 
 
 # Baka
+
+## Carlssons knäck
+
+- 6 msk smör
+- 4 dl socker
+- 2 dl sirap
+- 2 msk kakao
+
+1. Blanda ingredienserna och koka dem relativt häftigt c:a 10 minuter. Rör helst hela tiden
+2. Häll i en väl smörad långpanna.
+3. Låt svalna och skär sedan i bitar (börja tidigt i kanterna). Ganska jobbig att skära!
+
+
+## Flottyrringar
+
+- 2 äggulor
+- 1 kkp grädde
+- minst 1 kkp socker
+- 1 tsk bakpulver
+- mjöl efter behov
+- rivet apelsin- eller citronskal
+- flottyr
+
+1. Blanda samman degen tills den är möjlig att kavla.
+2. Kavla ut degen och ta ut kakor med kransmått.
+3. Fritera dem guldbruna.
+
+## Goda nötkakor
+Ugnstemperatur 200–225ºC. 
+
+- 2 hg smör el. margarin
+- 1 1/4 hg socker
+- 1 hg skorpsmulor
+- 1 hg malda hasselnötter
+- 2 hg vetemjöl
+
+1. Alla ingredienserna arbetas tillsammans till en smidig deg.
+2. Degen rullas till fingertjocka längder.
+3. Dessa läggs på plåt och utplattas med gaffel så att de blir refflade på längden.
+4. Gräddas i 6–8 minuter och skäres tvärs över i 3–4 cm stora bitar.
+
 ## Haralds rågbröd (morfarsbröd)
 6 levar. Tillagningstid 2 dagar. Ugnstemperatur 200 ºC
 ### Ingredienser
@@ -77,10 +118,64 @@ Tillagningstid 1½ timme
 - 1 msk margarin
 - 1 dl grädde
 - 3 bittermandlar
-- 1½ dl mandel (100 g)
+- 1½ dl sötmandel (100 g)
 - 2 dl florsocker (100 g)
 
-Skålla den vanliga mandeln. Riv mandlarna, bittermandlarna extra noga. Blanda med övriga ingredienser.
+Idéer till garnering:
+- karamellfärg
+- mörk blockchoklad
+- kakaopulver
+- mandel
+- nötter
+- russin
+
+1. Värm mjöl, margarin och grädde i en kastrull (gärna teflon) tills det har kokat ihop till en boll.
+2. Låt bollen kallna, t.ex. genom att sätta kastrullen i vattenbad.
+3. Skålla, skala och mal mandeln.
+4. Sikta florsockret över mandeln och lägg på bollen.
+5. Knåda samman tills smeten är smidig.
+6. Tillsätt ev. mer florsocker om den är för lös.
+7. Om man färgar med karamellfärg skall den droppas outspädd över marsipanen och knådas in. Litet mer florsocker kan behövas för konsistensens skull.
+8. Forma till praliner eller figurer.
+9. Doppa ev. i smält blockchoklad eller rulla i kakao.
+10. Dekorera med mandel, nötter eller russin.
+
+## Mintkyssar
+C:a 40 st
+
+- 4 dl florsocker
+- 1 dl vatten
+- 1/4 tsk ättiksprit
+- 5–7 droppar pepparmyntolja
+- 75 g mörk blockchoklad
+
+1. Koka socker, vatten och ättiksprit tills lagen håller trådprovet: litet avsvalnad lag mellan tummen och pekfingret skall gå att dra ut till en tråd.
+2. Häll sockerlagen i en skål och tillsätt pepparmyntolja när den svalnat.
+3. Arbeta massan med en gaffel tills den blir slät, smidig och ganska fast.
+4. Placera skålen över vattenånga och rör tills massan blir seg och tjockflytande.
+5. Klicka ut den med teskedar på oljat smörpapper.
+6. Låt karamellerna stelna.
+7. Smält blockchokladen och garnera varje kyss med en klick choklad.
+
+## Pepparmyntkarameller
+
+- 1 kg strösocker
+- 4 ½ dl vatten
+- 1 msk flytande glukos
+- 4 tsk ättiksprit
+- 20–25 droppar pepparmyntolja
+
+1. Blanda socker och vatten i en kastrull och låt blandningen stå en stund så att sockret löser sig.
+2. Rör sedan om, tillsätt glukosen och koka alltsammans i 10 minuter.
+3. Blanda i ättikspriten.
+4. Koka lagen kraftigt utan lock tills den håller brytprovet (150ºC).
+5. Häll upp smeten på en marmorskiva e.d.
+6. Droppa över pepparmyntoljan.
+7. Vik med oljad kniv upp kanterna mot mitten några gånger.
+8. Fortsätt att dra ut och vika ihop smeten med händerna. Ju mer luft som kommer in i smeten desto mer silkesskimrande blir karamellerna.
+9. Dra tills massan börjar bli trög.
+10. Forma den till smala stänger som klipps i lagom stora bitar.
+11. Förvara karamellerna i tät burk, gärna i kylskåp.
 
 ## Pogácsa – små ungerska ostbollar
 En släkting till [focaccia](https://hu.wikipedia.org/wiki/Pog%C3%A1csa)! [Här är ett annat välskrivet recept på engelska](https://thebakingwizard.com/hungarian-cheese-biscuits-pogacsa/)
@@ -112,6 +207,62 @@ C:a 50 st. Ugnstemperatur 200ºC
 1. Grädda i cirka 20 minuter tills de får lite färg
 
 Källa: Irene 1995-08-02
+
+## Pozsonyi kifli (Vallmolängd)
+
+Ugnstemperatur 200ºC
+
+- ½ kg vetemjöl (c:a 8 dl)
+- 2 ägg
+- 2½ hg smör/margarin
+- ½ hg socker (4 msk)
+- 25 g jäst
+- 2 dl mjölk
+- salt
+
+  
+Fyllning:
+- 3 hg vallmofrö
+- 2 hg socker
+- 1,75–2 dl socker
+- 2 tsk–1 msk vaniljsocker eller citronskal
+- ströbröd
+- knappt ½ dl russin
+
+1. Blanda och värm jäst, mjölk och socker till fingervarmt.
+2. Blanda mjöl och smör och knåda till deg med vätskan.
+3. Låt jäsa.
+4. Mal vallmofröna.
+5. Koka upp mjölken och tillsätt vaniljsocker och socker.
+6. Koka upp russinen.
+7. Tillsätt vallmo och russin till mjölken.
+8. Blanda och tillsätt ströbröd om smeten blivit för lös.
+9. Kavla ut degen till fyra längder.
+10. Bred ut vallmosmeten (inte ända till kanterna).
+11. Lägg längderna på bakplåt. Ställ kallt en stund.
+12. Pensla med ägg och nagga lätt med gaffel längs underkanten.
+13. Grädda i 25–30 minuter.
+
+Källa: Irene
+
+## Sonjas drömmar
+
+Ugnstemperatur 150ºC. Blir c:a 40 st.
+
+- 3 hg socker
+- 3 hg mjöl
+- 1 kaffekopp mjöl
+- knappt 1 kaffekopp kronolja (matolja, inte olivolja)
+- 1 tsk hjorthornssalt
+- 1 tsk vaniljsocker
+- 1 msk florsocker
+
+1. Rör ihop socker och smör.
+2. Blanda i övriga ingredienser.
+3. Forma bollar och lägg på plåt.
+4. Grädda 10–12 minuter.
+5. Öppna luckan efter halva gräddningstiden.
+
 
 ## Vaniljkakor (Dagmars receptsamling)
 
@@ -437,8 +588,205 @@ Smaksätt med rivet citron. Ganska svag värme, 175 grader, 40 minuter
 
 1 ägg, 2 dl mjöl, 2 dl socker, 1 tsk bakpulver, 1 dl smält smör. Äpplen ovanpå.
 
+## Morotskaka
+
+Ugnstemperatur 175ºC
+
+- 2 ägg
+- 2 dl socker
+- 2 dl vetemjöl
+- 2 tsk bakpulver
+- 3 dl riven morot
+- 1 dl olja
+- 1 tsk vaniljsocker
+- 1 tsk kanel
+
+
+# Kallrätter
+
+## Ethels smörgåstårta
+C:a 12–15 bitar (Vår bostad nr 5, 1997)
+
+  
+
+Fyllning 1:
+- 3 ägg
+- 1 liten purjolök
+- 1 burk tonfisk i vatten
+- 2 dl majonnäs
+
+  
+Fyllning 2:
+- c:a 400 g rökt laxfilé i bit
+- 1 knippa dill
+- 3 dl vispgrädde
+- c:a 1 msk riven pepparrot
+
+  
+Garnering:
+- c:a 500 g räkor
+- 1 burk (c:a 200 g) sparris
+- 1 gurka
+- 2 citroner
+- 2 dl crème fraîche
+- 2 dl majonnäs
+- 1 burk svart kaviar
+- gröna oliver med pimiento
+
+1. Gör första fyllningen: hårdkoka äggen, spola dem kalla, skala och hacka dem.
+2. Skölj och strimla purjon.
+3. Mosa tonfisken och blanda den med ägg, purjo och majonnäs.
+4. Gör nästa fyllning: skär laxköttet i småbitar, hacka dillen (men spara några kvistar till garneringt).
+5. Vispa grädden och smaksätt med c:a 1 msk pepparrot. Blanda i lax och dill.
+6. Skär bort kanterna på brödet. Lägg tre skivor bredvid varandra och bred över första fyllningen.
+7. Täck med tre skivor till och bred över nästa fyllning.
+8. Täck med resten av brödet och tryck till litet.
+9. Täck med t.ex. plastfolie och låt stå svalt några timmar eller över natten.
+10. Skala räkorna.
+11. Låt sparrisen rinna av.
+12. Skiva gurkan och dela skivorna i fjärdedelar.
+13. Skär citronerna i tunna skivor och dela i fjärdedelar.
+14. Blanda crème fraîche och majonnäs och bred över och runt brödet. Garnera kanterna med gurka och citronskivor.
+15. Lägg räkorna i mitten av tårtan och sparrisen som en sol runt om, delade oliver runt kanterna samt till sist kaviar och dill.
+
+
+## Festsmörgåstårta
+
+C:a 10–12 bitar (Vår bostad nr 5, 1997)
+
+
+- 4 skivor vitt landgångsbröd
+- 4 skivor mörkt bröd, skuret på längden
+- smör
+
+  
+
+Fyllning 1:
+- 1 burk (c:a 170 g) krabba
+- ½ dl lätt crème fraîche
+- 2 tsk riven pepparrot  
+
+- Fyllning 2:
+- 1 hg ädelost
+- 1 dl kesella gourmet
+- ev. 1 tsk konjak
+- ev. 2 droppar grön karamellfärg
+
+  
+Fyllning 3:
+- 1 burk salladstonfisk
+- ½ dl chilisås
+- några droppar tabasco
+- ½ dl lättmajonnäs
+- 2 msk hackad dill  
+
+Garnering:
+- ½ dl lättmajonnäs
+- 5 hg räkor
+- 150 g rökt lax i skivor
+- 1 hg storkornig kaviar, gärna både röd och svart
+- 10 cm skivad gurka
+- några rädisor
+- 1 hg stark ost i bitar
+- citron
+- sallad, t.ex. frisé
+- dill
+
+
+1. Blanda ingredienserna till de tre respektive fyllningarna.
+2. Jämna till brödskivorna så att alla blir lika stora. Bred litet smör på dem.
+3. Lägg två mörka skivor bredvid varandra och bred över den första fyllningen.
+4. Täck med två vita skivor och bred över nästa fyllning.
+5. Lägg på de sista vita skivorna och bred över den tredje fyllningen. Täck med de mörka brödskivorna.
+6. Svep in i folie och ställ svalt, gärna över natten.
+7. Bred ett tunt lager majonnäs över tårtan.
+8. Skala räkorna och lägg räkor och lax på snedden på tårtan.
+9. Fyll mellanrummen med ostbitar samt skivor av gurka, rädisor och citron.
+10. Garnera med dillkvistar och lätt strimlad sallad omkring.
+
 
 # Varmrätter
+
+## Arianes köttfärssås
+
+120 g mager nötfärs
+
+- 1 tsk olja
+- pressad vitlök
+- ½ gul lök
+- 1 dl morot
+- 1 dl vatten
+- 1 msk tomatpuré
+- salt
+- chilipeppar
+
+1. Hacka löken
+2. Riv moroten grovt och bryn den tillsammans med löken i oljan.
+3. Mer här.
+
+## Biffla (stekt köttfärslimpa)
+
+Skiva överbliven köttfärslimpa i knappt centimetertjocka skivor.
+
+Bryn skivorna lätt i stekpanna.
+
+Efter stekningen tillsätter man litet vatten och värmer upp till en god sky.
+
+
+## Enkla frasiga våfflor
+
+8 laggar
+
+  
+- 1 hg smör el. margarin
+- 4 dl mjölk
+- 3 dl vetemjöl
+- 2 tsk bakpulver
+
+1. Smält matfettet och låt det svalna.
+2. Rör samman hälften av mjölken och vetemjölet blandat med bakpulvret till en jämn smet.
+3. Tillsätt resten av mjölken och matfettet.
+4. Hetta upp våffeljärnet och pensla det med litet matfett.
+5. Häll i c:a 3/4 dl smet till varje våffla, bred ut den något och grädda våfflorna guldgula.
+6. Lägg de gräddade våfflorna på galler.
+
+## Fiberrika våfflor
+
+8 laggar
+  
+- ½ hg smör el. margarin
+- 3 ägg
+- 2 dl vetemjöl
+- 1 tsk bakpulver
+- 1 dl vetekli
+- 2 dl mjölk
+- rivet citronskal
+
+1. Smält matfettet och låt det svalna.
+2. Vispa upp äggen. Tillsätt mjölet blandat med bakpulvret, vetekliet och matfettet.
+3. Rör till en jämn smet. Späd med mjölken och smaksätt med citronskal.
+4. Låt smeten stå och svälla en halvtimme.
+5. Hetta upp våffeljärnet och pensla med litet matfett till första laggen.
+6. Häll i c:a 3/4 dl smet till varje våffla.
+7. Grädda guldgula våfflor och lägg dem på galler.
+
+
+## Frasvåfflor med grädde
+8–10 laggar
+
+- ½ hg smör el. margarin
+- 3 dl vetemjöl
+- 2 dl kallt vatten
+- 3 dl vispgrädde
+
+1. Smält matfettet och låt det svalna.
+2. Rör samman mjöl och vatten till en jämn smet. Låt den stå och svälla.
+3. Vispa grädden.
+4. Häll matfettet och sist försiktigt grädden i smeten.
+5. Hetta upp våffeljärnet och pensla med matfett till första laggen.
+6. Häll i c:a 3/4 dl smet till varje våffla och bred ut den något.
+7. Grädda våfflorna ljusgula och lägg dem på galler.
+
 ## Gedigen julkorv
 6–7 st. à 600–700 gram. Tillagningstid 3 timmar
 
@@ -467,6 +815,44 @@ Du behöver en maskin för korvstoppningen.
 6. Stoppa fjälstren halvhårt med färs och bind om ändarna med tråd. Frys in korvarna direkt.
 7. Koka korven otinad eller halvtinad. Pricka först med en nål och koka sedan i inte alltför mycket vatten, antingen på spis eller i mikrovågsugn, cirka 20–25 minuter.
 
+
+
+## Grillspett med jordnötssås
+Ugnstemperatur 200–225ºC, gärna varmluft.
+
+Grillspett:
+- 500–600 g benfritt kycklingkött, lammkött, fläskfilé etc.
+
+Marinad:
+- 1 msk lökpulver
+- 1 tsk vitlökspulver
+- 1 dl söt indonesisk soja
+- saften av en halv citron
+- 2 msk smör, margarin eller matolja (ej olivolja)
+
+Jordnötssås:
+- 1 dl osaltade jordnötter (alt. torrostade)
+- 1 dl crème fraiche eller matlagningsgrädde
+- 1 dl hönsbuljong
+- 1–2 dl vatten
+- 1 msk Maizena
+- 1 gul lök, mald eller riven på rivjärn
+- 1 pressad vitlöksklyfta
+- ½ tsk sambal oelek (pasta av rödpeppar, salt och tomat)
+- 1 msk söt indonesisk soja (ketjap manis)
+- 1 msk matättika eller saften av en kvarts citron
+- 1 krm farinsocker eller sirap
+
+1. Blötlägg träpinnarna.
+2. Skär köttet i 2 cm stora bitar. Låt köttet ligga i marinaden minst en timme, helst mer.
+3. Trä upp köttbitarna på spett och pensla med marinaden några gånger under grillningen. Grilltid 8–10 minuter.
+4. Stöt eller mixa jordnötter till små bitar.
+5. Blanda såsen i en kastrull och värm på svag värme. Rör hela tiden. Såsen ska inte koka – den kan bli besk och skära sig.
+
+Tillbehör: kokt vitt ris och naturell salladskål.
+
+
+
 ## Haralds köttmoja – köttfärssås
 6 portioner. Tillagningstid 1 timme
 ### Ingredienser
@@ -487,6 +873,40 @@ Du behöver en maskin för korvstoppningen.
 5. Smaka av och servera.
 
 *Vi brukar dubbla satsen och utgå från ½ kg färs + ½ kg riven morot*
+
+
+## Iréns leverkorv
+
+- 1,4 kg lever
+- 8 hg ris
+- 1 paket bacon
+- salt
+- vitpeppar
+- kryddpeppar
+- fjälster
+
+1. Koka lever och bacon. Låt svalna, men inte helt.
+2. Mal i köttkvarn.
+3. Koka riset i saltat vatten.
+4. Blanda allt med salt och peppar.
+5. Stoppa i fjälster.
+
+## Iréns små jäspannkakor
+
+- 1 dl mjölk
+- 2 ägg
+- 2–3 dl mjöl
+- 1–2 msk socker
+- litet smör
+- 25 g jäst
+
+1. Blanda mjölk och ägg. Tillsätt mjöl så att smeten blir tjock som våffelsmet.
+2. Tillsätt övriga ingredienser.
+3. Låt jäsa i en halvtimma.
+4. Smält smör i en stekpanna eller plättlagg.
+5. Klicka ut smeten med sked och stek på svag värme. Vänd när steksidan är gyllenbrun i kanterna. De färdiga pannkakorna ska vara cirka 2 cm tjocka.
+6. Servera jäspannkakorna garnerade med florsocker som siktats genom en tesil eller liknande.
+
 ## Káposztás tészta – ungerska pastarutor med stekt vitkål
 4 portioner. Tillagningstid 1 timme. Degknådningen kräver en viss vana.
 ### Ingredienser
@@ -510,6 +930,96 @@ Du behöver en maskin för korvstoppningen.
 
 *Källa: Irene*
 
+
+## Kolbász (Iréns köttkorv)
+
+- 1 kg köttfärs
+- 3–4 hg fläskfärs
+- 1 liten gul lök
+- 4 klyftor vitlök
+- c:a 2 msk stark paprika
+- salt
+- fjälster
+
+1. Blanda allt och låt smeten vila minst 3 timmar.
+2. Stoppa i fjälster.
+
+## Vardagsenkla våfflor
+
+14 laggar
+
+
+- ½ hg smör el. margarin
+- 2 ägg
+- 6 dl mjölk
+- 5 dl vetemjöl
+- ½ tsk salt
+
+1. Smält matfettet och låt det svalna.
+2. Vispa äggen och tillsätt 3 dl av mjölken.
+3. Blanda i mjölet och rör smeten jämn.
+4. Tillsätt resten av mjölken, saltet och matfettet.
+5. Hetta upp våffeljärnet, pensla med litet matfett till första laggen.
+6. Häll i c:a 3/4 dl smet till varje våffla och grädda dem guldgula.
+7. Lägg de gräddade våfflorna på galler.
+
+## Våffelgås med salta tillbehör
+
+1 st
+
+2 skivor vitt bröd
+
+Fyllning 1:
+- 2 msk smältost
+- 1 tsk kaviar
+- klippt dill
+
+Fyllning 2:
+- 2 msk böcklingpastej
+- 1–2 tsk finhackad lök
+
+Fyllning 3:
+- 1 msk crème fraîche
+- 2 tsk röd kaviar
+- finhackad lök  
+
+Fyllning 4:
+- 2 msk leverpastej
+- 2 tsk finhackad gurka
+- hackad persilja
+
+1. Välj en av fyllningarna och bred på den ena brödskivan.
+2. Lägg den andra brödskivan över.
+3. Hetta upp våffeljärnet.
+4. Lägg i våffelgåsen och grädda den guldbrun.
+5. Servera den genast med t.ex. grönsallad.
+
+## Våffelgås med söta tillbehör
+
+1 st
+
+- 2 skivor vitt bröd
+  
+Fyllning 1:
+- 1 msk crème fraîche
+- 2 tsk russin
+- rivet citronskal
+
+Fyllning 2:
+- 1 msk lemon curd
+- grovhackad blockchoklad
+
+Fyllning 3:
+- 1 msk äppelmos
+- kanel
+- kardemumma
+
+1. Välj en av fyllningarna och bred på den ena brödskivan.
+2. Lägg den andra brödskivan över.
+3. Hetta upp våffeljärnet.
+4. Lägg i våffelgåsen och grädda den guldbrun.
+
+Servera den genast: som efterrätt eller till kaffe eller te.
 # Tillbehör
 ## Flädersaft
 Ger 4 liter. Tillagningstid 1,5 timme (6 dagar), marmelad inte inräknad
@@ -596,6 +1106,17 @@ Tillagningstid 2 timmar
 3. Blanda ner resten av ingredienserna medan kålen kokar
 
 
+## Skagenpastasallad
+
+- Pasta, t.ex. fullkornsmakaroner
+- Sallad med smak, t.ex. ruccola eller asiatisk kål
+- Skagenröra
+- Riven fetaost
+- Ev. rädisor
+
+Lägg upp ingredienserna på tallriken och strö fetaosten över.
+
+
 ## Inlagd gurka
 
 4 kg gurkor  
@@ -613,3 +1134,8 @@ lite salt
 Lägg gurkorna i saltlake c:a 10 timmar: 100 g salt per kilo gurka. Häll bort saltlaken.  
   
 Koka upp lagen och låt den kallna. Lägg gurkorna i lagen.
+
+
+___
+
+TODO: Fortsätt från Ljuvliga smörgåstårtan: [Storlind](https://storlind.blogspot.com/?m=1)
