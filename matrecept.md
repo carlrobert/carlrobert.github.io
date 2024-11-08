@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-08 17:46
+updated: 2024-11-08 18:18
 title: Matrecept
 nav_order: 2
 layout: default
@@ -67,8 +67,9 @@ Till pensling:
 5. Lägg kakorna på smord eller bakpappersklädd plåt.
 6. Grädda i 175 graders varm ugn 5 till 6 minuter eller tills kakorna är gulbruna.
 
-Källa: tidningen [Land](https://www.land.se/), 1981
 ![matrecept-majs-herdinnor.png](./Images/matrecept-majs-herdinnor.png)
+Källa: tidningen [Land](https://www.land.se/), 1981
+
 
 ## Marsipan
 Tillagningstid 1½ timme 
@@ -113,6 +114,7 @@ C:a 50 st. Ugnstemperatur 200ºC
 Källa: Irene 1995-08-02
 
 ## Vaniljkakor (Dagmars receptsamling)
+
 ![matrecept-vaniljkakor-dagmar.png](./Images/matrecept-vaniljkakor-dagmar.png)
 
 1 hg smör, 2 st ägg, 2 hg socker, 4 teskedar vaniljsocker, 4 hg vetemjöl, 1 tesked hjorthornssalt
@@ -120,6 +122,7 @@ Källa: Irene 1995-08-02
 Smöret röres tillsammans med sockret tills det blir pösigt. Äggen uppvispas och röres. Vaniljsocker och hjorthornssalt blandas med en del av mjölet och röres varefter resten av möjlet inarbetas. Kakorna göres runda. Gräddas i svag ugn.
 
 ## Uppåkrakakor (Dagmars receptsamling)
+
 ![matrecept-uppåkrakakor-dagmar.png](./Images/matrecept-upp%C3%A5krakakor-dagmar.png)
 
 425 gram smör, 160 gram socker, 210 gram potatismjöl, 425 gram vetemjöl  
@@ -129,6 +132,7 @@ _Till pensling:_ 2 ägg, 50 gram sötmandel, en halv kaffekopp pärlsocker.
 Smöret röres med sockret och de båda mjölsorterna arbetas in. Degen kavlas ut till omkring 2 millimeters tjocklek och med ett mått tages ut runda kakor som vikas ihop nästan på på mitten. Kakorna penslas med uppvispat ägg och beströs med mandel och socker. De gräddas mycket väl i god ugnsvärme. (omkr. 90 st.)
 
 ## Tårta (Dagmars receptsamling)
+
 ![matrecept-tårta-dagmar.png](./Images/matrecept-t%C3%A5rta-dagmar.png)
 
 **3 äggulor, 1 dl socker** vispas hårt. **1½ dl smör** smältes. **5 msk mjölk, 1½ dl mjöl, 2 teskedar bakpulver** blandas ner. Smeten bredes ut på smörpapper i en långpanna. Vitorna och **2 deciliter socker** vispas hårt och bredes ovanpå den andra smeten; hackade nötter eller mandel strös på. Sättes in i ugnen i **150 grader i 30 till 40 minuter**. Dela kakan på mitten och lägg **3 deciliter vispad grädde och jordgubbar eller hallon** emellan.
@@ -168,15 +172,271 @@ _Beredning:_ Grädden, sirapen och sockret hällas i nu nämnda ordning i en jä
 
 ### Plum-cake
 
-212 g smör,  
-212 g mjöl,  
-212 g socker,  
-212 g korinter,  
-212 g russin,  
-5 ägg,  
-succat efter smak.  
+- 212 g smör,  
+- 212 g mjöl,  
+- 212 g socker,  
+- 212 g korinter,  
+- 212 g russin,  
+- 5 ägg,  
+- succat efter smak.  
 
 _Beredning:_ Smöret röres med sockret till skum. Äggulorna tillsättas en i sänder, tillika med det väl torra och siktade mjölet och därefter den rensade frukten. Till sist nedskäras de till hårdt skum slagna hvitorna. Smeten slås i smort och brödbeströdd form; ofvanpå smeten läggas några tunt skurna succatskifvor. Kakan gräddas 2–3 timmar i medelmåttig ugnsvärme.
+
+## Nötkakor. Finare vetebröd (Dagmars receptsamling)
+
+![matrecept-nötkakor-vetebröd-dagmar.png](./Images/matrecept-n%C3%B6tkakor-vetebr%C3%B6d-dagmar.png)
+
+### Nötkakor (1½ sats)
+
+- 300 g smör  
+- 190 g socker  
+- 150 g skorpsmul  
+- 150 g hasselnötter  
+- 300 g vetemjöl  
+
+### Finare vetebröd
+
+- 1 l kall mjölk
+- 4 hg smör smältes
+- 180 g jäst
+- 3 ägg
+- 4 dl socker
+- 2,2 dl vetemjöl
+- 2 teskedar kardemumma eller mandel eller apelsinmarmelad
+
+## Mördeg till paj. Spritsringar (Dagmars receptsamling)
+
+![matrecept-mördeg-till-paj.png](./Images/matrecept-m%C3%B6rdeg-till-paj.png)
+
+### Mördeg till paj
+
+½ kg smör, 3/4 kg mjöl, 2 ägg, 4–5 matskedar socker, 4 matskedar vatten
+
+Smöret och mjölet arbetas väl tillsammans med äggen, som först slås med sockret, sedan vattnet. Degen kavlas ut till lagom tjocklek. Av denna sats blir det hälften över om man beräknar 6–7 personer.
+
+### Spritsringar
+
+140 g smör, 140 g socker, 1 äggula, 240 g mjöl. Massan går genom sprits.
+
+## Min bästa sockerkaka. Johannisbitar (Dagmars receptsamling)
+
+![matrecept-sockerkaka-johannisbitar-dagmar.png](./Images/matrecept-sockerkaka-johannisbitar-dagmar.png)
+
+### Min bästa sockerkaka
+
+**125 g margarin**, ej för kallt och styvt och **3 dl socker** arbetas tillsammans. När smeten blivit smidig tillsättes **2 ägg**, ett i taget. **3½ dl vetemjöl, 1 tsk bakpulver, rivet skal av en halv citron, 3/4 dl vatten** tillsättes så småningom under blandningen med mjölet. Gräddas i **medelvarm ugn c:a 45 minuter**.
+
+### Johannisbitar, 23–25 st
+
+1 hg smör, 1 hg mjöl, 2 matskedar socker. Smöret och sockret arbetas en stund, mjölet tillsättes lite i sänder. Degen formas till längder, som ställes på kallt ställe för att lättare skäras i runda bitar.
+
+
+## Korintkakor (Agdas). Enkla kanelkransar (Dagmars receptsamling)
+
+![matrecept-korintkakor-kanelkransar-dagmar.png](./Images/matrecept-korintkakor-kanelkransar-dagmar.png)
+
+### Korintkakor (Agdas)
+
+1½ hg smör, 2 kaffekoppar havregryn, 1 kkp socker, 1 tsk bikarbonat, 2 kkp mjöl, 1 kkp korinter. Alla ingredienserna blandas tillsammans och formas till runda bullar vilka gräddas i medelvarm ugnsvärme.
+
+### Enkla kanelkransar (c:a 50 st)
+
+Rör **1 ägg** med **100 g smör** och **100 g socker** ett par minuter. Sätt till **1 struken tsk hjorthornsalt** upplöst i **1 msk kokande vatten** och arbeta in **300 g vetemjöl**.
+
+Låt degen stå kallt, helst till följande dag. Rulla ut degen i små längder, som formas till kransar vilka doppas i en blandning av **1 msk kanel** och **2 msk socker**. Medelvarm ugn.
+
+## Knäck (Dagmars receptsamling)
+
+![matrecept-knäck-dagmar.png](./Images/matrecept-kn%C3%A4ck-dagmar.png)
+
+½ liter grädde, ½ liter sirap, ½ liter socker, 1 kaffekopp stötta skorpor, 1½ hg sötmandel. Grädden, sirapen och sockret hälles i denna ordning i en kastrull och får koka till smeten kännes tjock.
+
+## Knäck. Enkel kola. Gräddkola. Praliner. Ischoklad (Konsum/Kooperativa, ur Dagmars receptsamling)
+
+![matrecept-knäck-1.png](./Images/matrecept-kn%C3%A4ck-1.png)
+
+![matrecept-knäck-2-dagmar.png](./Images/matrecept-kn%C3%A4ck-2-dagmar.png)
+Odaterade recept från Konsum/Kooperativa
+
+
+## Kardemummakaka. Gunnels havrekakor. Alice kaffekaka (Dagmars receptsamling)
+
+![matrecept-kardemummakaka-dagmar.png](./Images/matrecept-kardemummakaka-dagmar.png)
+
+### Kardemummakaka
+
+1 ägg, 1½ dl socker, 1½ dl mjölk, 4 dl vetemjöl, 2 tsk bakpulver, 1 tsk malen kardemumma, 100 g margarin, pärlsocker.
+
+### Gunnels havrekakor
+
+200 g smör, 4 msk socker, 1½ dl havregryn, 3 dl vetemjöl
+
+### Alice kaffekaka
+
+150 g smör röres, 2 koppar socker, 3½ koppar mjöl, 1 dl mjölk, 1 ägg, 2 teskedar jästmjöl (bakpulver), 1 tsk kardemumma. Kanel och mandel ovanpå pärlsocker. 40 minuter
+
+## Julkorv 2 (Dagmars receptsamling)
+
+![matrecept-julkorv-2-dagmar.png](./Images/matrecept-julkorv-2-dagmar.png)
+
+- 1 kg oxkött
+- 1 kg fläskkött
+- 8 hg späck
+- 8 hg potatis
+- 1,1 liter vatten
+- litet socker (½ matsked)
+- 3½ strukna matskedar salt
+- ½ matskedar vitpeppar
+- 1/4 matskedar kryddpeppar
+- 1/4 matskedar starkpeppar
+- 1/4 torkad ingefära (tesked)
+
+Något mer än strukna skedar.
+
+
+## Julkorv 1 (Dagmars receptsamling)
+
+![matrecept-julkorv-1-dagmar.png](./Images/matrecept-julkorv-1-dagmar.png)
+
+- 3/4 kg oxkött
+- 3/4 kg fläskkött
+- 5 hg späck
+- 5 hg potatis
+- 5 dl vatten
+- 1/4 matsked socker
+- 2 matskedar salt
+- ½ matsked vitpeppar
+- ½ matsked kryddpeppar
+- ½ matsked starkpeppar
+- 1/4 tesked ingefära
+	- något mindre skedar
+- 2½ kg färs med späck och potatis
+
+## Judits pepparkakor. Nötkakor (Dagmars receptsamling)
+
+![matrecept-judits-pepparkakor-dagmar.png](./Images/matrecept-judits-pepparkakor-dagmar.png)
+
+### Judits pepparkakor, över 300 st
+
+3 dl grädde, 4 hg socker, 3 dl sirap, 350 g smör, 1 matsked ingefära, 1 matsked kanel, 1 matsked nejlikor, 1 matsked riven pomeransskal, 1½ kg mjöl, 2 teskedar bikarbonat. Svag ugn.
+
+### Nötkakor (goda)
+
+200 g smör, 125 g socker, 100 g skorpsmulor, 100 g malda hasselnötter, 200 g vetemjöl.
+
+Alla ingredienserna arbetas tillsammans till en smidig det som rullas till fingertjocka längder. Dessa utplattas med en gaffel så de blir refflade på längden. Läggas på plåt och gräddas. Skäras sedan tvärs över i 3–4 cm långa bitar. 200–225 grader 6–8 minuter.
+
+
+## Havresnitt c:a 45 st, goda (Dagmars receptsamling)
+
+![matrecept-havresnitt-dagmar.png](./Images/matrecept-havresnitt-dagmar.png)
+
+150 g smör, 1½ dl socker, 3 dl havregryn, 1 tsk bakpulver, 1½ dl vetemjöl.
+
+Värm ugnen till 175–200 grader. Rör smör och socker pösigt. Blanda i de andra ingredieserna. Rulla ut degen till fyra längder lika lång som plåten och lägg dem på smord plåt. Grädda c:a 10 minuter. Längderna flyter ut under gräddningen. Skär sneda kakor medan längderna är varma.
+
+## Havrekakor med russin resp. skurna i bitar (Dagmars receptsamling)
+
+![matrecept-havrekakor-dagmar.png](./Images/matrecept-havrekakor-dagmar.png)
+
+### Havrekakor med russin, c:a 50 st
+
+125 g margarin, 3 dl havregryn, 1½ dl socker, 1½ dl russin, 3 msk vatten, 2 dl vetemjöl, 1 tsk hjorthornsalt.
+
+Smält smöret och häll det över havregrynen i en skål. Blanda sedan i de andra ingredienserna. Klicka ut smeten på smorda plåtar. 10 min.
+
+### Havrekakor, skurna i fyrkantiga bitar
+
+1 kaffekopp smält smör, 1 kaffekopp socker, 3 kaffekoppar havregryn, (lite mjöl)
+
+
+## Goda bullar. Smulpaj (Dagmars receptsamling)
+
+![matrecept-goda-bullar-smulpaj-dagmar.png](./Images/matrecept-goda-bullar-smulpaj-dagmar.png)
+
+### Goda bullar
+
+½ liter gräddmjölk (kall mjölk), väl 1 hg jäst, 1½ hg smör, 1 par matskedar socker, mjöl. Jäses (endast på plåten). Innan de sättas in i ugnen penslas bullarna med smör och beströs med pärlsocker. Varm ugn, 250 grader.
+
+### Smulpaj
+
+7–8 äpplen, 6 msk socker, 2 tsk kanel (blandas).
+
+2 kaffekoppar vetemjöl, 1 hg margarin, 1–2 msk socker blandas till en smulig deg. Degen bredes över klyftorna så de täcks. Gräddas i 200 graders värme tills den fått färg, c:a 20 minuter. Serveras med vaniljsås.
+
+## Gifflar (Dagmars receptsamling)
+
+![matrecept-gifflar-dagmar.png](./Images/matrecept-gifflar-dagmar.png)
+
+100 g margarain, 1½ msk socker, 1 ägg, 30 g jäst, 1 dl grädde, 5½ dl vetemjöl
+
+_Fyllning:_ apelsinmarmelad eller äpplemos
+
+_Pensling:_ ägg, pärlsocker  
+
+Rör matfett och socker pösigt. Blanda ner ägget, rör ut jästen i grädden och häll sedan i den. Tillsätt mjölet och arbeta hastighet ihop degen på bakbordet. Kavla ut den i två runda kakor. Sporra ut 8 snibbar ur varje kaka och lägg en klick marmelad på dessa. Rulla ihop snibbarna och forma dem till gifflar. Låt dem jäsa till knappt duppel storlek på smord plåt. Grädda i 275 grader c:a 5 minuter.
+
+
+## Fru Möllers kringla. Bruna bröd (Ruths kakor) (Dagmars receptsamling)
+
+![matrecept-fru-möllers-kringla-dagmar.png](./Images/matrecept-fru-m%C3%B6llers-kringla-dagmar.png)
+texten kompletterad av Harald L.
+### Fru Möllers kringla
+
+½ kg vetemjöl, 125 g socker, 1 tesked kardemumma, 100 g smör, 1 kopp russin, suckat, 6 teskedar bakpuler, 6 dl mjölk
+
+### Bruna bröd (Ruths kakor)
+
+2 hg smör, 1 3/4 dl socker, 1 matsked sirap, 1 matsked kanel, lite kardemumma, 1 äggula, 2 teskedar bikarbonat (hjorthornsalt), 4–5 koppar mjöl (5–6 dl)
+
+Smör och socker röres; de andra ingredienserna iblandas. Smöret smältes först och får kallna. Små runda kakor som tryckes till med en gaffel. (Kulor med 2 cm diameter. Ugn 200 grader, 10 minuter)
+
+
+## Dagmars vanliga pepparkakor (Dagmars receptsamling)
+
+![matrecept-vanliga-pepparkakor-dagmar.png](./Images/matrecept-vanliga-pepparkakor-dagmar.png)
+
+250 g sirap,2 50 g socker, 250 g smör, 2 st ägg, 1 kg vetemjöl, 1 msk nejlikor, 1 msk ingefära, 1 matsked pomeransskal, 1 matsked kanel, 1 matsked bikarbonat.
+
+Smöret och sockret röres och sirapen tillsättes jämte kryddorna och ägget. Sist tillsättes mjölet vari bikarbonaten förut blivit blandad. Kavlas ut tunt och gräddas i god värme.
+
+
+## Crêpes (pannkakor) (Dagmars receptsamling)
+![matrecept-crêpes-dagmar.png](./Images/matrecept-cr%C3%AApes-dagmar.png)
+
+- 1 dl vetemjöl
+- 2 dl mjölk
+- 1 dl grädde
+- 3 ägg
+- 2 kryddmått salt
+- lite socker
+
+Grädda pannkakan på ena sidan 1½–2 minuter tills ytan har stelnat. Vänd och grädda på andra sidan c:a 1 minut. Lägg pannkakorna på en tallrik med ett smörpapper mellan varje. Låt dem svalna.
+
+
+_Fyllning efter smak._
+Bred lite av fyllningen på varje pannkaka och vik ihop eller rulla ihop dem. Lägg rullarna på ett ugnsäkert fat och värm dem i ugnen.
+
+
+## 1, 2, 3-kakor. Saftig sockerkaka. Naemis kaka (Dagmars receptsamling)
+
+![matrecept-123-dagmar.png](./Images/matrecept-123-dagmar.png)
+
+### 1, 2, 3-kakor
+
+- 4 hg smör, 2 hg socker, 6 hg mjöl (dubbel sats)
+- 2 hg smör, 1 hg socker, 3 hg mjöl
+
+### Saftig sockerkaka (Gunnels)
+
+2 ägg, 2½ dl socker, 3 dl mjöl, 2 tsk bakpulver, 1½ dl mjölk, 50 g margarin.
+
+Smaksätt med rivet citron. Ganska svag värme, 175 grader, 40 minuter
+
+### Naemis kaka
+
+1 ägg, 2 dl mjöl, 2 dl socker, 1 tsk bakpulver, 1 dl smält smör. Äpplen ovanpå.
+
 
 # Varmrätter
 ## Gedigen julkorv
@@ -335,3 +595,21 @@ Tillagningstid 2 timmar
 2. Tag bort det grövsta på äpplena och lägg i äpplen och lök i kålen
 3. Blanda ner resten av ingredienserna medan kålen kokar
 
+
+## Inlagd gurka
+
+4 kg gurkor  
+1,5 l vatten  
+5 dl ättika  
+1,5 kg socker  
+20 pepparkorn  
+2--3 muskotblommor  
+dill  
+1 till 1,5 dl peppar  
+ev. senapsfrö  
+vinbärsblad  
+lite salt  
+  
+Lägg gurkorna i saltlake c:a 10 timmar: 100 g salt per kilo gurka. Häll bort saltlaken.  
+  
+Koka upp lagen och låt den kallna. Lägg gurkorna i lagen.
