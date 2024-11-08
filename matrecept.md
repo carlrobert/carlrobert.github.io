@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-05 18:20
+updated: 2024-11-08 17:46
 title: Matrecept
 nav_order: 2
 layout: default
@@ -68,6 +68,7 @@ Till pensling:
 6. Grädda i 175 graders varm ugn 5 till 6 minuter eller tills kakorna är gulbruna.
 
 Källa: tidningen [Land](https://www.land.se/), 1981
+![matrecept-majs-herdinnor.png](./Images/matrecept-majs-herdinnor.png)
 
 ## Marsipan
 Tillagningstid 1½ timme 
@@ -79,6 +80,7 @@ Tillagningstid 1½ timme
 - 2 dl florsocker (100 g)
 
 Skålla den vanliga mandeln. Riv mandlarna, bittermandlarna extra noga. Blanda med övriga ingredienser.
+
 ## Pogácsa – små ungerska ostbollar
 En släkting till [focaccia](https://hu.wikipedia.org/wiki/Pog%C3%A1csa)! [Här är ett annat välskrivet recept på engelska](https://thebakingwizard.com/hungarian-cheese-biscuits-pogacsa/)
 
@@ -109,6 +111,72 @@ C:a 50 st. Ugnstemperatur 200ºC
 1. Grädda i cirka 20 minuter tills de får lite färg
 
 Källa: Irene 1995-08-02
+
+## Vaniljkakor (Dagmars receptsamling)
+![matrecept-vaniljkakor-dagmar.png](./Images/matrecept-vaniljkakor-dagmar.png)
+
+1 hg smör, 2 st ägg, 2 hg socker, 4 teskedar vaniljsocker, 4 hg vetemjöl, 1 tesked hjorthornssalt
+
+Smöret röres tillsammans med sockret tills det blir pösigt. Äggen uppvispas och röres. Vaniljsocker och hjorthornssalt blandas med en del av mjölet och röres varefter resten av möjlet inarbetas. Kakorna göres runda. Gräddas i svag ugn.
+
+## Uppåkrakakor (Dagmars receptsamling)
+![matrecept-uppåkrakakor-dagmar.png](./Images/matrecept-upp%C3%A5krakakor-dagmar.png)
+
+425 gram smör, 160 gram socker, 210 gram potatismjöl, 425 gram vetemjöl  
+
+_Till pensling:_ 2 ägg, 50 gram sötmandel, en halv kaffekopp pärlsocker.
+
+Smöret röres med sockret och de båda mjölsorterna arbetas in. Degen kavlas ut till omkring 2 millimeters tjocklek och med ett mått tages ut runda kakor som vikas ihop nästan på på mitten. Kakorna penslas med uppvispat ägg och beströs med mandel och socker. De gräddas mycket väl i god ugnsvärme. (omkr. 90 st.)
+
+## Tårta (Dagmars receptsamling)
+![matrecept-tårta-dagmar.png](./Images/matrecept-t%C3%A5rta-dagmar.png)
+
+**3 äggulor, 1 dl socker** vispas hårt. **1½ dl smör** smältes. **5 msk mjölk, 1½ dl mjöl, 2 teskedar bakpulver** blandas ner. Smeten bredes ut på smörpapper i en långpanna. Vitorna och **2 deciliter socker** vispas hårt och bredes ovanpå den andra smeten; hackade nötter eller mandel strös på. Sättes in i ugnen i **150 grader i 30 till 40 minuter**. Dela kakan på mitten och lägg **3 deciliter vispad grädde och jordgubbar eller hallon** emellan.
+
+## Sandbröd – flottyrringar – struvor (Dagmars receptsamling)
+
+![matrecept-sandbröd-flottyrringar-struvor-dagmar.png](./Images/matrecept-sandbr%C3%B6d-flottyrringar-struvor-dagmar.png)
+
+### Sandbröd
+
+240 g smör, 120 g socker, 360 g mjöl arbetas tillsammans. Kavlas ut i vanlig tjocklek och tages ut med mått.
+
+### Flottyrringar
+
+2 äggulor, 1 kaffekopp grädde, väl en kaffekopp socker, 1 tesked jästmjöl, mjöl efter behov. (Jästmjöl kan bytas mot bakpulver)
+
+### Struvor
+
+3 ägg, ½ kaffekopp socker, 1 kopp vetemjöl, 1 kopp potatismjöl, 1½ kopp vatten, lite riven apelsinskal.
+
+
+## Päron syltade med vin. Knäck. Pum-cake (ur Iduns hjälpreda, Dagmars receptsamling)
+
+![matrecept-päron-knäck-plum-cake-dagmar.png](./Images/matrecept-p%C3%A4ron-kn%C3%A4ck-plum-cake-dagmar.png) Receptsida ur Iduns hjälpreda av okänt datum
+
+### Päron syltade med vin
+
+2½ kg oskalade päron, 1 kg socker, 3 dl vinättika, 3 dl vatten, 2 dl franskt vin 
+
+_Beredning:_ Päronen skalas, blomfnaset borttagets, och ett kors skäres i päronet. Stjälken skrapas och afskäres till hälften. Päronen läggas efter skalningen i friskt vatten. Af sockret, ättikan och vattnet kokas en tunn lag, päronen ilägges och få koka, tills de äro klara och mjuka (omkring 3 timmar). De pröfvas genom att skära ett päron midt uti. Vinet tillsättes 15 minuter, innan päronen aflyftas från elden.   
+
+### Knäck
+
+½ liter grädde, ½ liter sirap, ½ liter socker, 1 kaffekopp stötta skorpor, 1½ hg sötmandel
+
+_Beredning:_ Grädden, sirapen och sockret hällas i nu nämnda ordning i en järnkastrull, sättas öfver elden och få koka, tills smeten kännes tjock. Man profvar den genom att hälla några droppar i kallt vatten – stelnar den, så är knäcken färdig. De stötta skorporna iröras då, och knäcken får ytterligare koka 5 minuter. Sist iröres den skållade och hackade sötmandeln, och smeten slås genast upp i knäckformat.  
+
+### Plum-cake
+
+212 g smör,  
+212 g mjöl,  
+212 g socker,  
+212 g korinter,  
+212 g russin,  
+5 ägg,  
+succat efter smak.  
+
+_Beredning:_ Smöret röres med sockret till skum. Äggulorna tillsättas en i sänder, tillika med det väl torra och siktade mjölet och därefter den rensade frukten. Till sist nedskäras de till hårdt skum slagna hvitorna. Smeten slås i smort och brödbeströdd form; ofvanpå smeten läggas några tunt skurna succatskifvor. Kakan gräddas 2–3 timmar i medelmåttig ugnsvärme.
 
 # Varmrätter
 ## Gedigen julkorv
