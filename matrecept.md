@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-09 08:21
+updated: 2024-11-09 09:19
 title: Matrecept
 nav_order: 2
 layout: default
@@ -39,6 +39,27 @@ Smaksätt med rivet citron. Ganska svag värme, 175 grader, 40 minuter
 
 1 ägg, 2 dl mjöl, 2 dl socker, 1 tsk bakpulver, 1 dl smält smör. Äpplen ovanpå.
 
+## Bakpulverskorpor
+
+C:a 100 st. Tillagningstid 2 timmar. Ugnstemperatur 250ºC
+
+
+- 7 dl vetemjöl
+- 3 tsk bakpulver
+- 1 dl socker
+- 2 tsk kardemumma
+- 150 g matfett
+- 1 ägg
+- 1½ dl mjölk
+
+1. Blanda samman de torra ingredienserna.
+2. Fördela matfettet i mjölblandningen med fingertopparna.
+3. Vispa samman ägget och mjölken och blanda i det.
+4. Forma degen till små bullar och lägg dem på smord plåt.
+5. Grädda mitt i ugnen i 5–8 min.
+6. Dela de varma bullarna med gaffel och lägg dem på plåt.
+7. Rosta och torka skorporna i 175º ugnsvärme.
+
 ## Carlssons knäck
 
 - 6 msk smör
@@ -59,6 +80,38 @@ Smaksätt med rivet citron. Ganska svag värme, 175 grader, 40 minuter
 
 Smöret och sockret röres och sirapen tillsättes jämte kryddorna och ägget. Sist tillsättes mjölet vari bikarbonaten förut blivit blandad. Kavlas ut tunt och gräddas i god värme.
 
+
+## Evas pepparkakor
+
+?? st. Tillagningstid 2 timmar. Ugnstemperatur 175º –200ºC
+
+
+- 2 dl mörk sirap
+- 2 dl socker
+- 160 g smält smör
+- 5 dl vetemjöl
+- 1 ägg
+- kryddnejlika, ingefära och kanel (>1 tsk av varje)
+
+1. Koka sirap, socker och tillsätt kryddorna.
+2. Låt svalna litet innan smöret rörs i.
+3. Låt svalna litet till och tillsätt uppvispat ägg.
+4. Tillsätt sist mjölet.
+
+## Fridlunds sockerkaka
+
+Tillagningstid 1 timme. Ugnstemperatur 200 ºC
+
+- 2 ägg
+- 1 kaffekopp socker
+- ½ kaffekopp vetemjöl
+- ½ kaffekopp potatismjöl
+- 1 rågad tsk bakpulver
+
+1. Vispa ägg och socker länge.
+2. Blanda vetemjöl, potatismjöl och bakpulver och rör ned i smeten.
+3. Häll i smord och bröad form och grädda i c:a ?? minuter.
+4. Låt svalna och servera inom någon dag.
 
 ## Flottyrringar
 
@@ -87,6 +140,29 @@ texten kompletterad av Harald L.
 2 hg smör, 1 3/4 dl socker, 1 matsked sirap, 1 matsked kanel, lite kardemumma, 1 äggula, 2 teskedar bikarbonat (hjorthornsalt), 4–5 koppar mjöl (5–6 dl)
 
 Smör och socker röres; de andra ingredienserna iblandas. Smöret smältes först och får kallna. Små runda kakor som tryckes till med en gaffel. (Kulor med 2 cm diameter. Ugn 200 grader, 10 minuter)
+
+
+## Fryst efterrättstårta »À la Ehrenmark« 
+
+12 bitar. Tillagningstid 1 timme
+
+  
+
+- 4 dl crème fraîche
+- 3 ägg
+- 2 dl strösocker
+- 1 tsk vaniljsocker
+- rivet skal av en citron
+- 3 dl vispgrädde
+- 6–8 digestivekex
+
+1. Krossa kexen och strö hälften av krosset på botten av en 1½-litersform med löstagbar botten.
+2. Skilj äggulor och vitor. Vispa äggvitor och grädde var för sig till skum.
+3. Blanda crème fraîche med äggulor, socker, vaniljsocker och citronskal i en stor skål.
+4. Rör försiktigt ned den vispade grädden och de vispade äggvitorna.
+5. Häll smeten i formen och strö över resten av de krossade kexen.
+6. Täck formen med plastfolie och ställ den i frysen.
+7. Efter 4–6 timmar är tårtan genomfryst och klar att servera efter ha att tinat ungefär en halvtimme i rumstemperatur.
 
 
 ## Gifflar (Dagmars receptsamling)
@@ -129,6 +205,26 @@ Ugnstemperatur 200–225ºC. 
 2. Degen rullas till fingertjocka längder.
 3. Dessa läggs på plåt och utplattas med gaffel så att de blir refflade på längden.
 4. Gräddas i 6–8 minuter och skäres tvärs över i 3–4 cm stora bitar.
+
+## Grova ringar
+
+30 st. Tillagningstid 1 timme. Ugnstemperatur 200ºC
+
+
+
+- 1½ dl rågmjöl
+- 5 dl rågsikt
+- drygt 1 tsk hjorthornssalt
+- 100 g smör
+- ½ dl sirap
+- 2 dl gräddfil
+
+1. Blanda alla torra ingredienser.
+2. Smula i smöret med fingrarna och rör till sist ned sirap och gräddfil.
+3. Tag upp degen på bakbordet och del den i 30 bitar.
+4. Rulla ut dem till längder och forma dem till avlånga ringar.
+5. Lägg dem ganska tätt – de flyter inte ut – på smord plåt.
+6. Grädda mitt i ugnen i 10–12 minuter.
 
 ## Haralds rågbröd (morfarsbröd)
 6 levar. Tillagningstid 2 dagar. Ugnstemperatur 200 ºC
@@ -176,19 +272,28 @@ Smält smöret och häll det över havregrynen i en skål. Blanda sedan i de and
 
 Värm ugnen till 175–200 grader. Rör smör och socker pösigt. Blanda i de andra ingredieserna. Rulla ut degen till fyra längder lika lång som plåten och lägg dem på smord plåt. Grädda c:a 10 minuter. Längderna flyter ut under gräddningen. Skär sneda kakor medan längderna är varma.
 
-## Knäck (Dagmars receptsamling)
 
-![matrecept-knäck-dagmar.png](./Images/matrecept-kn%C3%A4ck-dagmar.png)
+## Icas fina pepparkakor
 
-½ liter grädde, ½ liter sirap, ½ liter socker, 1 kaffekopp stötta skorpor, 1½ hg sötmandel. Grädden, sirapen och sockret hälles i denna ordning i en kastrull och får koka till smeten kännes tjock.
+?? st. Tillagningstid 2 timmar. Ugnstemperatur 175º –200ºC
 
-## Knäck. Enkel kola. Gräddkola. Praliner. Ischoklad (Konsum/Kooperativa, ur Dagmars receptsamling)
+  
 
-![matrecept-knäck-1.png](./Images/matrecept-kn%C3%A4ck-1.png)
+- 3 dl sirap
+- 4 dl socker
+- 1½ msk ingefära
+- 1½ msk kanel
+- 1 msk nejlikor
+- 1 msk pomeransskal
+- 350 g smör
+- 3 dl vispgrädde
+- c:a 1½ kg (2½ l) vetemjöl
+- 1 msk bikarbonat
 
-![matrecept-knäck-2-dagmar.png](./Images/matrecept-kn%C3%A4ck-2-dagmar.png)
-Odaterade recept från Konsum/Kooperativa
-
+1. Rör socker, sirap, kryddor och fett.
+2. Vispa grädden och blanda i.
+3. Lös bikarbonatet i vatten och blanda i det.
+4. Mjölet: spara minst ½ l.
 
 ## Judits pepparkakor. Nötkakor (Dagmars receptsamling)
 
@@ -242,6 +347,20 @@ Alla ingredienserna arbetas tillsammans till en smidig det som rullas till finge
 Något mer än strukna skedar.
 
 
+## Knäck (Dagmars receptsamling)
+
+![matrecept-knäck-dagmar.png](./Images/matrecept-kn%C3%A4ck-dagmar.png)
+
+½ liter grädde, ½ liter sirap, ½ liter socker, 1 kaffekopp stötta skorpor, 1½ hg sötmandel. Grädden, sirapen och sockret hälles i denna ordning i en kastrull och får koka till smeten kännes tjock.
+
+## Knäck. Enkel kola. Gräddkola. Praliner. Ischoklad (Konsum/Kooperativa, ur Dagmars receptsamling)
+
+![matrecept-knäck-1.png](./Images/matrecept-kn%C3%A4ck-1.png)
+
+![matrecept-knäck-2-dagmar.png](./Images/matrecept-kn%C3%A4ck-2-dagmar.png)
+Odaterade recept från Konsum/Kooperativa
+
+
 ## Kardemummakaka. Gunnels havrekakor. Alice kaffekaka (Dagmars receptsamling)
 
 ![matrecept-kardemummakaka-dagmar.png](./Images/matrecept-kardemummakaka-dagmar.png)
@@ -271,6 +390,68 @@ Något mer än strukna skedar.
 Rör **1 ägg** med **100 g smör** och **100 g socker** ett par minuter. Sätt till **1 struken tsk hjorthornsalt** upplöst i **1 msk kokande vatten** och arbeta in **300 g vetemjöl**.
 
 Låt degen stå kallt, helst till följande dag. Rulla ut degen i små längder, som formas till kransar vilka doppas i en blandning av **1 msk kanel** och **2 msk socker**. Medelvarm ugn.
+
+
+## Kristinatårta
+
+12 bitar?? Tillagningstid 1½ timme. Ugnstemperatur 175ºC
+
+  
+
+- 3 dl havregryn
+- 2 dl mjölk
+- 100 g margarin
+- 2 ägg
+- 2–3 bittermandlar
+- 1½ dl socker
+- 1 dl vetemjöl
+- 1 msk bakpulver
+
+1. Blanda havregryn och mjölk i en skål och låt svälla en stund.
+2. Smält matfettet och låt det svalna.
+3. Vispa ägg och socker pösigt och smaksätt med riven bittermandel.
+4. Blanda mjöl och bakpulver. Rör samman allt till en jämn smet.
+5. Häll smeten i en smord och bröad tvålitersform.
+6. Grädda kakan i c:a 30 minuter.
+
+## Kungälvspepparkaka
+
+3 längder. Tillagningstid ett par dagar. Ugnstemperatur 150ºC
+
+  
+
+- ½ kg mörk sirap
+- ½ hg smör
+- 1 tsk nejlikor
+- 1 tsk ingefära
+- 2 tsk hjorthornssalt
+- 2 tsk bikarbonat
+- 2 dl gräddfil
+- 8–10 dl rågsikt
+
+1. Ljumma sirapen och matfettet. Låt det svalna.
+2. Tillsätt sedan kryddor och jäsmedel utrörda i gräddfilen.
+3. Arbeta in rågsikten. Degen, som bör vara ganska lös, arbetas väl tills den blir smidig.
+4. Strö litet mjöl över, täck med duk och ställ kallt ett par dagar.
+5. Arbeta åter degen väl. Kavla ut den på smord plåt och dela i tre delar på längden.
+6. Grädda i 25–30 minuter.
+7. Låt längderna kallna på plåten. Skär dem i bitar.
+
+## Lägerbröd
+Gräddas över öppen eld, ev. i ugn. Ugnstemperatur 200ºC (TV-program januari 1984)
+
+- 6 dl vetemjöl
+- 3 tsk bakpulver
+- 1 tsk socker
+- 2 dl mjölk (eller torrmjölk och vatten)
+- 1 tsk salt
+- 1–2 msk smör
+
+1. Blanda ingredienserna och forma till en bulle.
+2. Gräv ett hål i marken, något större än grytan, och placera grytan i hålet.
+3. Lägg i bullen och lägg på lock.
+4. Strö het aska eller glöd runt om.
+5. Grädda i c:a 30 minuter.
 
 ## Majs herdinnor
 Möra, lättkavlade kakor med fin smak av kardemumma. Det går utmärkt att göra degen i matberedningsmaskin. Recept för cirka 3 bakplåtar.
@@ -359,6 +540,27 @@ C:a 40 st
 6. Låt karamellerna stelna.
 7. Smält blockchokladen och garnera varje kyss med en klick choklad.
 
+## Mjuk sommarpepparkaka på spisen
+
+C:a ?? st. Tillagningstid 1 timme
+
+  
+
+- 75 g margarin
+- 3 dl vetemjöl
+- 2 dl socker
+- 1 msk pepparkakskryddor
+- ½ tsk bikarbonat
+- 1½ dl filmjölk
+
+1. Smält matfettet och låt det svalna.
+2. Blanda mjölet med socker, kryddor och bikarbonat i en bunke.
+3. Slå över det avsvalnade fettet och filmjölken.
+4. Blanda snabbt ihop till en jämn smet och häll den i en väl smord och bröad kransform.
+5. Sätt en tyngd, t.ex. en femkrona, över hålet i mitten och täck formen omsorgsfullt med folie.
+6. Sätt formen i vattenbad som går högt upp runt kanterna utan att kakan hoppar omkring.
+7. Koka på svag värme i en timme och låt kakan svalna innan den stjälps upp.
+
 ## Morotskaka
 
 Ugnstemperatur 175ºC
@@ -371,6 +573,26 @@ Ugnstemperatur 175ºC
 - 1 dl olja
 - 1 tsk vaniljsocker
 - 1 tsk kanel
+
+## Möra, runda skorpor
+
+C:a 150 st. Tillagningstid 2 timmar. Ugnstemperatur 225ºC
+
+
+- 200 g matfett
+- 5 dl mjölk
+- 100 g jäst
+- 2 dl socker
+- 2 ägg
+- knappt 2 l vetemjöl
+
+1. Smält matfettet och häll i mjölken. Ljumma till 37º.
+2. Smula jästen i en degbunke, tillsätt socker och rör ut med degspadet och de uppvispade äggen.
+3. Arbeta i så mycket mjöl att degen blir fast och arbeta den sedan smidig. Låt jäsa i bunken.
+4. Tag upp degen på bakbordet. Baka ut den till bullar, platta till dem något och låt dem jäsa.
+5. Grädda mitt i ugnen.
+6. Dela dem med en gaffel mitt itu.
+7. Rosta dem guldgula i 100º–125º och låt dem torka i eftervärmen.
 
 
 ## Mördeg till paj. Spritsringar (Dagmars receptsamling)
@@ -525,6 +747,35 @@ _Beredning:_ Grädden, sirapen och sockret hällas i nu nämnda ordning i en jä
 
 _Beredning:_ Smöret röres med sockret till skum. Äggulorna tillsättas en i sänder, tillika med det väl torra och siktade mjölet och därefter den rensade frukten. Till sist nedskäras de till hårdt skum slagna hvitorna. Smeten slås i smort och brödbeströdd form; ofvanpå smeten läggas några tunt skurna succatskifvor. Kakan gräddas 2–3 timmar i medelmåttig ugnsvärme.
 
+
+## Pöskaka
+
+12 bitar. Tillagningstid 1 timme. Ugnstemperatur 175ºC
+
+
+- 1 dl varmt kaffe
+- 100 g margarin
+- 2 ägg
+- 1 dl socker
+- 1 dl sirap
+- 1–1½ tsk ingefära
+- 3 dl vetemjöl
+- 2 tsk bakpulver
+
+Glasyr:
+- 2 dl florsocker
+- ½ tsk vaniljsocker
+- 4 msk vispgrädde
+
+1. Smält matfettet i det varma kaffet.
+2. Vispa ägg, socker och sirap.
+3. Blanda mjöl och bakpulver. Rör samman allt till en jämn smet.
+4. Häll smeten i en smord och bröad kransform, 1½ liter.
+5. Grädda kakan i c:a 40 minuter.
+6. Blanda glasyren slät.
+7. Stjälp upp kakan och bred över glasyren medan den är varm.
+
+
 ## Sandbröd – flottyrringar – struvor (Dagmars receptsamling)
 
 ![matrecept-sandbröd-flottyrringar-struvor-dagmar.png](./Images/matrecept-sandbr%C3%B6d-flottyrringar-struvor-dagmar.png)
@@ -560,6 +811,69 @@ Ugnstemperatur 150ºC. Blir c:a 40 st.
 4. Grädda 10–12 minuter.
 5. Öppna luckan efter halva gräddningstiden.
 
+## Tekakor
+
+20 st. Tillagningstid 1½ timme. Ugnstemperatur 150ºC
+
+  
+
+- 25 g jäst
+- 100 g margarin
+- 5 dl mjölk
+- 1 dl surdeg
+- 1 dl sirap
+- (salt)
+- 18–19 dl vetemjöl
+
+1. Blanda samman degen, som skall vara ganska lös men ej kladdig.
+2. Jäs till dubbel storlek.
+3. Dela i 20 bitar och forma dem till bullar.
+4. Låt dem vila en stund, kavla ut till tekakor och jäs c:a 40 minuter.
+5. Nagga kakorna med gaffel och grädda c:a 10 minuter.
+
+## Tysk julkaka
+
+2 st. Ugnstemperatur 190ºC (tyskt skolradioprogram 17 december 1982)
+
+  
+
+Jäsdeg:
+- ½ kg vetemjöl
+- 50 g jäst
+- 1 1/4 dl mjölk
+- 100 g socker
+- 150 g smör
+- 1 ägg
+
+  
+
+Tillsatser:
+- 100 g sötmandel
+- 12 g bittermandel
+- 90 g russin
+- 90 g korinter
+- 80 g suckat
+- skalet av ½ citron
+- 2 msk rom
+- litet salt
+- 2 krm kanel
+- 1 krm kardemumma
+- 1 krm malda kryddnejlikor
+
+  
+
+Garnering:
+- smält smör
+- florsocker
+
+1. Skålla, skala och mal mandeln.
+2. Förbered alla tillsatser.
+3. Knåda ihop jäsdegen och tillsätt övriga ingredienser.
+4. Låt jäsa på varm plats.
+5. Lägg degen 2 st smorda avlånga formar.
+6. Grädda kakorna i c:a 80 minuter.
+7. Stjälp upp kakorna, pensla dem med smält smör och strö över florsocker.
+8. Förvara i lerkärl eller aluminiumfolie.
 
 ## Tårta (Dagmars receptsamling)
 
@@ -585,7 +899,53 @@ Smöret röres med sockret och de båda mjölsorterna arbetas in. Degen kavlas u
 
 Smöret röres tillsammans med sockret tills det blir pösigt. Äggen uppvispas och röres. Vaniljsocker och hjorthornssalt blandas med en del av mjölet och röres varefter resten av möjlet inarbetas. Kakorna göres runda. Gräddas i svag ugn.
 
+## Vimmerbykringlor
+
+60–70 kringlor, beroende på storlek
+
+- ½ l mjölk
+- 1 dl grädde
+- 50 g jäst
+- 200 g smör/margarin. Ta gärna hälften av varje
+- 2 ägg
+- 1 dl socker
+- vetemjöl till en inte allt för fast vetedeg
+
+  
+
+1. Smält fettet och ljumma mjölken.
+2. Blanda alla ingredienser och gör en vanlig, ej för hård vetedeg.
+3. Låt degen jäsa till dubbel storlek.
+4. Arbeta degen väl och rulla ut till kringlor. Lägg dem på bakduksklädd bricka eller plåt.
+5. Låt jäsa en stund.
+6. Sätt ugnen på 250 grader.
+7. Ha en gryta med kokande vatten beredd och lägg i några kringlor i sänder. De flyter upp meddetsamma. Ta upp kringlorna mede hålslev, lägg dem på en plåt och grädda i ugn 10 till 15 minuter.
+8. Ska du baka kringlorna efter gamla traditioner ska du ha råghalm på plåten under kringlorna. Kringlorna är inte så söta och som sagt mycket hållbara.
+
+Källa: Meny, vecka 48, 2008, Ingrid Svensson
+
+___
+
 # Kallrätter
+
+## Banan- och ananasglass
+4–6 portioner (mjölkpaket 19 juni 1988)
+
+- 3 äggulor
+- 1 dl socker
+- 2 dl mjölk
+- 2 bananer
+- 2 dl ananaskross, väl avrunnen
+- 2 dl vispgrädde
+
+1. Vispa ihop äggulor, socker och mjölk i en kastrull.
+2. Sjud blandningen tills den tjocknar, 2–3 minuter. Låt svalna.
+3. Mosa bananerna.
+4. Blanda äggsmeten med banan och ananas.
+5. Vispa grädden hårt och rör ned den.
+6. Häll smeten i en form och ställ den i frysen.
+7. Rör om några gånger under infrysningen som tar c:a 6 timmar.
+8. Tina i kylskåp 20–30 minuter före servering.
 
 ## Ethels smörgåstårta
 C:a 12–15 bitar (Vår bostad nr 5, 1997)
@@ -632,6 +992,49 @@ Garnering:
 14. Blanda crème fraîche och majonnäs och bred över och runt brödet. Garnera kanterna med gurka och citronskivor.
 15. Lägg räkorna i mitten av tårtan och sparrisen som en sol runt om, delade oliver runt kanterna samt till sist kaviar och dill.
 
+
+## Exotisk smörgåstårta
+
+C:a 8 bitar (Vår bostad nr 5, 1997)
+
+- 6 skivor vitt landgångsbröd
+- några ostskivor
+
+Fyllning 1:
+- ½ purjolök
+- ½ knippa persilja
+- 6 ägg
+- 3 msk mjölk
+- salt och peppar
+- margarin eller olja till stekning  
+
+Fyllning 2:
+- 3–5 hg räkor
+- 1 böckling eller annan rökt fisk
+- 1 mango
+- 2 dl gräddfil  
+
+Garnering:
+- 2 hg fårost
+- ½ dl gräddfil
+- 1 passionsfrukt
+- 1 carambola
+- grönsallad, gärna frisésallad
+
+1. Gör först en omelett:
+	1. Skölj och finstrimla purjolöken och hacka persiljan.
+	2. Vispa sönder äggen, blanda dem med mjölk, purjo, persilja samt salt och peppar.
+	3. Hetta upp litet fett i en stekpanna och grädda omelettsmeten.
+	4. Stick i smeten så att lös smet kan rinna ned och stelna.
+	5. Stjälp upp omeletten och låt den kallna.
+2. Skala räkorna och rensa fisken. Dela dem i mindre bitar.
+3. Skär loss kärnan och skalet på mangon, hacka c:a hälften av fruktköttet och blanda med räkor, fisk och gräddfil.
+4. Smula sönder fårosten till garneringen och blanda den med gräddfil.
+5. Täck de understa två brödskivorna med skivad ost och lägg på omeletten.
+6. Lägg på två skivor och bred över räkfyllningen.
+7. Lägg på de sista två skivorna och bred över fårost- och gräddblandningen.
+8. Skär resten av mangon i skivor. Dela och gröp ur passionsfrukten. Skär carambolan i skivor.
+9. Garnera tårtan med frukten och lägg strimlad sallad runt om.
 
 ## Festsmörgåstårta
 
@@ -687,6 +1090,197 @@ Garnering:
 9. Fyll mellanrummen med ostbitar samt skivor av gurka, rädisor och citron.
 10. Garnera med dillkvistar och lätt strimlad sallad omkring.
 
+## Italiensk smörgåstårta
+C:a 15 bitar (Vår bostad nr 5 1997)
+
+9 skivor landgångsbröd
+
+
+Fyllning 1:
+- 3 tomater
+- ½ rödlök
+- 1 1/4 hg mozzarellaost
+- 3/4 dl pesto
+
+  
+
+Fyllning 2:
+- 1 hg parmaskinka
+- 40 g marinerade soltorkade tomater
+- 70 g philadelphiaost
+- 1 dl lätt crème fraîche
+
+  
+
+Överdrag:
+- 1 1/4 hg cantadouost med vitlök
+- 130 g philadelphiaost
+- 1 dl lätt crème fraîche
+
+  
+
+Garnering:
+- 3 dl crème fraîche
+- ½ hg parmaskinka
+- ½ hg salami
+- cocktailkapris
+- svarta oliver
+- soltorkade tomater eller körsbärstomater
+- färskt basilikum
+- skivad gurka eller ruccolasallat
+- citronskivor
+
+1. Skölj och skär tomaterna i små tärningar. Hacka löken. Skär osten i små tärningar.
+2. Blanda allt med pesto.
+3. Strimla skinka och tomater. Blanda med ost och lätt crème fraîche.
+4. Skär bort kanterna på brödet. Lägg tre brödskivor bredvid varandra.
+5. Bred över första fyllningen och täck med tre brödskivor.
+6. Bred på andra fyllningen och täck med de sista brödskivorna.
+7. Blanda cantadou, philadelphiaost och lätt crème fraîche.
+8. Bred blandningen över de tre översta skivorna.
+9. Vispa vanlig crème fraîche (lätt går inte att vispa) samt bred och spritsa den runt kanterna.
+10. Garnera med skinka, salami, oliver, kapris, basilikum, tomater, gurka/sallat och citronskivor.
+
+## Lax- och krabbtårta
+
+C:a 10 bitar (Vår bostad nr 5, 1997)
+
+4 runda smörgåstårtbottnar
+  
+
+Fyllning 1:
+- 200 g krabba eller crabfishbitar
+- 1 dl majonnäs
+- 1 dl crème fraîche
+- ½ dl finklippt dill
+- 2 krm salt
+- 1 krm vitpeppar
+
+
+Fyllning 2:
+- 2 hg gravad lax
+- 1–2 dl gravlaxsås
+
+  
+
+Överdrag:
+- 6 hårdkokta ägg
+- 100 g smör el. margarin
+
+  
+
+Garnering:
+- 5 hg räkor
+- 1 citron
+- 2 tomater
+- ½ gurka
+- 2 hg rökt lax
+
+1. Hacka krabba eller crabfishbitar.
+2. Blanda samman allt till fyllningen.
+3. Bred hälften på den understa botten. Lägg på nästa.
+4. Skär laxen i små bitar och blanda med såsen.
+5. Bred på andra botten.
+6. Lägg på nästa botten och resten av första fyllningen.
+7. Täck med sista botten, lägg över plastfolie och låt stå svalt några timmar.
+8. Skala och mosa äggen samt blanda dem med rumsvarmt matfett.
+9. Bred blandningen ovanpå och på sidorna av tårtan.
+10. Skala räkorna, skiva citroner och gurka samt skär tomaterna i klyftor.
+11. Forma laxskivorna till rosor och lägg runt kanten av tårtan.
+12. Lägg räkorna i mitten med citron och tomat emellan.
+13. Täck sidorna med gurkskivor och dekorera till sist med några dillkvistar.
+
+## Ljuvliga smörgåstårtan
+C:a 15 bitar (Vår bostad nr 5, 1997)
+
+27 skivor formbröd
+
+
+Fyllning 1:
+- 1½ hg böcklingpastej
+- 3 msk vispgrädde
+- ½–1 dl hackad dill
+- salt och peppar  
+
+Fyllning 2:
+- 2 ägg
+- 1 tub (1 hg) kaviar
+- ½ dl majonnäs
+- 1 msk finhackad lök  
+
+Garnering:
+- c:a 2 dl crème fraîche
+- 1 gurka
+- 10 rädisor
+- 1 grön paprika
+- 1 burk svart kaviar
+- citron
+- salladsblad, gärna frisésallad
+
+1. Rör ut böcklingpastejen med grädde och smaksätt med dill, salt och peppar.
+2. Hårdkoka äggen till nästa fyllning, spola dem kalla, skala och hacka dem.
+3. Blanda hacket med kaviar, majonnäs och lök.
+4. Skär bort kanterna på brödet. Lägg ut nio skivor i fyrkant.
+5. Bred över första fyllningen. Lägg på ett nytt lager bröd och nästa fyllning. Täck med resten av brödet.
+6. Bred crème fraîche över och runt hela tårtan.
+7. Skär gurkan i tunna skivor och garnera kanterna med den.
+8. Skölj rädisor och paprika.
+9. Skiva rädisorna och hacka paprikan.
+10. Gör snedränder av rädisor, paprika och svart kaviar.
+11. Lägg strimlad sallad och citronskivor runt om.
+
+## Midsommarsmörgåstårta
+4–5 bitar (Vår bostad nr 5, 1997)
+
+- 4 tunna skivor kavring, skurna på längden
+- 2 hg philadelphiaost
+- 10 matjesfiléer
+- 5 kokta, kalla färskpotatisar
+- 2 dl crème fraîche
+- 1 knippa gräslök
+- några dillkvistar
+- ev. smör till brödet
+
+1. Bred philadelphiaost över brödskivorna.
+2. Hacka hälften av sillen och bred den på tre av brödskivorna.
+3. Lägg samman skivorna och täck med den fjärde brödskivan.
+4. Bred crème fraîche ovanpå och runt om brödet.
+5. Hacka och strö gräslök ovanpå och på sidorna.
+6. Skiva potatisen och resten av sillen.
+7. Lägg skivorna ovanpå tårtan och garnera med dill.
+
+## Oslagbara smörgåstårtan
+8 bitar (Vår bostad nr 5, 1997)
+
+  
+- 12 skivor vitt formbröd
+- smör
+- 2 ägg
+- 1 äpple
+- 1–2 burkar (à 125 g) makrill i tomatsås
+- 1 dl gräddfil
+- 1 dl majonnäs
+- 2 msk hackad dill
+
+
+Garnering:
+- citronmajonnäs i tub
+- 1 hg rensade räkor (c:a 15 st)
+- 1 burk röd eller svart storkornig kaviar
+- citron
+- dill
+- några salladsblad
+
+1. Hårdkoka äggen, spola dem kalla, skala och hacka.
+2. Hacka äpplet. Mosa sönder makrillen.
+3. Blanda ägg, äpple, makrill, gräddfil, majonnäs och dill.
+4. Bred litet smör på brödet. Lägg fyra brödskivor intill varandra i fyrkant.
+5. Bred över hälften av fyllningen. Lägg på fyra nya skivor och resten av fyllningen. Täck med de sista fyra skivorna.
+6. Svep plastfolie om och ställ svalt, gärna över natten.
+7. Spritsa citronmajonnäsen i ett rutmönster ovanpå tårtan.
+8. Lägg räkor i hälften av rutorna och kaviar i resten.
+9. Garnera med citronskivor och dillkvistar.
+10. Lägg sallad runt tårtan.
 
 ## Skagenpastasallad
 
@@ -698,13 +1292,54 @@ Garnering:
 
 Lägg upp ingredienserna på tallriken och strö fetaosten över.
 
+## Sommarkräm
+För 2 personer
+
+- 2 dl kallt vatten
+- 1 dl saft
+- 1½ msk potatismjöl
+- 1 mugg sommarbär
+
+1. Blanda saft, vatten och potatismjöl i en kastrull.
+2. Värm under omrörning till första bubblan.
+3. Tag kastrullen av värmen och rör i bären.
+
+## Studentens smörgåstårta
+25–30 bitar (Vår bostad nr 5, 1997)
+
+20 tunna skivor kavring, skurna på längden
+  
+Fyllning 1:
+- 4 burkar (à 200 g) tonfisk i vatten
+- 3 gula lökar
+- riven pepparrot
+  
+Fyllning 2:
+- 3 purjolökar
+- 5 hg böcklingpastej  
+
+Garnering:
+- 1 l crème fraîche
+- 5 hg philadelphiaost
+- 1 burk röd storkornig kaviar
+- 1 burk svart storkornig kaviar
+- citronskivor
+
+1. Låt tonfisken rinna av och mosa den. Skala och finhacka löken.
+2. Blanda tonfisk och lök och smaksätt med pepparrot.
+3. Lägg sex skivor kavring bredvid varandra och fördela fyllningen över.
+4. Lägg fyra skivor tvärs över fyllningen.
+5. Skölj och finstrimla purjolöken. Blanda den med böcklingpastejen.
+6. Bred fyllningen över brödet. Lägg sex skivor bröd tvärs över.
+7. Lägg på ett nytt lager bröd. Täck alltsammans väl med folie och låt stå svalt över natten.
+8. Blanda crème fraîche och philadelphiaost och bred ovanpå och runt kanterna på tårtan.
+9. Garnera med svart och röd kaviar samt citronskivor.
 
 # Varmrätter
 
 ## Arianes köttfärssås
 
-120 g mager nötfärs
-
+- 120 g mager nötfärs
 - 1 tsk olja
 - pressad vitlök
 - ½ gul lök
@@ -781,6 +1416,27 @@ Bred lite av fyllningen på varje pannkaka och vik ihop eller rulla ihop dem. L�
 6. Häll i c:a 3/4 dl smet till varje våffla.
 7. Grädda guldgula våfflor och lägg dem på galler.
 
+
+## Flygande Jacob
+
+4 personer. Ugnstemperatur 225ºC
+
+- 4 portioner ris
+- 1 grillad kyckling
+- ½ tsk italiensk salladskrydda
+- 3 bananer
+- 3 dl grädde
+- ½–1 dl chilisås
+- salt och peppar
+- 1 paket bacon
+- 1 dl jordnötter
+
+1. Koka riset och lägg i botten av en eldfast form eller långpanna.
+2. Bena ur och strimla kycklingen, lägg över riset och krydda.
+3. Skala och skiva bananerna och lägg dem över kycklingen.
+4. Vispa grädden, blanda i chilisås och bred blandningen över formen.
+5. Lägg över baconstrimlor och jordnötter.
+6. Gratinera i c:a 20 minuter.
 
 ## Frasvåfflor med grädde
 8–10 laggar
@@ -862,7 +1518,23 @@ Jordnötssås:
 
 Tillbehör: kokt vitt ris och naturell salladskål.
 
+## Gröt
+1 portion (Annika Sundin 12 juni 1987)
 
+
+- 1 dl havregryn
+- 1 msk kruskakli
+- 1 msk vetegroddar
+- ½ msk linfrö
+- 1 msk russin
+- ½ banan, skivad
+- 2 ½ dl vatten (eller mer)
+
+1. Blanda allt i en kastrull.
+2. Koka upp på ej för stark värme.
+3. Låt puttra i 3 minuter.
+4. Servera med mjölk.
+5. Bananen kan bytas ut mot rivet äpple eller annan frukt.
 
 ## Haralds köttmoja – köttfärssås
 6 portioner. Tillagningstid 1 timme
@@ -942,6 +1614,48 @@ Tillbehör: kokt vitt ris och naturell salladskål.
 *Källa: Irene*
 
 
+## Kasslergratäng
+
+4 personer. Ugnstemperatur 225ºC
+
+  
+- 6 portioner ris
+- 400 g kassler
+- 1 liten purjolök
+- 3 dl grädde
+- 3/4 dl majonnäs
+- 3/4 dl chilisås
+- 1 burk skivad ananas
+- 2–3 dl riven ost
+
+1. Koka riset och lägg i en ugnsfast form.
+2. Skiva kasslern, bräck skivorna och lägg dem över riset i formen.
+3. Lägg på ananasskivor och skivad purjolök.
+4. Vispa grädden och blanda i majonnäs och chilisås.
+5. Häll blandningen i formen och strö över riven ost.
+6. Gratinera i c:a 20-25 minuter.
+
+## Kinesisk kål med svamp
+
+4 portioner (ICA-kuriren nr 3, 1982)
+
+- 4 msk olja
+- ½ tsk salt
+- 100 g svamp
+- 1 huvud kinesisk kål
+- 2 msk soja
+- 1 tsk socker
+- 1 dl vetemjöl
+- 2 msk vatten
+
+1. Skär kålen i bitar och svampen i halvor.
+2. Hetta upp oljan i pannan. Salta.
+3. Lägg i svampen och rör om.
+4. Tillsätt kålen och sänk värmen.
+5. Tillsätt soja, socker och vatten.
+6. Lägg på lock och låt stå på svag värme i 5 minuter.
+7. Vattnet ska nästan koka in.
+
 ## Kolbász (Iréns köttkorv)
 
 - 1 kg köttfärs
@@ -954,6 +1668,211 @@ Tillbehör: kokt vitt ris och naturell salladskål.
 
 1. Blanda allt och låt smeten vila minst 3 timmar.
 2. Stoppa i fjälster.
+
+
+## Lövbiffsgratäng
+
+4 personer. Ugnstemperatur 225º–250ºC
+
+
+- 4 portioner ris
+- 400 g lövbiff
+- 1–2 gula lökar
+- 200 g champinjoner på burk
+- 1 påse béarnaisesås
+- 2–3 dl riven ost
+
+1. Koka riset.
+2. Strimla och stek lövbiffen. Lägg bitarna i en eldfast form.
+3. Bryn lök och champinjoner tillsammans i stekpannan.
+4. Lägg blandningen över lövbiffen och lägg riset överst.
+5. Koka upp béarnaisesåsen och häll den över. Strö över riven ost.
+6. Gratinera i c:a 20 minuter.
+
+## Mustig morotssoppa
+(Annika Sundin 9 februari 1988)
+
+
+- 3 skalade morötter
+- 2 gula lökar
+- 4 tomater
+- olja
+- solroskärnor
+- 1 buljongtärning
+- 1 l vatten
+- peppar
+- salt
+- ingefära
+
+1. Skär lök och tomater fint och riv morötterna.
+2. Fräs löken mjuk i oljan, ganska länge.
+3. Pudra litet ingefära över.
+4. Öka värmen, tillsätt mera olja och fräs igenom morötterna en bra stund.
+5. Häll i tomater och solroskärnor mot slutet.
+6. Späd med buljong, salta och krydda.
+7. Låt koka en stund.
+
+## Nettans lilla varma smörgåstårta
+
+C:a 4 bitar. Ugnstemperatur 225ºC (Vår bostad nr 5, 1997)
+
+- 6 skivor vitt landgångsbröd
+- 4–5 dl riven, lagrad ost
+- 2–3 tomater
+- persilja
+
+Fyllning 1:
+- smör eller margarin
+- 1 gul lök
+- 1 paket bacon
+- c:a 2 hg kantareller
+- 2–3 msk pepparrot
+- 1 msk vetemjöl
+- 2 dl matlagningsgrädde
+- salt och peppar
+
+
+Fyllning 2:
+- 4 hårdkokta ägg
+- 1 knippa dill
+- 1½ dl majonnäs
+- salt och peppar
+
+1. Skala och hacka löken. Skär bacon i tärningar och dela svampen i bitar.
+2. Bryn bacon, lök och svamp under omrörning i en stekpanna.
+3. Smaksätt med pepparrot.
+4. Strö över mjölet, rör om och späd med grädden.
+5. Låt koka upp och sjuda ett par minuter.
+6. Smaka av med salt och peppar och låt svalna.
+7. Skala och hacka äggen. Hacka dillen.
+8. Blanda hacket med majonnäs och smaka av med salt och peppar.
+9. Lägg två brödskivor på en plåt med bakplåtspapper och täck med baconfyllningen.
+10. Lägg två skivor ovanpå och bred över äggfyllningen.
+11. Lägg på de översta skivorna och strö över osten.
+12. Skiva tomaterna och lägg på dem.
+13. Sätt in i övre delen av ugnen och grädda tills osten smält och fått litet färg.
+14. Dekorera med persilja.
+
+
+## Pastagratäng
+
+4 personer. Ugnstemperatur 250ºC
+
+  
+
+- 4 portioner kokt pasta
+- 200 g champinjoner på burk (inkl. spad)
+- 2 msk margarin
+- 2½ msk vetemjöl
+- 2 dl mjölk
+- 1 dl vispgrädde
+- ½ tsk salt
+- 2 krm svartpeppar
+- 3 tomater
+- 2 dl riven ost
+
+1. Lägg pastan i en smord ugnssäker form.
+2. Fräs svampen. Strö över mjölet och rör om.
+3. Späd med svampspad, mjölk och vispgrädde.
+4. Koka på svag värme c:a 10 minuter Smaka av med salt och peppar.
+5. Bred stuvningen över pastan.
+6. Skiva tomaterna och lägg dem ovanpå. Strö över osten.
+7. Gratinera i 10–15 minuter.
+
+
+## Porterstek
+
+12 portioner. Tillagningstid 3 timmar
+
+  
+
+- 1½ kg benfritt nötkött (bog, fransyska, ytterlår)
+- 1 flaska porter
+- ½–1 dl outspädd svartvinbärssaft
+- 1 dl soja
+- 1 tsk timjan
+- 5–6 enbär
+- 5–6 svartpepparkorn
+- 2–3 köttbuljongtärningar
+- 2 vitlöksklyftor
+- 1 stor, gul lök
+
+
+
+Sås:
+- 8 dl sky
+- 5 msk vetemjöl
+- 2 dl grädde
+
+1. Välj en gryta så stor att termometer och kött lagom får plats.
+2. Häll i porter, saft och soja.
+3. Lägg i kryddor, buljongtärningar, ituskurna vitlöksklyftor och gul lök delad i stora bitar.
+4. Koka upp. Stick in en köttermometer i steken så att spetsen kommer mitt i den tjockaste delen. Hela röret bör vara inne.
+5. Lägg köttet i lagen. Låt alltsammans sakta sjuda under lock. Vänd på steken en gång under kokningen.
+6. Tag grytan från värmen när innertemperaturen är 75º (ytterlår 85º) efter 1½–2 timmar. Låt steken ligga 20 minuter i skyn innan den skärs upp.
+7. Rör ut vetemjölet i litet av grädden. Koka upp grädden tillsammans med skyn.
+8. Rör ner redningen och låt såsen koka 3–5 minuter.
+
+## Raggmunk med kornmjöl
+
+4 portioner. Tillagningstid 45 minuter
+  
+
+- 3 stora potatisar
+- 2 ägg
+- 3 dl mjölk
+- 2 dl kornmjöl
+- 1 tsk salt
+- fläskflott, smör eller margarin
+
+1. Skölj och skala potatisen.
+2. Riv den grovt på rivjärn.
+3. Vispa samman ägg, mjölk, kornmjöl och salt.
+4. Blanda ned potatisen i äggsmeten.
+5. Hetta upp fett i en stekpanna och stek raggmunkarna frasiga.
+6. Servera med lingonsylt, strimlad vitkål och stekt fläsk.
+
+## Renskavsgryta
+
+2–3 portioner. Tillagningstid ½ timme. Mikrovågsugn
+
+  
+
+- 250 g renskav
+- ½ tsk salt
+- 1 krm peppar
+- 2 tsk vetemjöl
+- 1½ dl buljong
+- 1½ dl gräddmjölk
+- ½ dl råröda lingon
+- syltlökar
+- soja
+
+1. Tina och ta isär köttet med gaffel.
+2. Tillsätt salt, peppar och vetemjöl.
+3. Rör om och blanda ner de övriga ingredienserna.
+4. Värm på full effekt (750 W) i sju minuter. Rör om någon gång under tiden.
+5. Servera med potatismos, kokt potatis eller ris samt grönsaker.
+
+## Tagliatelle
+4 personer (UNT 5 augusti 1982)
+
+  
+
+- 450 g vetemjöl
+- 5 ägg
+- 1 tsk salt
+- 2 msk olivolja
+- 2 msk kallt vatten
+
+1. Blanda ingredienserna med en gaffel tills degen går att forma till en boll (tillsätt ev. mera vatten).
+2. Knåda degen c:a 15 minuter så att den blir elastisk.
+3. Dela den i 6 delar.
+4. Kavla på mjölat bakbord ut bitarna till långa tunna plattor. Använd rikligt med mjöl så att degen inte fastnar.
+5. När plattan är tillräckligt tunn, dofta över mjöl och rulla till en lös rulle.
+6. Skär den sedan i halvcentimeterbreda remsor.
+7. Sära på degremsorna och låt dem ligga kvar och torka några minuter.
+8. Koka i rikligt med saltat vatten 1–1½ minut.
 
 ## Vardagsenkla våfflor
 
@@ -1059,7 +1978,9 @@ Sätt ugnen på 175 grader. Varmluft fungerar och kan vara fördelaktigt om du v
 - 0,5 till 1 matsked vinäger, t.ex. balsamvinäger
 
 ### Gör så här
+
 ![DSC_0092-gk1](https://github.com/carlrobert/matrecept/assets/4598641/9954673d-5783-46ad-8744-825d687c1c3e)
+Klart att värma
 
 1. Om grönkålen behöver sköljas, torka den lite innan du gör vid den
 1. Beräkna mängden grönkål genom att fylla långpannan med grovriven grönkål
@@ -1073,6 +1994,8 @@ Sätt ugnen på 175 grader. Varmluft fungerar och kan vara fördelaktigt om du v
 1. Häll direkt från bakplåtsduk till serveringsskål så går chipsen inte sönder så mycket :)
 
 ![DSC_0093-gk2](https://github.com/carlrobert/matrecept/assets/4598641/a5906134-7f67-4116-932b-56c60acb134e)
+Serveringsklart
+
 ## Inlagd gurka
 
 4 kg gurkor  
@@ -1092,9 +2015,25 @@ Lägg gurkorna i saltlake c:a 10 timmar: 100 g salt per kilo gurka. Häll bort s
 Koka upp lagen och låt den kallna. Lägg gurkorna i lagen.
 
 
-___
+## Müsli
+Ugnstemperatur 150ºC
 
-TODO: Fortsätt från Ljuvliga smörgåstårtan: [Storlind](https://storlind.blogspot.com/?m=1)
+
+- 2 dl havregryn
+- 2 dl rågflingor
+- 1 dl vetegroddar
+- 1 dl vetekli
+- 1 dl linfrö
+- 1 dl hackade hasselnötter
+- ½ kaka knäckebröd
+- 3 msk honung
+
+1. Kavla knäckebrödet i en plastpåse.
+2. Blanda allt utom honung i en långpanna.
+3. Värm honungen och ringla över den.
+4. In med müslin i ugnen c:a 20 minuter.
+5. Rör om då och då under rostningen.
+
 ## Pizzasallad
 
 ### Ingredienser
@@ -1117,6 +2056,23 @@ TODO: Fortsätt från Ljuvliga smörgåstårtan: [Storlind](https://storlind.blo
 5. Låt stå svalt åtminstone tio minuter
 
 *Salladen håller minst en vecka i kylen*
+
+## Rödbetor (röbedor)
+
+Tillagningstid 1 timme
+
+  
+- 1½ dl ättiksprit
+- 5 dl vatten
+- 1½ dl socker
+- 5 nejlikor
+- 1 tsk natriumbensoat
+- (vitlök)
+- (senapsfrö)
+- 10 kryddpepparkorn
+- ½ lagerblad
+- pepparrot
+
 ## Rödkål
 Tillagningstid 2 timmar
 ### Ingredienser
@@ -1138,3 +2094,69 @@ Tillagningstid 2 timmar
 2. Tag bort det grövsta på äpplena och lägg i äpplen och lök i kålen
 3. Blanda ner resten av ingredienserna medan kålen kokar
 
+## Salta pinnar
+
+Ugnstemperatur 200ºC
+
+- 175 g smör
+- 25 g jäst
+- 2 dl vatten
+- 1 msk salt
+- 1 tsk socker
+- ½ dl parmesanost
+- 11 dl vetemjöl
+
+
+Garnering:
+- grovt salt
+
+1. Smält smöret, blanda i vattnet och värm till 37ºC.
+2. Smula sönder jästen i en degbunke.
+3. Häll i hälften av degspadet och rör om.
+4. Tillsätt resten av spadet och övriga ingredienser.
+5. Arbeta degen smidig och låt den jäsa i c:a 40 minuter.
+6. Rulla degen till pinnar som får jäsa på plåt i c:a 20 minuter.
+7. Pensla med vatten och strö på grovt salt.
+8. Grädda i 15-20 minuter.
+9. Låt kallna på galler utan bakduk.
+
+
+## Slånsaft
+
+Tillagningstid en vecka (c:a 2 timmar)
+
+
+- 500 g socker per liter saft
+- kaliumsorbat eller natriumbensoat q.s.
+
+1. Lägg slånbären i en hink och fyll vatten så att det precis täcker bären.
+2. Koka upp vattnet, begjut bären och låt dem stå i 1–3 dygn.
+3. Upprepa proceduren två gånger. Det hela bör ta mindre än en vecka sammanlagt.
+4. Sila av saften, koka upp den och skumma av med hålslev eller skumningsslev. Skummet kan användas som smaksättning t.ex. i yoghurt.
+5. Tillsätt socker.
+6. Rör ut kaliumsorbat i en halv deciliter saft. Ta kastrullen från spisen innan konserveringsmedlet rörs i noga.
+7. Låt saften svalna något innan den hälls på rena, värmda flaskor.
+
+## Örtpastej
+- 2 dl solrosfrön
+- ½ dl sesamfrö
+- ½ dl sötmandel
+- 1–2 knippor dill
+- ½ gul lök
+- ½ tsk timjan
+- ½ tsk kyndel
+- 2–2½ msk tomatpuré
+- 2–3 tsk äppelcidervinäger
+- 3/4–1 dl buljong
+- 1 msk soja
+
+1. Mal frön, mandel och lök och häll i en skål.
+2. Hacka dill och stöt örtkryddorna fint.
+3. Blanda i kryddorna och rör massan slät.
+4. Tomatpurén kan bytas ut mot finriven morot.
+
+___
+Kuriosa: 212 g = 1 mark = ½ skålpund
+
+
+FORTSÄTT från Korngrynspannkaka: [Storlind](https://storlind.blogspot.com/?m=1)
