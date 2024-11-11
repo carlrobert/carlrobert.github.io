@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-09 09:19
+updated: 2024-11-11 19:21
 title: Matrecept
 nav_order: 2
 layout: default
@@ -38,6 +38,34 @@ Smaksätt med rivet citron. Ganska svag värme, 175 grader, 40 minuter
 ### Naemis kaka
 
 1 ägg, 2 dl mjöl, 2 dl socker, 1 tsk bakpulver, 1 dl smält smör. Äpplen ovanpå.
+
+
+## Agnetas skållade bröd
+
+3 längder. Tillagningstid 2 dagar. Ugnstemperatur 200ºC
+
+  
+Skållning:
+- 5 dl kokande vatten
+- 1–2 msk kryddor
+- 2½ dl vetemjöl
+- 6½ dl grovt rågmjöl
+
+  
+
+Utbakning:
+- 25 g jäst
+- 1 dl ljummet vatten
+- 3 dl surdeg
+- ½ dl sirap
+- 1 dl grovt rågmjöl
+- 3–6 dl vetemjöl
+
+1. Häll kokande vatten över de övriga ingredienserna. Arbeta ihop till en deg som får stå över natten.
+2. Blanda ned jäst utrörd i vatten, surdeg, sirap, rågmjöl samt vetemjölet litet i sänder.
+3. Låt jäsa en timme.
+4. Dela degen i tre delar. Forma runda bullar som får jäsa c:a 45 minuter.
+5. Grädda c:a 45 minuter.
 
 ## Bakpulverskorpor
 
@@ -80,6 +108,36 @@ C:a 100 st. Tillagningstid 2 timmar. Ugnstemperatur 250ºC
 
 Smöret och sockret röres och sirapen tillsättes jämte kryddorna och ägget. Sist tillsättes mjölet vari bikarbonaten förut blivit blandad. Kavlas ut tunt och gräddas i god värme.
 
+## Engelsk fruktkaka
+
+14–16 skivor. Tillagningstid c:a 90 minuter (20 minuter). Ugnstemperatur 150ºC. Ett av Haralds favoritrecept.
+
+
+  
+
+- 200 g smör eller margarin
+- 2½ dl socker
+- 4 ägg
+- 3½ dl vetemjöl
+- ½ tsk bakpulver
+- Ev. 5–10 cl konjak/sherry
+
+  
+
+Smaktillsatser:
+- 2 dl russin
+- 1 dl syltat, hackat apelsinskal
+- 1 dl hackat suckat
+- 10 syltade, röda cocktailbär
+
+1. Rör matfett och socker poröst.
+2. Tillsätt äggen, ett i sänder, under fortsatt omrörning.
+3. Blanda ner smaktillsatserna i mjölet så sjunker de inte så mycket vid gräddningen.
+4. Sikta ned mjölet blandat med bakpulvret.
+5. Häll smeten i väl smord och brödbeströdd form.
+6. Lägg ett foliepapper över formen.
+7. Grädda kakan i c:a 75 minuter. Tag bort folien efter 30 minuter.
+
 
 ## Evas pepparkakor
 
@@ -98,6 +156,29 @@ Smöret och sockret röres och sirapen tillsättes jämte kryddorna och ägget. 
 3. Låt svalna litet till och tillsätt uppvispat ägg.
 4. Tillsätt sist mjölet.
 
+
+## Finska hålkakor
+
+4 st. Tillagningstid 2½ timme. Ugnstemperatur 225ºC
+
+
+- 1 msk smör
+- 25 g jäst
+- 5 dl vatten
+- 2 dl surdeg
+- 1 msk stött kummin
+- 1 l fint rågmjöl
+- c:a 5 dl vetemjöl
+
+1. Smält smöret och värm vätskan till 37º.
+2. Smula jästen och tillsätt krydda, surdeg, degspad och rågmjöl.
+3. Arbeta in det mesta av vetemjölet tills degen är fast och jämn.
+4. Låt jäsa c:a 50 minuter.
+5. Tag upp degen och forma fyra runda bullar som kavlas ut till 18 cm i diameter.
+6. Tag ut ett hål i mitten och nagga med gaffel.
+7. Låt jäsa på plåten i 30 minuter.
+8. Grädda mitt i ugnen i 15–20 minuter.
+
 ## Fridlunds sockerkaka
 
 Tillagningstid 1 timme. Ugnstemperatur 200 ºC
@@ -112,6 +193,29 @@ Tillagningstid 1 timme. Ugnstemperatur 200 ºC
 2. Blanda vetemjöl, potatismjöl och bakpulver och rör ned i smeten.
 3. Häll i smord och bröad form och grädda i c:a ?? minuter.
 4. Låt svalna och servera inom någon dag.
+
+
+## Frilufsare
+
+C:a ?? st. Tillagningstid ½ timme
+
+  
+
+- ¾ dl socker
+- 3 dl vetemjöl
+- 1 tsk bakpulver
+- 1 tsk vanillinsocker
+- 1 ägg
+- 1½ dl mjölk
+- smör eller margarin till stekning
+- strösocker till garnering
+
+1. Blanda de torra ingredienserna i en bunke.
+2. Rör ner ägg och mjölk och vispa snabbt ihop tills smeten är jämn.
+3. Kakorna kan gräddas i en stekpanna på spisen eller på stormkök om man är ute i naturen.
+4. Smält matfettet i pannan.
+5. Klicka ut smeten med två skedar och grädda ett par minuter på varje sida.
+6. Vänd de färdiggräddade kakorna i socker. Servera dem varma med sylt.
 
 ## Flottyrringar
 
@@ -206,6 +310,33 @@ Ugnstemperatur 200–225ºC. 
 3. Dessa läggs på plåt och utplattas med gaffel så att de blir refflade på längden.
 4. Gräddas i 6–8 minuter och skäres tvärs över i 3–4 cm stora bitar.
 
+
+## Goda vardagsrutor
+
+24 bitar. Tillagningstid 1 timme. Ugnstemperatur 200ºC (Ur Mat-Land n:r 13, 1985)
+
+  
+
+- 3 dl havregryn
+- 2 dl rågflingor
+- 1 dl grahamsgryn
+- 50 g smör el. margarin
+- 5+2 dl vatten
+- 50 g jäst
+- 2 msk sirap
+- 1 krm salt
+- c:a 12 dl lantvetemjöl
+
+1. Mät upp havregryn, rågflingor, grahamsgryn och matfett i en bunke.
+2. Slå över 5 dl kokande vatten och rör om. Låt blandningen svalna knappt ½ timme till fingervärme.
+3. Blanda i sirap, salt och jästen utrörd i 2 dl kallt vatten.
+4. Arbeta in vetemjölet till en stadig deg.
+5. Låt jäsa under bakduk i 30 minuter.
+6. Knåda degen slät i bunken. Stjälp upp degen på smord bakplåt.
+7. Mjöla degen litet och kavla sedan ut den så att den täcker plåten.
+8. Dela med bakskrapa i 24 delar. Låt brödet jäsa c:a 30 minuter.
+9. Grädda i c:a 30 minuter.
+
 ## Grova ringar
 
 30 st. Tillagningstid 1 timme. Ugnstemperatur 200ºC
@@ -264,6 +395,30 @@ Smält smöret och häll det över havregrynen i en skål. Blanda sedan i de and
 1 kaffekopp smält smör, 1 kaffekopp socker, 3 kaffekoppar havregryn, (lite mjöl)
 
 
+## Havrekex
+
+?? st. Tillagningstid 2 timmar. Ugnstemperatur 200ºC
+
+  
+
+- 100 g margarin
+- ½–1 dl socker
+- 1 ägg
+- 3 msk vatten
+- 6 dl (200 g) havregryn
+- 3 dl (150 g) vetemjöl
+- 2 tsk bakpulver
+
+1. Rör margarin och socker mjukt och smidigt i en skål.
+2. Tillsätt ägget och det kalla vattnet, havregrynen och till sist mjölet blandat med bakpulvret. Tag i litet efter hand i degen, så att den blir jämn och fin.
+3. Tag upp degen på bakbordet och arbeta den tills den hänger samman.
+4. Kavla en bit i taget med brödkavel – strö bra med mjöl på bakbordet och kaveln.
+5. Tag ut käx med hjärtmått eller runt mått och lägg dem ganska tätt på smord plåt.
+6. Pricka dem med en gaffel, så bubblar de inte upp.
+7. Grädda käxen mitt i ugnen tills de är gulbruna.
+8. Lossa dem med en bred kniv och lägg dem på galler tills de svalnat.
+9. Förvara dem i burk med lock.
+
 ## Havresnitt c:a 45 st, goda (Dagmars receptsamling)
 
 ![matrecept-havresnitt-dagmar.png](./Images/matrecept-havresnitt-dagmar.png)
@@ -272,6 +427,30 @@ Smält smöret och häll det över havregrynen i en skål. Blanda sedan i de and
 
 Värm ugnen till 175–200 grader. Rör smör och socker pösigt. Blanda i de andra ingredieserna. Rulla ut degen till fyra längder lika lång som plåten och lägg dem på smord plåt. Grädda c:a 10 minuter. Längderna flyter ut under gräddningen. Skär sneda kakor medan längderna är varma.
 
+
+## Hälsobullar
+
+12 st. Tillagningstid 1 timme. Ugnstemperatur 225º–250ºC
+
+  
+
+- 2 dl mjölk
+- 25 g margarin
+- 25 g jäst
+- 1 krm salt
+- 1 tsk sirap
+- 1 dl vetekli
+- ½ dl vetegroddar
+- 3–4 dl vetemjöl
+
+1. Värm mjölk och margarin till 37º.
+2. Smula jästen och blanda med degspad, sirap och salt.
+3. Rör i först i kli och groddar, sedan vetemjöl. Arbeta degen smidig.
+4. Låt degen jäsa till dubbel storlek.
+5. Knåda och baka ut till bullar och låt dem jäsa på plåt c:a 10 min.
+6. Pensla ev. bullarna med ägg och strö på vallmofrö eller vetekli.
+7. Grädda c:a 10 min.
+8. Låt kallna under bakduk.
 
 ## Icas fina pepparkakor
 
@@ -295,6 +474,42 @@ Värm ugnen till 175–200 grader. Rör smör och socker pösigt. Blanda i de an
 3. Lös bikarbonatet i vatten och blanda i det.
 4. Mjölet: spara minst ½ l.
 
+## Ingers kneipbröd
+
+2 st. Tillagningstid 3 timmar. Ugnstemperatur 250º/200ºC
+
+  
+
+- 6 dl ljummet vatten
+- 25 g jäst
+- 2 dl surdeg
+- knappt 1 dl olja
+- 5 dl grovt rågmjöl
+- 8 dl grahamsmjöl
+- 5 dl vetemjöl
+
+1. Blanda samman degen och arbeta in vetemjölet efter hand tills den är smidig.
+2. Låt jäsa c:a 45 minuter.
+3. Forma två limpor, skär några snitt i dem och låt dem jäsa på plåten i 30 minuter.
+4. Sätt in dem i ugn (250º) men sänk genast värmen 200º och grädda c:a 40 minuter.
+5. Låt svalna utan bakduk.
+
+## Irenes pannkakor
+
+12 st. Tillagningstid 1 timme
+
+  
+- 4 ägg
+- 2 msk socker (skedar)
+- 1 tsk salt
+- c:a 4 dl mjölk
+- 3 dl mjöl (6 rågade skedar)
+
+1. Blanda smeten och sila den för att få bort ev. klumpar.
+2. Stek på medelvärme
+3. Tillsätt litet matfett också vid vändning.
+4. Häll upp c:a ¾ dl smet per pannkaka.
+
 ## Judits pepparkakor. Nötkakor (Dagmars receptsamling)
 
 ![matrecept-judits-pepparkakor-dagmar.png](./Images/matrecept-judits-pepparkakor-dagmar.png)
@@ -310,56 +525,63 @@ Värm ugnen till 175–200 grader. Rör smör och socker pösigt. Blanda i de an
 Alla ingredienserna arbetas tillsammans till en smidig det som rullas till fingertjocka längder. Dessa utplattas med en gaffel så de blir refflade på längden. Läggas på plåt och gräddas. Skäras sedan tvärs över i 3–4 cm långa bitar. 200–225 grader 6–8 minuter.
 
 
-## Julkorv 1 (Dagmars receptsamling)
 
-![matrecept-julkorv-1-dagmar.png](./Images/matrecept-julkorv-1-dagmar.png)
 
-- 3/4 kg oxkött
-- 3/4 kg fläskkött
-- 5 hg späck
-- 5 hg potatis
-- 5 dl vatten
-- 1/4 matsked socker
-- 2 matskedar salt
-- ½ matsked vitpeppar
-- ½ matsked kryddpeppar
-- ½ matsked starkpeppar
-- 1/4 tesked ingefära
-	- något mindre skedar
-- 2½ kg färs med späck och potatis
+## Kanelsmakande formbröd
 
-## Julkorv 2 (Dagmars receptsamling)
+2 st. Tillagningstid 2 timmar. Ugnstemperatur 200ºC
 
-![matrecept-julkorv-2-dagmar.png](./Images/matrecept-julkorv-2-dagmar.png)
+  
 
-- 1 kg oxkött
-- 1 kg fläskkött
-- 8 hg späck
-- 8 hg potatis
-- 1,1 liter vatten
-- litet socker (½ matsked)
-- 3½ strukna matskedar salt
-- ½ matskedar vitpeppar
-- 1/4 matskedar kryddpeppar
-- 1/4 matskedar starkpeppar
-- 1/4 torkad ingefära (tesked)
+- 4 dl vatten
+- 25 g jäst
+- 100 g margarin
+- 2 dl surdeg
+- 200 g russin
+- 2 msk kanel
+- 1½ l vetemjöl
 
-Något mer än strukna skedar.
+1. Arbeta samman degen och låt jäsa en timme.
+2. Tag upp degen på bakbordet, forma två längder och lägg dem i smorda formar.
+3. Låt jäsa i 40 minuter.
+4. Grädda dem mitt i ugnen c:a 30 minuter.
+5. Tag ut dem ur formarna de sista minuterna så att undersidan blir bakt.
 
+## Karins rågbröd
+
+3 stora formar. Tillagningstid 2 dagar (2 timmar). Ugnstemperatur 175ºC
+
+  
+Dag 1:
+- 2 dl rågkross
+- 8 dl grovt rågmjöl
+- 1 msk koriander
+- 1 l kokande vatten
+
+  
+
+Dag 2:
+- 2½ dl ljummet vatten
+- 1½ paket jäst
+- 1 tsk salt
+- 1 msk ättiksprit
+- ½ dl sirap
+- 1½ dl rågsikt
+- 8 dl vetemjöl
+
+1. Det kokande vattnet hälls över mjölkblandningen, som övertäcks och får stå till nästa dag.
+2. Tillsätt alla ingredienser utom vetemjölet. Arbeta degen kraftigt.
+3. Tillsätt vetemjölet litet i sänder tills degen är fast. Låt jäsa.
+4. Häll upp degen på bakbord och knåda väl.
+5. Forma tre limpor och lägg dem i smorda formar. Låt dem jäsa.
+6. Grädda 35 minuter i form, sedan uppstjälpta på plåt i 50 minuter.
+7. Låt svalna väl insvepta i duk.
 
 ## Knäck (Dagmars receptsamling)
 
 ![matrecept-knäck-dagmar.png](./Images/matrecept-kn%C3%A4ck-dagmar.png)
 
 ½ liter grädde, ½ liter sirap, ½ liter socker, 1 kaffekopp stötta skorpor, 1½ hg sötmandel. Grädden, sirapen och sockret hälles i denna ordning i en kastrull och får koka till smeten kännes tjock.
-
-## Knäck. Enkel kola. Gräddkola. Praliner. Ischoklad (Konsum/Kooperativa, ur Dagmars receptsamling)
-
-![matrecept-knäck-1.png](./Images/matrecept-kn%C3%A4ck-1.png)
-
-![matrecept-knäck-2-dagmar.png](./Images/matrecept-kn%C3%A4ck-2-dagmar.png)
-Odaterade recept från Konsum/Kooperativa
-
 
 ## Kardemummakaka. Gunnels havrekakor. Alice kaffekaka (Dagmars receptsamling)
 
@@ -377,6 +599,15 @@ Odaterade recept från Konsum/Kooperativa
 
 150 g smör röres, 2 koppar socker, 3½ koppar mjöl, 1 dl mjölk, 1 ägg, 2 teskedar jästmjöl (bakpulver), 1 tsk kardemumma. Kanel och mandel ovanpå pärlsocker. 40 minuter
 
+
+## Knäck. Enkel kola. Gräddkola. Praliner. Ischoklad (Konsum/Kooperativa, ur Dagmars receptsamling)
+
+![matrecept-knäck-1.png](./Images/matrecept-kn%C3%A4ck-1.png)
+
+![matrecept-knäck-2-dagmar.png](./Images/matrecept-kn%C3%A4ck-2-dagmar.png)
+Odaterade recept från Konsum/Kooperativa
+
+
 ## Korintkakor (Agdas). Enkla kanelkransar (Dagmars receptsamling)
 
 ![matrecept-korintkakor-kanelkransar-dagmar.png](./Images/matrecept-korintkakor-kanelkransar-dagmar.png)
@@ -391,6 +622,27 @@ Rör **1 ägg** med **100 g smör** och **100 g socker** ett par minuter. Sätt 
 
 Låt degen stå kallt, helst till följande dag. Rulla ut degen i små längder, som formas till kransar vilka doppas i en blandning av **1 msk kanel** och **2 msk socker**. Medelvarm ugn.
 
+## Korngrynspannkaka
+
+4 portioner. Tillagningstid (förutom grötkokning) 1 timme. Ugnstemperatur 200ºC
+ 
+
+- ½ sats korngrynsgröt
+- 2 ägg
+- 2 msk socker
+- 1 tsk stött koriander eller ½ tsk stött kardemumma
+- 20 blötlagda aprikoser eller 2 skivade äpplen
+- ½ dl hasselnötter
+- 2 msk socker
+- smör
+
+1. Vispa upp äggen och rör ned dem i gröten.
+2. Smaksätt med socker och kryddor.
+3. Häll smeten i en smord ugnssäker form.
+4. Tryck ned aprikoser eller äppleskivor.
+5. Hacka nötterna och blanda med sockret. Strö det över och klicka smör på.
+6. Grädda i c:a 40 minuter.
+7. Servera pannkakan ljummen med mjölk eller grädde.
 
 ## Kristinatårta
 
@@ -574,6 +826,27 @@ Ugnstemperatur 175ºC
 - 1 tsk vaniljsocker
 - 1 tsk kanel
 
+
+## Mustig prästlimpa
+
+Sex limpor. Tillagningstid 1½ timme. Ugnstemperatur 200ºC
+
+
+- 1 l vatten, 37ºC
+- 150 g jäst
+- 500 g mörkt farinsocker
+- 1 msk salt
+- 3 ägg
+- 2 kg rågsikt
+- c:a 2 dl vetemjöl, 120 g
+- ev. surdeg
+
+1. Blanda allt.
+2. Baka ut direkt till bröden, som får jäsa på två plåtar ungefär en halvtimme.
+3. Grädda på nedersta falsen i cirka en halvtimme.
+
+Källa: Karin
+
 ## Möra, runda skorpor
 
 C:a 150 st. Tillagningstid 2 timmar. Ugnstemperatur 225ºC
@@ -608,6 +881,26 @@ Smöret och mjölet arbetas väl tillsammans med äggen, som först slås med so
 ### Spritsringar
 
 140 g smör, 140 g socker, 1 äggula, 240 g mjöl. Massan går genom sprits.
+
+
+## Nyponbullar
+
+20 st. Tillagningstid 2 timmar. Ugnstemperatur 200ºC
+
+  
+
+- 25 g jäst
+- 5 dl vatten
+- 1½ dl surdeg
+- 1 dl nyponsoppspulver
+- ½ msk kummin
+- 2 dl fint rågmjöl
+- 1½ l vetemjöl
+
+1. Arbeta samman degen och tag mer vetemjöl om den blir för lös.
+2. Låt jäsa c:a 50 minuter.
+3. Knåda degen på bakbordet och rulla 20 bullar. Skär ett kryss i varje.
+4. Låt bullarna jäsa 30 minuter och grädda dem 15–20 minuter.
 
 ## Nötkakor. Finare vetebröd (Dagmars receptsamling)
 
@@ -682,6 +975,27 @@ C:a 50 st. Ugnstemperatur 200ºC
 
 Källa: Irene 1995-08-02
 
+
+## Potatisbröd
+
+2 st. Tillagningstid 2 timmar. Ugnstemperatur 200ºC
+
+  
+- 3 dl vatten
+- 4 st kokta potatisar
+- 25 g jäst
+- 2 dl surdeg
+- 3 msk syltade apelsinskal
+- 6 dl grahamsmjöl
+- 6–8 dl vetemjöl
+
+1. Mosa eller pressa potatisen.
+2. Blanda samman degen med potatisen först, därefter grahamsmjölet och sist vetemjölet efter hand.
+3. Låt jäsa c:a 45 minuter.
+4. Knåda och forma två längder, lägg dem i smorda formar och låt dem jäsa 45 minuter.
+5. Grädda på nedersta falsen i c:a 30 minuter.
+
+
 ## Pozsonyi kifli (Vallmolängd)
 
 Ugnstemperatur 200ºC
@@ -718,6 +1032,25 @@ Fyllning:
 13. Grädda i 25–30 minuter.
 
 Källa: Irene
+
+## Pumpakaka
+
+Tillagningstid 2 timmar. Ugnstemperatur 175ºC
+
+
+- 1 kg pumpa
+- ½ l gräddmjölk
+- 5 msk vetemjöl
+- 3 ägg
+- 1–2 dl socker
+- 12 sötmandlar
+- 4 bittermandlar
+
+1. Riv pumpan grovt och låt den rinna av väl.
+2. Vispa ägg, socker, mjöl och mjölk tillsammans.
+3. Tillsätt hackad mandel och pumpa.
+4. Grädda 1–1½ timme.
+
 
 ## Päron syltade med vin. Knäck. Plum-cake. Dundertårta (ur Iduns hjälpreda, Dagmars receptsamling)
 
@@ -792,6 +1125,25 @@ Glasyr:
 
 3 ägg, ½ kaffekopp socker, 1 kopp vetemjöl, 1 kopp potatismjöl, 1½ kopp vatten, lite riven apelsinskal.
 
+## Solskenskaka
+
+12 bitar. Tillagningstid 1 timme. Ugnstemperatur 175º
+
+  
+- 150 g smör
+- 3 ägg
+- 2½ dl socker
+- 3 dl vetemjöl
+- skållad mandel
+
+1. Smält smöret och låt det svalna.
+2. Vispa ägg och socker riktigt pösigt.
+3. Blanda i vetemjöl och smör.
+4. Häll smeten i smord och bröad 1½-litersform, helst med löstagbar kant.
+5. Grädda på första falsen i 7 minuter.
+6. Lägg på mandeln i ringar.
+7. Grädda kakan i ytterligare c:a 20 minuter.
+
 
 ## Sonjas drömmar
 
@@ -810,6 +1162,28 @@ Ugnstemperatur 150ºC. Blir c:a 40 st.
 3. Forma bollar och lägg på plåt.
 4. Grädda 10–12 minuter.
 5. Öppna luckan efter halva gräddningstiden.
+
+
+## Södertäljekringlor
+
+70 st. Tillagningstid 2 timmar. Ugnstemperatur: 250ºC
+
+
+- 11 dl vetemjöl
+- 1 hg smör
+- 1¼ dl socker
+- 25 g jäst
+- 2 dl gräddmjölk
+- 3 ägg
+
+1. Finfördela matfettet i det mesta av mjölet.
+2. Tillsätt socker och jäst utrörd i den ljumma gräddmjölken.
+3. Blanda i äggen och arbeta ihop degen. Låt degen jäsa c:a 30 minuter.
+4. Arbeta den smidig med resten av mjölet.
+5. Rulla ut till blyertspennstjocka längder, c:a 30 cm långa. Forma dem till kringlor och lägg dem att jäsa.
+6. Koka upp vatten i en stor gryta.
+7. Lägg i de jästa kringlorna och låt dem koka tills de flyter upp. Tag upp dem med hålslev och lägg på smord plåt.
+8. Grädda kringlorna ljusbruna i het ugn och eftertorka i svag ugnsvärme.
 
 ## Tekakor
 
@@ -881,6 +1255,32 @@ Garnering:
 
 **3 äggulor, 1 dl socker** vispas hårt. **1½ dl smör** smältes. **5 msk mjölk, 1½ dl mjöl, 2 teskedar bakpulver** blandas ner. Smeten bredes ut på smörpapper i en långpanna. Vitorna och **2 deciliter socker** vispas hårt och bredes ovanpå den andra smeten; hackade nötter eller mandel strös på. Sättes in i ugnen i **150 grader i 30 till 40 minuter**. Dela kakan på mitten och lägg **3 deciliter vispad grädde och jordgubbar eller hallon** emellan.
 
+## Ulriks brödkakor
+
+?? st. Tillagningstid 2 dagar. Ugnstemperatur 200ºC
+
+  
+
+Dag 1:
+- 1½ dl grovt rågmjöl
+- 1½ dl vatten
+- brödkrydda, t.ex. 1 tsk fänkål eller anis
+- 25 g jäst
+
+  
+
+Dag 2:
+- 3½ dl vatten
+- 1 msk olja
+- ½ msk salt
+- 11 dl mjöl, gärna rågsikt och grova råg-/veteblandningar
+- (solrosfrön)
+
+1. Blanda ingredienserna enligt Dag 1.
+2. Tillsätt dag 2 övriga ingredienser och baka ut till runda kakor och platta till dem.
+3. Grädda i c:a 40 minuter.
+
+
 ## Uppåkrakakor (Dagmars receptsamling)
 
 ![matrecept-uppåkrakakor-dagmar.png](./Images/matrecept-upp%C3%A5krakakor-dagmar.png)
@@ -923,6 +1323,58 @@ Smöret röres tillsammans med sockret tills det blir pösigt. Äggen uppvispas 
 8. Ska du baka kringlorna efter gamla traditioner ska du ha råghalm på plåten under kringlorna. Kringlorna är inte så söta och som sagt mycket hållbara.
 
 Källa: Meny, vecka 48, 2008, Ingrid Svensson
+
+## Vitt matbröd
+
+5 st. Tillagningstid 1½ timme. Ugnstemperatur 225º–250ºC
+
+  
+
+- 100 g matfett
+- 1 l vassle el. mjölk+vatten
+- 75 g jäst
+- 1 msk socker
+- ½ tsk salt
+- 6 dl stenmalet vetemjöl
+- 19–20 dl vetemjöl
+- ägg
+- vallmofrön
+
+1. Smält matfettet i en kastrull. Häll på vätskan. Låt blandningen bli ljummen (37º).
+2. Smula jästen i en stor degbunke. Rör ut med degspadet.
+3. Tillsätt socker och salt. Arbeta i vetemjölet litet i taget och arbeta degen smidig och seg.
+4. Strö över mjöl, täck med bakduk och låt jäsa på dragfri plats till dubbel storlek.
+5. Häll degen på bakbordet och knåda den smidig. Dela den i fem delar och tag av en liten bit från varje del.
+6. Rulla de stora bitarna till längder och lägg på smord plåt.
+7. Rulla de små degbitarna till smala längder och sno dem dubbla. Lägg snodden på brödet och fäst ändarna väl.
+8. Låt bröden jäsa under duk till nästan dubbel storlek.
+9. Pensla med ägg och strö på vallmofrön. Grädda bröden på första falsen c:a 25 minuter.
+
+## Yoghurtbröd med kross
+
+
+2 st. Tillagningstid 1½ timme. Ugnstemperatur 200ºC
+
+  
+- 2 dl vatten
+- 8 dl vete- eller rågkross
+- 5 dl yoghurt
+- 35 g jäst
+- 3 dl surdeg
+- 2 msk olja
+- 1 dl sirap
+- 10 dl grahamsmjöl
+- 8–10 dl vetemjöl
+
+1. Blöt upp krosset i 2 dl hett vatten.
+2. Lös upp jästen i rumsvarm yoghurt.
+3. Tillsätt övriga ingredienser – vetemjölet litet i sänder – till en fast deg.
+4. Låt jäsa.
+5. Knåda degen och forma till två limpor. Lägg dem på smord plåt och låt jäsa.
+6. Grädda i ?? minuter.
+
+
+
 
 ___
 
@@ -1362,6 +1814,16 @@ Bryn skivorna lätt i stekpanna.
 Efter stekningen tillsätter man litet vatten och värmer upp till en god sky.
 
 
+## Bruna bönor
+  
+- Skölj bönorna i ljummet vatten utan att blötlägga över natten  
+- Sirap i stället för socker tillsätts efter hand.  
+- Ättika tillsätts försiktigt efter hand  
+- Liten bit kanel, salt  
+  
+Källa: Dagny, april 2002
+
+
 ## Crêpes (pannkakor) (Dagmars receptsamling)
 ![matrecept-crêpes-dagmar.png](./Images/matrecept-cr%C3%AApes-dagmar.png)
 
@@ -1558,6 +2020,34 @@ Tillbehör: kokt vitt ris och naturell salladskål.
 *Vi brukar dubbla satsen och utgå från ½ kg färs + ½ kg riven morot*
 
 
+## Hummerragu med banan
+
+4 portioner. Tillagningstid 20 minuter. Mikrovågsugn
+
+  
+
+- 250 g Keso
+- 2 msk kaviar
+- 1 liten rödlök, finhackad
+- 1 knippe gräslök, finhackad
+- 2 bananer
+- 1 burk fiskbullar i hummersås (375 g)
+
+1. Blanda Keson, kaviarn och löken.
+2. Skala och skiva två bananer. Vänd ner i blandningen tillsammans med en burk fiskbullar i hummersås.
+3. Värm i kastrull eller mikrovågsugn och servera med potatismos eller pasta.
+
+## Irenes köttfärslimpa
+
+6 portioner. Tillagningstid ½ timme. Ugnstemperatur ??
+
+- ½ kg färs
+- 2 msk mjölkpulver
+- 2 msk ströbröd
+- 1 liten lök, finriven
+- salt, peppar och paprika
+
+
 ## Iréns leverkorv
 
 - 1,4 kg lever
@@ -1589,6 +2079,44 @@ Tillbehör: kokt vitt ris och naturell salladskål.
 4. Smält smör i en stekpanna eller plättlagg.
 5. Klicka ut smeten med sked och stek på svag värme. Vänd när steksidan är gyllenbrun i kanterna. De färdiga pannkakorna ska vara cirka 2 cm tjocka.
 6. Servera jäspannkakorna garnerade med florsocker som siktats genom en tesil eller liknande.
+
+
+## Julkorv 1 (Dagmars receptsamling)
+
+![matrecept-julkorv-1-dagmar.png](./Images/matrecept-julkorv-1-dagmar.png)
+
+- 3/4 kg oxkött
+- 3/4 kg fläskkött
+- 5 hg späck
+- 5 hg potatis
+- 5 dl vatten
+- 1/4 matsked socker
+- 2 matskedar salt
+- ½ matsked vitpeppar
+- ½ matsked kryddpeppar
+- ½ matsked starkpeppar
+- 1/4 tesked ingefära
+	- något mindre skedar
+- 2½ kg färs med späck och potatis
+
+## Julkorv 2 (Dagmars receptsamling)
+
+![matrecept-julkorv-2-dagmar.png](./Images/matrecept-julkorv-2-dagmar.png)
+
+- 1 kg oxkött
+- 1 kg fläskkött
+- 8 hg späck
+- 8 hg potatis
+- 1,1 liter vatten
+- litet socker (½ matsked)
+- 3½ strukna matskedar salt
+- ½ matskedar vitpeppar
+- 1/4 matskedar kryddpeppar
+- 1/4 matskedar starkpeppar
+- 1/4 torkad ingefära (tesked)
+
+Något mer än strukna skedar.
+
 
 ## Káposztás tészta – ungerska pastarutor med stekt vitkål
 4 portioner. Tillagningstid 1 timme. Degknådningen kräver en viss vana.
@@ -1655,6 +2183,25 @@ Tillbehör: kokt vitt ris och naturell salladskål.
 5. Tillsätt soja, socker och vatten.
 6. Lägg på lock och låt stå på svag värme i 5 minuter.
 7. Vattnet ska nästan koka in.
+
+
+## Kokt kött
+
+Tillagningstid 2½ timme
+
+
+- 1–3 kg benfritt nötkött av bog, bringa eller högrev
+- 2 tsk salt per l vatten
+- 1 gul lök
+- 1 morot
+- 10 vit- eller svartpepparkorn
+- 1 lagerblad
+
+1. Lägg köttet i en kastrull. Mät och häll på vatten så att det täcker.
+2. Tag upp köttet och koka upp vattnet.
+3. Lägg köttet i det kokande vattnet tillsammans med salt, kryddor och grönsaker i bitar.
+4. Låt köttet koka på svag värme 1½–2 timmar.
+
 
 ## Kolbász (Iréns köttkorv)
 
@@ -1832,6 +2379,24 @@ Sås:
 5. Hetta upp fett i en stekpanna och stek raggmunkarna frasiga.
 6. Servera med lingonsylt, strimlad vitkål och stekt fläsk.
 
+
+## Randig grönsaksterrin
+
+2 portioner. Tillagningstid 1 timme. Ugnstemperatur 175ºC
+
+  
+
+- 2 hg morötter
+- 2 hg purjolök
+- ¼ krm svartpeppar
+- 1 tsk potatismjöl
+- 1 dl lätt-crème-fraîche
+- 1 ägg
+
+1. Lägg 2 hg rivna morötter i en skål och 2 hg finstrimlad purjolök i en annan.
+2. Blanda i varje skål ner en sats av övriga ingredienser.
+3. Varva grönsakerna i smord 1½-litersform och grädda i 40 minuter.
+
 ## Renskavsgryta
 
 2–3 portioner. Tillagningstid ½ timme. Mikrovågsugn
@@ -1873,6 +2438,65 @@ Sås:
 6. Skär den sedan i halvcentimeterbreda remsor.
 7. Sära på degremsorna och låt dem ligga kvar och torka några minuter.
 8. Koka i rikligt med saltat vatten 1–1½ minut.
+
+## Ungersk bönsoppa på brytbönor – Bableves
+
+6 portioner. Tillagningstid 1 timme  
+  
+Ingredienser:  
+- 2 msk margarin  
+- 2 msk vetemjöl  
+- 2 tsk paprika  
+- ½ buljongtärning  
+- ½ lök  
+- ½ l vatten  
+- salt, socker  
+- 2 msk persilja  
+- ½ tsk ättiksprit  
+- ½ dl grädde  
+- förvällda brytbönor  
+  
+
+1. Fräs margarin, mjöl och paprika i en kastrull.
+2. Tillsätt buljongtärning, lök och vatten. Koka tills löken är mjuk.
+3. Krydda soppan, smaka av med grädde och lägg i bönorna. De skall inte koka sönder.
+
+Serveras med gott bröd.  
+Källa: Irene
+
+
+## Ungerska kåldolmar
+
+16 st. Tillagningstid 2 timmar. Ett relativt krävande recept.
+
+  
+
+- 5 dl ris
+- vitkålshuvud (3 kg)
+- 750 g blandfärs
+- 750 g köttfärs
+- 2 lökar
+- 1 dl tomatpuré
+- 2 msk paprika
+- salt, vitpeppar
+- ½ l vatten
+- 300 g margarin
+
+1. Blötlägg riset någon timme.
+2. Koka vitkålshuvudet i vatten tills det mjuknar.
+3. Skär längsmed runt stocken. Ta av bladen till omhölje.
+4. Grovhacka resten av kålstocken och koka med en finhackad lök i en stor kastrull.
+5. Mjukgör i en annan kastrull en lök i 150 g margarin.
+6. Blanda under tiden färs, ris (okokt), tomatpuré, paprika, vitpeppar och salt och lökfyllningen från den lilla kastrullen i en bunke.
+7. Tag 100–150 g margarin och smält i den nu tomma lilla kastrullen. Rör i c:a 2 dl mjöl och låt sjuda minst 15 min. till en ganska tjock röra.
+8. Fyll under tiden halva vitkålsblad (riv av dem på längden) med ½–¾ dl av fyllningen. Vik liksom en strut genom att vika och sedan trycka till överdelen.
+9. Lägg kåldolmarna ovan på de kokta kålresterna i den stora kastrullen och koka upp.
+10. Tillsätt under tiden i den lilla kastrullen 1 msk paprika, ½ l vatten och ½ dl tomatpuré. Salta ev. såsen litet.
+11. Häll såsen ovanpå kåldolmarna när de kokat c:a 30 minuter.
+
+  
+
+Källa: Irén
 
 ## Vardagsenkla våfflor
 
@@ -1951,6 +2575,43 @@ Fyllning 3:
 
 Servera den genast: som efterrätt eller till kaffe eller te.
 # Tillbehör
+
+## Apelsinglass
+
+4 portioner. Tillagningstid 1 timme
+
+  
+
+- 4 äggulor
+- 4 msk socker
+- 2 tsk vaniljsocker
+- 2½ dl vispgrädde
+- 2 äggvitor
+- 1 dl apelsinjuice eller 2 pressade apelsiner
+- ev. 2 msk Grand Marnier
+
+1. Vispa äggulor och socker tillsammans samt äggvitor och grädde var för sig till skum.
+2. Rör ner jos, grädde och ev. likör i äggulesmeten och vänd till sist ner äggvitorna. Rör om försiktigt.
+3. Häll blandningen i en form och låt den stå i frysen c:a 2 timmar. Tag ut den då och då och rör om litet.
+4. Låt den sedan stå 6–7 timmar i frysen.
+5. Tina en liten stund före servering.
+
+
+## Chokladsås på honung
+
+4–6 portioner. Tillagningstid 15 minuter
+
+  
+
+- 1 dl honung
+- 1 dl kakao
+- högst 1 dl vatten, beroende på honungen
+- ev. salt, beroende på honungen
+
+1. Låt honungen smälta i mikron.
+2. Skaka kakaon med vatten i sluten redningsbägare så att klumparna försvinner.
+3. Värm alltsammans och smaka ev. av med salt. Se upp så att det inte blir för salt. Kan förvaras flera veckor i kylskåp t.ex. i burk.
+
 ## Flädersaft
 Ger 4 liter. Tillagningstid 1,5 timme (6 dagar), marmelad inte inräknad
 ### Ingredienser
@@ -2014,6 +2675,35 @@ Lägg gurkorna i saltlake c:a 10 timmar: 100 g salt per kilo gurka. Häll bort s
   
 Koka upp lagen och låt den kallna. Lägg gurkorna i lagen.
 
+## Korngrynsgröt
+
+4 portioner. Tillagningstid 1 timme
+
+- 2 dl korngryn
+- 5 dl vatten
+- salt
+- 5 dl mjölk
+
+1. Koka upp vatten och salt och rör ner korngrynen.
+2. Låt koka under lock c:a 10 minuter tills vattnet kokat in.
+3. Späd med mjölk och koka ytterligare c:a 25 minuter. Rör om då och då.
+
+## Nokedli. Nykokt färsk pasta på ungerska
+
+4 portioner. Tillagningstid 45 minuter
+
+- 4 ägg
+- salt
+- 5 dl vetemjöl
+- smör
+
+1. Blanda ägg, salt och mjöl till en litet kladdig deg.
+2. Koka upp vatten och salt i en kastrull.
+3. Tryck ut degen från baksidan genom ett grovt rivjärn direkt ned i det kokande vattnet
+4. Låt koka några minuter.
+5. Spola de färdiga nokedli med kallt vatten och blanda med litet smör.
+
+Källa: Irene
 
 ## Müsli
 Ugnstemperatur 150ºC
