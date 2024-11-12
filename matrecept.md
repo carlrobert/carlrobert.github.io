@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-11 19:21
+updated: 2024-11-12 22:20
 title: Matrecept
 nav_order: 2
 layout: default
@@ -494,21 +494,6 @@ Värm ugnen till 175–200 grader. Rör smör och socker pösigt. Blanda i de an
 4. Sätt in dem i ugn (250º) men sänk genast värmen 200º och grädda c:a 40 minuter.
 5. Låt svalna utan bakduk.
 
-## Irenes pannkakor
-
-12 st. Tillagningstid 1 timme
-
-  
-- 4 ägg
-- 2 msk socker (skedar)
-- 1 tsk salt
-- c:a 4 dl mjölk
-- 3 dl mjöl (6 rågade skedar)
-
-1. Blanda smeten och sila den för att få bort ev. klumpar.
-2. Stek på medelvärme
-3. Tillsätt litet matfett också vid vändning.
-4. Häll upp c:a ¾ dl smet per pannkaka.
 
 ## Judits pepparkakor. Nötkakor (Dagmars receptsamling)
 
@@ -621,28 +606,6 @@ Odaterade recept från Konsum/Kooperativa
 Rör **1 ägg** med **100 g smör** och **100 g socker** ett par minuter. Sätt till **1 struken tsk hjorthornsalt** upplöst i **1 msk kokande vatten** och arbeta in **300 g vetemjöl**.
 
 Låt degen stå kallt, helst till följande dag. Rulla ut degen i små längder, som formas till kransar vilka doppas i en blandning av **1 msk kanel** och **2 msk socker**. Medelvarm ugn.
-
-## Korngrynspannkaka
-
-4 portioner. Tillagningstid (förutom grötkokning) 1 timme. Ugnstemperatur 200ºC
- 
-
-- ½ sats korngrynsgröt
-- 2 ägg
-- 2 msk socker
-- 1 tsk stött koriander eller ½ tsk stött kardemumma
-- 20 blötlagda aprikoser eller 2 skivade äpplen
-- ½ dl hasselnötter
-- 2 msk socker
-- smör
-
-1. Vispa upp äggen och rör ned dem i gröten.
-2. Smaksätt med socker och kryddor.
-3. Häll smeten i en smord ugnssäker form.
-4. Tryck ned aprikoser eller äppleskivor.
-5. Hacka nötterna och blanda med sockret. Strö det över och klicka smör på.
-6. Grädda i c:a 40 minuter.
-7. Servera pannkakan ljummen med mjölk eller grädde.
 
 ## Kristinatårta
 
@@ -1380,24 +1343,6 @@ ___
 
 # Kallrätter
 
-## Banan- och ananasglass
-4–6 portioner (mjölkpaket 19 juni 1988)
-
-- 3 äggulor
-- 1 dl socker
-- 2 dl mjölk
-- 2 bananer
-- 2 dl ananaskross, väl avrunnen
-- 2 dl vispgrädde
-
-1. Vispa ihop äggulor, socker och mjölk i en kastrull.
-2. Sjud blandningen tills den tjocknar, 2–3 minuter. Låt svalna.
-3. Mosa bananerna.
-4. Blanda äggsmeten med banan och ananas.
-5. Vispa grädden hårt och rör ned den.
-6. Häll smeten i en form och ställ den i frysen.
-7. Rör om några gånger under infrysningen som tar c:a 6 timmar.
-8. Tina i kylskåp 20–30 minuter före servering.
 
 ## Ethels smörgåstårta
 C:a 12–15 bitar (Vår bostad nr 5, 1997)
@@ -2064,6 +2009,23 @@ Tillbehör: kokt vitt ris och naturell salladskål.
 4. Blanda allt med salt och peppar.
 5. Stoppa i fjälster.
 
+## Irenes pannkakor
+
+12 st. Tillagningstid 1 timme
+
+  
+- 4 ägg
+- 2 msk socker (skedar)
+- 1 tsk salt
+- c:a 4 dl mjölk
+- 3 dl mjöl (6 rågade skedar)
+
+1. Blanda smeten och sila den för att få bort ev. klumpar.
+2. Stek på medelvärme
+3. Tillsätt litet matfett också vid vändning.
+4. Häll upp c:a ¾ dl smet per pannkaka.
+
+
 ## Iréns små jäspannkakor
 
 - 1 dl mjölk
@@ -2419,25 +2381,6 @@ Sås:
 4. Värm på full effekt (750 W) i sju minuter. Rör om någon gång under tiden.
 5. Servera med potatismos, kokt potatis eller ris samt grönsaker.
 
-## Tagliatelle
-4 personer (UNT 5 augusti 1982)
-
-  
-
-- 450 g vetemjöl
-- 5 ägg
-- 1 tsk salt
-- 2 msk olivolja
-- 2 msk kallt vatten
-
-1. Blanda ingredienserna med en gaffel tills degen går att forma till en boll (tillsätt ev. mera vatten).
-2. Knåda degen c:a 15 minuter så att den blir elastisk.
-3. Dela den i 6 delar.
-4. Kavla på mjölat bakbord ut bitarna till långa tunna plattor. Använd rikligt med mjöl så att degen inte fastnar.
-5. När plattan är tillräckligt tunn, dofta över mjöl och rulla till en lös rulle.
-6. Skär den sedan i halvcentimeterbreda remsor.
-7. Sära på degremsorna och låt dem ligga kvar och torka några minuter.
-8. Koka i rikligt med saltat vatten 1–1½ minut.
 
 ## Ungersk bönsoppa på brytbönor – Bableves
 
@@ -2574,7 +2517,9 @@ Fyllning 3:
 4. Lägg i våffelgåsen och grädda den guldbrun.
 
 Servera den genast: som efterrätt eller till kaffe eller te.
-# Tillbehör
+
+# Efterrätter
+
 
 ## Apelsinglass
 
@@ -2595,6 +2540,55 @@ Servera den genast: som efterrätt eller till kaffe eller te.
 3. Häll blandningen i en form och låt den stå i frysen c:a 2 timmar. Tag ut den då och då och rör om litet.
 4. Låt den sedan stå 6–7 timmar i frysen.
 5. Tina en liten stund före servering.
+
+
+## Banan- och ananasglass
+4–6 portioner (mjölkpaket 19 juni 1988)
+
+- 3 äggulor
+- 1 dl socker
+- 2 dl mjölk
+- 2 bananer
+- 2 dl ananaskross, väl avrunnen
+- 2 dl vispgrädde
+
+1. Vispa ihop äggulor, socker och mjölk i en kastrull.
+2. Sjud blandningen tills den tjocknar, 2–3 minuter. Låt svalna.
+3. Mosa bananerna.
+4. Blanda äggsmeten med banan och ananas.
+5. Vispa grädden hårt och rör ned den.
+6. Häll smeten i en form och ställ den i frysen.
+7. Rör om några gånger under infrysningen som tar c:a 6 timmar.
+8. Tina i kylskåp 20–30 minuter före servering.
+
+
+## Korngrynspannkaka
+
+4 portioner. Tillagningstid (förutom grötkokning) 1 timme. Ugnstemperatur 200ºC
+ 
+
+- ½ sats korngrynsgröt
+- 2 ägg
+- 2 msk socker
+- 1 tsk stött koriander eller ½ tsk stött kardemumma
+- 20 blötlagda aprikoser eller 2 skivade äpplen
+- ½ dl hasselnötter
+- 2 msk socker
+- smör
+
+1. Vispa upp äggen och rör ned dem i gröten.
+2. Smaksätt med socker och kryddor.
+3. Häll smeten i en smord ugnssäker form.
+4. Tryck ned aprikoser eller äppleskivor.
+5. Hacka nötterna och blanda med sockret. Strö det över och klicka smör på.
+6. Grädda i c:a 40 minuter.
+7. Servera pannkakan ljummen med mjölk eller grädde.
+
+
+
+
+# Tillbehör
+
 
 
 ## Chokladsås på honung
@@ -2674,6 +2668,7 @@ lite salt
 Lägg gurkorna i saltlake c:a 10 timmar: 100 g salt per kilo gurka. Häll bort saltlaken.  
   
 Koka upp lagen och låt den kallna. Lägg gurkorna i lagen.
+
 
 ## Korngrynsgröt
 
@@ -2826,6 +2821,27 @@ Tillagningstid en vecka (c:a 2 timmar)
 5. Tillsätt socker.
 6. Rör ut kaliumsorbat i en halv deciliter saft. Ta kastrullen från spisen innan konserveringsmedlet rörs i noga.
 7. Låt saften svalna något innan den hälls på rena, värmda flaskor.
+
+## Tagliatelle
+4 personer (UNT 5 augusti 1982)
+
+  
+
+- 450 g vetemjöl
+- 5 ägg
+- 1 tsk salt
+- 2 msk olivolja
+- 2 msk kallt vatten
+
+1. Blanda ingredienserna med en gaffel tills degen går att forma till en boll (tillsätt ev. mera vatten).
+2. Knåda degen c:a 15 minuter så att den blir elastisk.
+3. Dela den i 6 delar.
+4. Kavla på mjölat bakbord ut bitarna till långa tunna plattor. Använd rikligt med mjöl så att degen inte fastnar.
+5. När plattan är tillräckligt tunn, dofta över mjöl och rulla till en lös rulle.
+6. Skär den sedan i halvcentimeterbreda remsor.
+7. Sära på degremsorna och låt dem ligga kvar och torka några minuter.
+8. Koka i rikligt med saltat vatten 1–1½ minut.
+
 
 ## Örtpastej
 - 2 dl solrosfrön
