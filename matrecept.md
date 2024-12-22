@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-12-22 11:05
+updated: 2024-12-22 11:10
 title: Matrecept
 nav_order: 2
 layout: default
@@ -2714,7 +2714,7 @@ Ugnstemperatur 150ºC
 - (½ msk mald dragon efter tycke)
 
 1. Krossa senapsfrön i mortel, ungefär halva mängden i taget. Börja att krossa fröna *utan* vatten.
-2. Tillsätt sedan litet vatten i sänder varefter det sugs upp av fröna. Vattenet ska vara med för att senapen ska få rätt konsistent och smak.
+2. Tillsätt sedan litet vatten i sänder varefter det sugs upp av fröna. Vattnet ska vara med för att senapen ska få rätt konsistent och smak.
 3. Blanda senapen med vinäger, socker och ev. söndersmulad dragon
 4. Rör sist ned oljan
 
