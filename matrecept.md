@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-12 22:20
+updated: 2024-12-22 11:05
 title: Matrecept
 nav_order: 2
 layout: default
@@ -2683,23 +2683,6 @@ Koka upp lagen och låt den kallna. Lägg gurkorna i lagen.
 2. Låt koka under lock c:a 10 minuter tills vattnet kokat in.
 3. Späd med mjölk och koka ytterligare c:a 25 minuter. Rör om då och då.
 
-## Nokedli. Nykokt färsk pasta på ungerska
-
-4 portioner. Tillagningstid 45 minuter
-
-- 4 ägg
-- salt
-- 5 dl vetemjöl
-- smör
-
-1. Blanda ägg, salt och mjöl till en litet kladdig deg.
-2. Koka upp vatten och salt i en kastrull.
-3. Tryck ut degen från baksidan genom ett grovt rivjärn direkt ned i det kokande vattnet
-4. Låt koka några minuter.
-5. Spola de färdiga nokedli med kallt vatten och blanda med litet smör.
-
-Källa: Irene
-
 ## Müsli
 Ugnstemperatur 150ºC
 
@@ -2718,6 +2701,51 @@ Ugnstemperatur 150ºC
 3. Värm honungen och ringla över den.
 4. In med müslin i ugnen c:a 20 minuter.
 5. Rör om då och då under rostningen.
+
+
+## Morfars senap – mörk & kornig
+- 1,5 msk gult senapsfrö
+- ½ dl brunt senapsfrö
+- 1 dl vatten
+- 3/4 msk vinäger
+- ½ msk socker – ev. brun farin eller annan sötning
+- ½ tsk salt
+- 1,5 msk olja
+- (½ msk mald dragon efter tycke)
+
+1. Krossa senapsfrön i mortel, ungefär halva mängden i taget. Börja att krossa fröna *utan* vatten.
+2. Tillsätt sedan litet vatten i sänder varefter det sugs upp av fröna. Vattenet ska vara med för att senapen ska få rätt konsistent och smak.
+3. Blanda senapen med vinäger, socker och ev. söndersmulad dragon
+4. Rör sist ned oljan
+
+Senapen blir mognare i smaken om den får stå några dagar. Båda senapssorterna kan förvaras en längre tid i kylskåp. De blir starkare än färdigköpt senap. Senapen kan också krossas i ett fat med senapskula.
+
+## Morfars senap – slät & stark
+
+- 1,5 dl senapspulver
+- 1 msk mjöl – vete eller valfritt
+- 1,5 dl vatten eller buljong
+- salt efter smak
+- 1,5 msk vinäger
+- 3 msk socker eller valfri sötning
+- 2 msk olja
+
+## Nokedli. Nykokt färsk pasta på ungerska
+
+4 portioner. Tillagningstid 45 minuter
+
+- 4 ägg
+- salt
+- 5 dl vetemjöl
+- smör
+
+1. Blanda ägg, salt och mjöl till en litet kladdig deg.
+2. Koka upp vatten och salt i en kastrull.
+3. Tryck ut degen från baksidan genom ett grovt rivjärn direkt ned i det kokande vattnet
+4. Låt koka några minuter.
+5. Spola de färdiga nokedli med kallt vatten och blanda med litet smör.
+
+Källa: Irene
 
 ## Pizzasallad
 
@@ -2863,6 +2891,3 @@ Tillagningstid en vecka (c:a 2 timmar)
 
 ___
 Kuriosa: 212 g = 1 mark = ½ skålpund
-
-
-FORTSÄTT från Korngrynspannkaka: [Storlind](https://storlind.blogspot.com/?m=1)
