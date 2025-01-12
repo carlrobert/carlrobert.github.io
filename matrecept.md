@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-12-22 11:10
+updated: 2025-01-12 15:02
 title: Matrecept
 nav_order: 2
 layout: default
@@ -510,6 +510,23 @@ Värm ugnen till 175–200 grader. Rör smör och socker pösigt. Blanda i de an
 Alla ingredienserna arbetas tillsammans till en smidig det som rullas till fingertjocka längder. Dessa utplattas med en gaffel så de blir refflade på längden. Läggas på plåt och gräddas. Skäras sedan tvärs över i 3–4 cm långa bitar. 200–225 grader 6–8 minuter.
 
 
+## Kajsas nyttiga godis – fröknäcke
+
+Ugnstemperatur 150ºC
+
+- 2 dl majsmjöl
+- ½ dl sesamfrö
+- ½ dl pumpakärnor
+- ½ dl solroskärnor
+- ½ dl linfrö
+- 1 tsk solja
+- ½ dl olja
+- 2 dl kokande vatten
+
+1. Blanda allt torrt.
+2. Rör i olja och kokande vatten. Låt dra några minuter.
+3. Platta u i långpanna på bakplåtspapper tunt så att hela pappret täcks.
+4. Grädda längst ner i ugnen, cirka 50 minuter.
 
 
 ## Kanelsmakande formbröd
@@ -938,6 +955,28 @@ C:a 50 st. Ugnstemperatur 200ºC
 
 Källa: Irene 1995-08-02
 
+
+## Pogácsa, variant med potatis
+
+Ugn 250ºC
+
+- cirka 5 dl mjöl
+- 100 g margarin
+- 1 ägg
+- 200 g potatis
+- 25 g jäst
+- ½ dl mjölk eller grädde
+- 1 tsk salt
+- 1 tsk socker
+- 1 dl riven ost
+
+1. Koka potatisen. Häll av det mesta av vattnet och mosa den, inte för slät. Låt kallna.
+2. Blanda mjukt margarin, potatisen, jäst utrörd i ljummen mjölk, salt, socker och halva ägget. Spara resten till pensling.
+3. Tillsätt mjöl och blanda väl. Degen ska vara rätt så mjuk men inte klibbig. Låt jäsa.
+4. Efter jäsning, kavla ut till fingertjocklek. Ta ut med mått. Låt jäsa på på plåten. Pensla med resten av ägget.
+5. Grädda i ugn cirka 10 minuter eller tills bullarna får vacker färg.
+
+Källa: Inga/Klara(?)
 
 ## Potatisbröd
 
