@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2025-01-12 15:02
+updated: 2025-01-12 16:07
 title: Matrecept
 nav_order: 2
 layout: default
@@ -269,6 +269,29 @@ Smör och socker röres; de andra ingredienserna iblandas. Smöret smältes för
 7. Efter 4–6 timmar är tårtan genomfryst och klar att servera efter ha att tinat ungefär en halvtimme i rumstemperatur.
 
 
+## GI-bröd med nötter
+
+Ugnstemperatur 175 ºC
+
+Ingredienser till en limpa:
+- 6 dl grahamsmjöl
+- 4 dadlar, färska, hackade
+- ½ dl rågkross
+- ½ dl linfrön, hela
+- ½ dl solrosfrön
+- ½ dl hackad mandel
+- ½ dl hackade valnötter
+- 1½ tsk bikarbonat
+- 1½ tsk salt
+- 6 dl filmjölk
+- 2 msk mörk sirap
+- ½ dl pumpafrön att strö ovanpå
+
+1. Smörj en avlång form. Strö på lite grahamsmjöl
+2. Hacka dadlarna och rör ihop ingredienserna, *förutom pumpafröna*, i en skål. Häll smeten i formen
+3. Strö på pumpafrön
+4. Grädda längst ner i ugnen cirka en timme
+
 ## Gifflar (Dagmars receptsamling)
 
 ![matrecept-gifflar-dagmar.png](./Images/matrecept-gifflar-dagmar.png)
@@ -525,7 +548,7 @@ Ugnstemperatur 150ºC
 
 1. Blanda allt torrt.
 2. Rör i olja och kokande vatten. Låt dra några minuter.
-3. Platta u i långpanna på bakplåtspapper tunt så att hela pappret täcks.
+3. Platta ut i långpanna på bakplåtspapper tunt så att hela papperet täcks.
 4. Grädda längst ner i ugnen, cirka 50 minuter.
 
 
