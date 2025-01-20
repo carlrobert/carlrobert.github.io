@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2025-01-12 16:07
+updated: 2025-01-20 21:39
 title: Matrecept
 nav_order: 2
 layout: default
@@ -2686,7 +2686,7 @@ Ger 4 liter. Tillagningstid 1,5 timme (6 dagar), marmelad inte inräknad
 *Koka sedan marmelad på citronerna. Det går fint att frysa in dem och göra marmeladen senare. Använd syltsocker – det är enklast.*
 
 ## Grönkålschips
-Sätt ugnen på 175 grader. Varmluft fungerar och kan vara fördelaktigt om du vaktar ugnen efter första plåtvändningen.
+Sätt ugnen på 150 grader. Varmluft fungerar bra. Ugnstid 3x5 minuter, alltså totalt cirka 15 minuter.
 ### Ingredienser
 - Långpanna, gärna med bakplåtsduk
 - Handriven grönkål, så mycket som ryms på långpannans botten
@@ -2705,10 +2705,11 @@ Klart att värma
 1. Platta till påsen och massera grönkålen med marinaden någon minut
 1. Fördela grönkålen jämnt i långpannan
 1. Grädda mitt i ugnen fem minuter
-1. Ta ut långpannan och rör om med stekspade. Sätt in den igen, gärna vänd 180 grader mot förut
-1. Grädda cirka fem minuter till
-1. Bevaka noga de sista minuterna. Grönkålen i mitten ska vara knaprig men undvik att kålen närmast kanterna blir brun
-1. Häll direkt från bakplåtsduk till serveringsskål så går chipsen inte sönder så mycket :)
+1. Ta ut långpannan och rör ev. om med stekspade. Sätt in den igen, gärna vänd 180 grader mot förut
+1. Grädda cirka fem minuter till.
+2. Ta ut och vänd plåten en gång till och grädda cirka fem minuter.
+3. Bevaka noga de sista minuterna. Grönkålen i mitten ska vara knaprig men undvik att kålen närmast kanterna blir brun
+4. Häll direkt från bakplåtsduk till serveringsskål så går chipsen inte sönder så mycket :)
 
 ![DSC_0093-gk2](https://github.com/carlrobert/matrecept/assets/4598641/a5906134-7f67-4116-932b-56c60acb134e)
 Serveringsklart
