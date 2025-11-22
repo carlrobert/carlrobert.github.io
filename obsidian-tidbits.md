@@ -1,9 +1,9 @@
 ---
-share: "true"
-updated: 2025-11-22 12:22
-title: Obsidian tidbits
-nav_order: 3
 layout: default
+nav_order: 3
+share: "true"
+title: Obsidian tidbits
+updated: 2025-11-22 12:22
 ---
 # Obsidian tidbits
 {: .no_toc }
@@ -17,7 +17,7 @@ layout: default
 {:toc}
 </details>
 
-This page describes how I currently use [Obsidian](https://obsidian.md). Hope you find this useful 🐱 The page is published using the excellent [Enveloppe plugin](https://enveloppe.github.io/). More stuff coming!
+This page describes how I currently use [Obsidian](https://obsidian.md). Hope you find this useful 🐱 The page is published using the excellent [Enveloppe plugin](https://enveloppe.github.io/). More stuff coming.
 ## Add word variants as alias properties
 You can use the note’s `alias` property to add singular or plural forms of note titles. For example,
 ![400](./Images/obsidian-tidbits-use-aliases-for-plurals.png)
