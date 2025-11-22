@@ -56,14 +56,14 @@ Setting up notes to combine markdown with Excalidraw makes sure you always have 
 * You can convert an existing (textual) note to incorporate Excalidraw. Use the “Convert markdown note to Excalidraw Drawing” command
 * Use the Excalidraw option to keep the svg export name in synch with the main file
 * You can see both sides by putting them side by side – use stacked tabs
-## Four note types
+## Note types: time-based and not time-based
 
-![Images/obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)
+![obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)
 
+To be elaborated.
 ## In a nutshell
-![Images/obsidian-tidbits-funnel-practice-1.png](Images/obsidian-tidbits-funnel-practice-1.png)
-Todo: elaborate
-
+![obsidian-tidbits-funnel-practice-1.png](./Images/obsidian-tidbits-funnel-practice-1.png)
+To be elaborated.
 ## What’s in a note?
 * Name – you can change it and links will update automatically
 * Frontmatter = metadata, including aliases for more 
@@ -72,7 +72,7 @@ names/variants
 * Image content – Excalidraw, rendered as SVG
 * Inline links to other notes
 
-Backlinks and the local graph are automatically generated for you. They are a great way of discovering connections.
+Backlinks and the local graph are automatically generated for you. They are a great way of discovering connections. Mention Ted Nelson’s Xanadu vision for the web.
 ## You can navigate your notes in many ways
 * Find or create a note option (ctrl-O)
 * Good ol' find (ctrl-F)
@@ -99,12 +99,12 @@ On a related topic, there are good plugins for spaced repetition
 * Use the local graph with neighbour links enabled (Filters)
 * Good ol’ search is always available
 * Try the Global graph view – your mileage may vary
-
 ## Single-page presentations using Excalidraw
-To do.
+To be elaborated.
 
 For details, see Zsolt Viczian’s [A detailed walkthrough of the Excalidraw-Obsidian Slideshow 3.0 script - YouTube](https://www.youtube.com/watch?v=JwgtCrIVeEU)
 ## My favourite community plugins for Obsidian
+
 * Auto Link Title
 * Calendar
 * Completr – word completion
@@ -119,7 +119,7 @@ For details, see Zsolt Viczian’s [A detailed walkthrough of the Excalidraw-Obs
 * Virtual linker / glossary
 
 These add small, nifty features. Excalidraw is the big exception
-## Learn more
+## Learn more – my favourite teachers
 * Morganeua: Make Your Notes Last A Practical Guide for Students. https://youtu.be/eId19ggnE4E
 	* Applies to projects as well as university courses
 * Same: Take RANDOMIZED zettelkasten notes with me! https://youtu.be/bmolnULA3KY
@@ -129,4 +129,3 @@ https://youtu.be/Kz_brQBl8xk
 * Justin Sung: Building a Perfect Learning System for a Professional in 45 
 Minutes. https://youtu.be/D95rCKo8vac
 * Ahrens: How to take smart notes book – for some backstory
-
