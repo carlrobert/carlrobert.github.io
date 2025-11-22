@@ -61,7 +61,7 @@ Setting up notes to combine markdown with Excalidraw makes sure you always have 
 ![Images/obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)
 
 ## In a nutshell
-![Images/obsidian-tidbits-funnel-practice-1.png](Images/obsidian-tidbits-funnel-practice-1.png)
+![Images/obsidian-tidbits-funnel-practice-1.png](./Images/obsidian-tidbits-funnel-practice-1.png)
 Todo: elaborate
 
 ## What’s in a note?
