@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2025-01-20 21:39
+updated: 2025-01-20 21:40
 title: Matrecept
 nav_order: 2
 layout: default
@@ -22,7 +22,7 @@ layout: default
 
 ## 1, 2, 3-kakor. Saftig sockerkaka. Naemis kaka (Dagmars receptsamling)
 
-![matrecept-123-dagmar.png](./Images/matrecept-123-dagmar.png)
+![[matrecept-123-dagmar.png|matrecept-123-dagmar.png]]
 
 ### 1, 2, 3-kakor
 
@@ -102,7 +102,7 @@ C:a 100 st. Tillagningstid 2 timmar. Ugnstemperatur 250ºC
 
 ## Dagmars vanliga pepparkakor (Dagmars receptsamling)
 
-![matrecept-vanliga-pepparkakor-dagmar.png](./Images/matrecept-vanliga-pepparkakor-dagmar.png)
+![[matrecept-vanliga-pepparkakor-dagmar.png|matrecept-vanliga-pepparkakor-dagmar.png]]
 
 250 g sirap,2 50 g socker, 250 g smör, 2 st ägg, 1 kg vetemjöl, 1 msk nejlikor, 1 msk ingefära, 1 matsked pomeransskal, 1 matsked kanel, 1 matsked bikarbonat.
 
@@ -233,7 +233,7 @@ C:a ?? st. Tillagningstid ½ timme
 
 ## Fru Möllers kringla. Bruna bröd (Ruths kakor) (Dagmars receptsamling)
 
-![matrecept-fru-möllers-kringla-dagmar.png](./Images/matrecept-fru-m%C3%B6llers-kringla-dagmar.png)
+![[matrecept-fru-möllers-kringla-dagmar.png|matrecept-fru-möllers-kringla-dagmar.png]]
 texten kompletterad av Harald L.
 ### Fru Möllers kringla
 
@@ -294,7 +294,7 @@ Ingredienser till en limpa:
 
 ## Gifflar (Dagmars receptsamling)
 
-![matrecept-gifflar-dagmar.png](./Images/matrecept-gifflar-dagmar.png)
+![[matrecept-gifflar-dagmar.png|matrecept-gifflar-dagmar.png]]
 
 100 g margarain, 1½ msk socker, 1 ägg, 30 g jäst, 1 dl grädde, 5½ dl vetemjöl
 
@@ -307,7 +307,7 @@ Rör matfett och socker pösigt. Blanda ner ägget, rör ut jästen i grädden o
 
 ## Goda bullar. Smulpaj (Dagmars receptsamling)
 
-![matrecept-goda-bullar-smulpaj-dagmar.png](./Images/matrecept-goda-bullar-smulpaj-dagmar.png)
+![[matrecept-goda-bullar-smulpaj-dagmar.png|matrecept-goda-bullar-smulpaj-dagmar.png]]
 
 ### Goda bullar
 
@@ -405,7 +405,7 @@ Ugnstemperatur 200–225ºC. 
 
 ## Havrekakor med russin resp. skurna i bitar (Dagmars receptsamling)
 
-![matrecept-havrekakor-dagmar.png](./Images/matrecept-havrekakor-dagmar.png)
+![[matrecept-havrekakor-dagmar.png|matrecept-havrekakor-dagmar.png]]
 
 ### Havrekakor med russin, c:a 50 st
 
@@ -444,7 +444,7 @@ Smält smöret och häll det över havregrynen i en skål. Blanda sedan i de and
 
 ## Havresnitt c:a 45 st, goda (Dagmars receptsamling)
 
-![matrecept-havresnitt-dagmar.png](./Images/matrecept-havresnitt-dagmar.png)
+![[matrecept-havresnitt-dagmar.png|matrecept-havresnitt-dagmar.png]]
 
 150 g smör, 1½ dl socker, 3 dl havregryn, 1 tsk bakpulver, 1½ dl vetemjöl.
 
@@ -520,7 +520,7 @@ Värm ugnen till 175–200 grader. Rör smör och socker pösigt. Blanda i de an
 
 ## Judits pepparkakor. Nötkakor (Dagmars receptsamling)
 
-![matrecept-judits-pepparkakor-dagmar.png](./Images/matrecept-judits-pepparkakor-dagmar.png)
+![[matrecept-judits-pepparkakor-dagmar.png|matrecept-judits-pepparkakor-dagmar.png]]
 
 ### Judits pepparkakor, över 300 st
 
@@ -604,13 +604,13 @@ Dag 2:
 
 ## Knäck (Dagmars receptsamling)
 
-![matrecept-knäck-dagmar.png](./Images/matrecept-kn%C3%A4ck-dagmar.png)
+![[matrecept-knäck-dagmar.png|matrecept-knäck-dagmar.png]]
 
 ½ liter grädde, ½ liter sirap, ½ liter socker, 1 kaffekopp stötta skorpor, 1½ hg sötmandel. Grädden, sirapen och sockret hälles i denna ordning i en kastrull och får koka till smeten kännes tjock.
 
 ## Kardemummakaka. Gunnels havrekakor. Alice kaffekaka (Dagmars receptsamling)
 
-![matrecept-kardemummakaka-dagmar.png](./Images/matrecept-kardemummakaka-dagmar.png)
+![[matrecept-kardemummakaka-dagmar.png|matrecept-kardemummakaka-dagmar.png]]
 
 ### Kardemummakaka
 
@@ -627,15 +627,15 @@ Dag 2:
 
 ## Knäck. Enkel kola. Gräddkola. Praliner. Ischoklad (Konsum/Kooperativa, ur Dagmars receptsamling)
 
-![matrecept-knäck-1.png](./Images/matrecept-kn%C3%A4ck-1.png)
+![[matrecept-knäck-1.png|matrecept-knäck-1.png]]
 
-![matrecept-knäck-2-dagmar.png](./Images/matrecept-kn%C3%A4ck-2-dagmar.png)
+![[matrecept-knäck-2-dagmar.png|matrecept-knäck-2-dagmar.png]]
 Odaterade recept från Konsum/Kooperativa
 
 
 ## Korintkakor (Agdas). Enkla kanelkransar (Dagmars receptsamling)
 
-![matrecept-korintkakor-kanelkransar-dagmar.png](./Images/matrecept-korintkakor-kanelkransar-dagmar.png)
+![[matrecept-korintkakor-kanelkransar-dagmar.png|matrecept-korintkakor-kanelkransar-dagmar.png]]
 
 ### Korintkakor (Agdas)
 
@@ -733,7 +733,7 @@ Till pensling:
 5. Lägg kakorna på smord eller bakpappersklädd plåt.
 6. Grädda i 175 graders varm ugn 5 till 6 minuter eller tills kakorna är gulbruna.
 
-![matrecept-majs-herdinnor.png](./Images/matrecept-majs-herdinnor.png)
+![[matrecept-majs-herdinnor.png|matrecept-majs-herdinnor.png]]
 Källa: tidningen [Land](https://www.land.se/), 1981
 
 
@@ -767,7 +767,7 @@ Idéer till garnering:
 
 ## Min bästa sockerkaka. Johannisbitar (Dagmars receptsamling)
 
-![matrecept-sockerkaka-johannisbitar-dagmar.png](./Images/matrecept-sockerkaka-johannisbitar-dagmar.png)
+![[matrecept-sockerkaka-johannisbitar-dagmar.png|matrecept-sockerkaka-johannisbitar-dagmar.png]]
 
 ### Min bästa sockerkaka
 
@@ -873,7 +873,7 @@ C:a 150 st. Tillagningstid 2 timmar. Ugnstemperatur 225ºC
 
 ## Mördeg till paj. Spritsringar (Dagmars receptsamling)
 
-![matrecept-mördeg-till-paj.png](./Images/matrecept-m%C3%B6rdeg-till-paj.png)
+![[matrecept-mördeg-till-paj.png|matrecept-mördeg-till-paj.png]]
 
 ### Mördeg till paj
 
@@ -907,7 +907,7 @@ Smöret och mjölet arbetas väl tillsammans med äggen, som först slås med so
 
 ## Nötkakor. Finare vetebröd (Dagmars receptsamling)
 
-![matrecept-nötkakor-vetebröd-dagmar.png](./Images/matrecept-n%C3%B6tkakor-vetebr%C3%B6d-dagmar.png)
+![[matrecept-nötkakor-vetebröd-dagmar.png|matrecept-nötkakor-vetebröd-dagmar.png]]
 
 ### Nötkakor (1½ sats)
 
@@ -1079,7 +1079,7 @@ Tillagningstid 2 timmar. Ugnstemperatur 175ºC
 
 ## Päron syltade med vin. Knäck. Plum-cake. Dundertårta (ur Iduns hjälpreda, Dagmars receptsamling)
 
-![matrecept-päron-knäck-plum-cake-dagmar.png](./Images/matrecept-p%C3%A4ron-kn%C3%A4ck-plum-cake-dagmar.png) Receptsida ur Iduns hjälpreda av okänt datum
+![[matrecept-päron-knäck-plum-cake-dagmar.png|matrecept-päron-knäck-plum-cake-dagmar.png]] Receptsida ur Iduns hjälpreda av okänt datum
 
 ### Päron syltade med vin
 
@@ -1136,7 +1136,7 @@ Glasyr:
 
 ## Sandbröd – flottyrringar – struvor (Dagmars receptsamling)
 
-![matrecept-sandbröd-flottyrringar-struvor-dagmar.png](./Images/matrecept-sandbr%C3%B6d-flottyrringar-struvor-dagmar.png)
+![[matrecept-sandbröd-flottyrringar-struvor-dagmar.png|matrecept-sandbröd-flottyrringar-struvor-dagmar.png]]
 
 ### Sandbröd
 
@@ -1276,7 +1276,7 @@ Garnering:
 
 ## Tårta (Dagmars receptsamling)
 
-![matrecept-tårta-dagmar.png](./Images/matrecept-t%C3%A5rta-dagmar.png)
+![[matrecept-tårta-dagmar.png|matrecept-tårta-dagmar.png]]
 
 **3 äggulor, 1 dl socker** vispas hårt. **1½ dl smör** smältes. **5 msk mjölk, 1½ dl mjöl, 2 teskedar bakpulver** blandas ner. Smeten bredes ut på smörpapper i en långpanna. Vitorna och **2 deciliter socker** vispas hårt och bredes ovanpå den andra smeten; hackade nötter eller mandel strös på. Sättes in i ugnen i **150 grader i 30 till 40 minuter**. Dela kakan på mitten och lägg **3 deciliter vispad grädde och jordgubbar eller hallon** emellan.
 
@@ -1308,7 +1308,7 @@ Dag 2:
 
 ## Uppåkrakakor (Dagmars receptsamling)
 
-![matrecept-uppåkrakakor-dagmar.png](./Images/matrecept-upp%C3%A5krakakor-dagmar.png)
+![[matrecept-uppåkrakakor-dagmar.png|matrecept-uppåkrakakor-dagmar.png]]
 
 425 gram smör, 160 gram socker, 210 gram potatismjöl, 425 gram vetemjöl  
 
@@ -1318,7 +1318,7 @@ Smöret röres med sockret och de båda mjölsorterna arbetas in. Degen kavlas u
 
 ## Vaniljkakor (Dagmars receptsamling)
 
-![matrecept-vaniljkakor-dagmar.png](./Images/matrecept-vaniljkakor-dagmar.png)
+![[matrecept-vaniljkakor-dagmar.png|matrecept-vaniljkakor-dagmar.png]]
 
 1 hg smör, 2 st ägg, 2 hg socker, 4 teskedar vaniljsocker, 4 hg vetemjöl, 1 tesked hjorthornssalt
 
@@ -1832,7 +1832,7 @@ Källa: Dagny, april 2002
 
 
 ## Crêpes (pannkakor) (Dagmars receptsamling)
-![matrecept-crêpes-dagmar.png](./Images/matrecept-cr%C3%AApes-dagmar.png)
+![[matrecept-crêpes-dagmar.png|matrecept-crêpes-dagmar.png]]
 
 - 1 dl vetemjöl
 - 2 dl mjölk
@@ -2107,7 +2107,7 @@ Tillbehör: kokt vitt ris och naturell salladskål.
 
 ## Julkorv 1 (Dagmars receptsamling)
 
-![matrecept-julkorv-1-dagmar.png](./Images/matrecept-julkorv-1-dagmar.png)
+![[matrecept-julkorv-1-dagmar.png|matrecept-julkorv-1-dagmar.png]]
 
 - 3/4 kg oxkött
 - 3/4 kg fläskkött
@@ -2125,7 +2125,7 @@ Tillbehör: kokt vitt ris och naturell salladskål.
 
 ## Julkorv 2 (Dagmars receptsamling)
 
-![matrecept-julkorv-2-dagmar.png](./Images/matrecept-julkorv-2-dagmar.png)
+![[matrecept-julkorv-2-dagmar.png|matrecept-julkorv-2-dagmar.png]]
 
 - 1 kg oxkött
 - 1 kg fläskkött
@@ -2721,7 +2721,7 @@ Serveringsklart
 5 dl ättika  
 1,5 kg socker  
 20 pepparkorn  
-2--3 muskotblommor  
+2–3 muskotblommor  
 dill  
 1 till 1,5 dl peppar  
 ev. senapsfrö  
