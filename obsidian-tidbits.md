@@ -1,6 +1,6 @@
 ---
 share: "true"
-updated: 2024-11-05 19:50
+updated: 2025-11-22 12:22
 title: Obsidian tidbits
 nav_order: 3
 layout: default
@@ -17,7 +17,7 @@ layout: default
 {:toc}
 </details>
 
-This page describes how I currently use [Obsidian](https://obsidian.md). Hope you find this useful 🐱 The page is published using the excellent [Enveloppe plugin](https://enveloppe.github.io/).
+This page describes how I currently use [Obsidian](https://obsidian.md). Hope you find this useful 🐱 The page is published using the excellent [Enveloppe plugin](https://enveloppe.github.io/). More stuff coming!
 ## Add word variants as alias properties
 You can use the note’s `alias` property to add singular or plural forms of note titles. For example,
 ![400](./Images/obsidian-tidbits-use-aliases-for-plurals.png)
@@ -45,6 +45,7 @@ You can transclude the svg version of the Excalidraw page as usual:
 See Nicole van der Hoeven’s lovely video: [Visual note templates with Obsidian Excalidraw - YouTube](https://youtu.be/zmgqMZi6QL8)
 
 The only disadvantage I’ve found is the extra svg files in the vault.
+
 ## Single-page presentations using Excalidraw
 To do.
 
