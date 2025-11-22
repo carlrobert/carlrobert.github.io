@@ -3,7 +3,7 @@ layout: default
 nav_order: 3
 share: "true"
 title: Obsidian tidbits
-updated: 2025-11-22 12:22
+updated: 2025-11-22 17:56
 ---
 # Obsidian tidbits
 {: .no_toc }
@@ -58,10 +58,10 @@ Setting up notes to combine markdown with Excalidraw makes sure you always have 
 * You can see both sides by putting them side by side – use stacked tabs
 ## Four note types
 
-![[obsidian-tidbits-four-note-types.png|obsidian-tidbits-four-note-types.png]]
+![[Images/obsidian-tidbits-four-note-types.png|Images/obsidian-tidbits-four-note-types.png]]
 
 ## In a nutshell
-![[obsidian-tidbits-funnel-practice-1.png|obsidian-tidbits-funnel-practice-1.png]]
+![[Images/obsidian-tidbits-funnel-practice-1.png|Images/obsidian-tidbits-funnel-practice-1.png]]
 ## What’s in a note?
 * Name – you can change it and links will update automatically
 * Frontmatter = metadata, including aliases for more 
@@ -81,6 +81,7 @@ Backlinks and the local graph are automatically generated for you. They are a gr
 
 On a related topic, there are good plugins for spaced repetition
 ## KISS: 😽
+
 
 | Less …                     | is more                                    |
 | -------------------------- | ------------------------------------------ |
