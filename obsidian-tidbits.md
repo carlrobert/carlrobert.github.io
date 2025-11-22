@@ -58,10 +58,12 @@ Setting up notes to combine markdown with Excalidraw makes sure you always have 
 * You can see both sides by putting them side by side – use stacked tabs
 ## Four note types
 
-![[Images/obsidian-tidbits-four-note-types.png|Images/obsidian-tidbits-four-note-types.png]]
+![Images/obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)
 
 ## In a nutshell
-![[Images/obsidian-tidbits-funnel-practice-1.png|Images/obsidian-tidbits-funnel-practice-1.png]]
+![Images/obsidian-tidbits-funnel-practice-1.png](Images/obsidian-tidbits-funnel-practice-1.png)
+Todo: elaborate
+
 ## What’s in a note?
 * Name – you can change it and links will update automatically
 * Frontmatter = metadata, including aliases for more 
@@ -90,6 +92,7 @@ On a related topic, there are good plugins for spaced repetition
 | organizing ahead of time   | 🎨 emergent themes via links 😊            |
 | word count per ‘note’ note | 🤔 reusability – linking trains of thought |
 | cloud                      | ⏳ future proofing                          |
+
 ## Vault gardening – ways of learning and (re)discovering
 * Find orphaned files and broken links plugin
 * Improved random note plugin – re-visit stuff you might have forgotten
