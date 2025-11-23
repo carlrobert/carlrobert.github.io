@@ -7,6 +7,6 @@ permalink: /
 ---
 # Hiya and welcome to my blog
 
-[Matrecept &ndash; food recipes, in Swedish](matrecept.html)
+[Matrecept &ndash; food recipes, in Swedish](matrecept.html) 🧑‍🍳😋
 
-[Obsidian tidbits](obsidian-tidbits.html)
+[Obsidian tidbits](obsidian-tidbits.html) 📝
