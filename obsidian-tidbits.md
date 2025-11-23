@@ -3,7 +3,7 @@ layout: default
 nav_order: 3
 share: "true"
 title: Obsidian tidbits
-updated: 2025-11-23 08:45
+updated: 2025-11-23 14:37
 ---
 # Obsidian tidbits  
 {: .no_toc }  
@@ -21,11 +21,49 @@ This page describes how I currently use [Obsidian](https://obsidian.md). Hope yo
   
 >For searchability, that is, the mighty `ctrl-F`, I will keep this one page for now. Still, my ambition is to keep each topic/FAQ atomic, trying to fit each subsection on a typical screen.   
   
+## What I appreciate about Obsidian  
+![obsidian-tidbits-funnel-practice-1.png](./Images/obsidian-tidbits-funnel-practice-1.png)  
+Notes with multiple names (aliases), two sides and flexible linking are the key features for me.  
+  
+## KISS, or less is more 😽  
+These are some guiding principles I’ve found useful when deciding how to use Obsidian.  
+  
+| Less …                     | is more                                             |  
+| -------------------------- | --------------------------------------------------- |  
+| folders                    | 🔗 links                                            |  
+| vaults, docs, notebooks    | 🔗 links, again 😆                                  |  
+| organizing ahead of time   | 🎨 emergent themes via links 😊                     |  
+| word count per ‘note’ note | 🤔 shorter notes – easier linking trains of thought |  
+| cloud                      | ⏳ future proofing                                   |  
+## What’s in a note? Isnt’t it just a bunch of text?  
+* Name – you can change it and links will update automatically  
+* Frontmatter = metadata, including aliases for more names/variants. See [[#Add word variants as `aliases` in the frontmatter]] below  
+* Textual side – markdown, rendered live  
+* Image side – Excalidraw, rendered as SVG  
+* Inline links to other notes  
+* Pasted images, screenshots  
+  
+Backlinks and the local graph are automatically generated for you. They are a great way of discovering connections. Having links *and* backlinks available was a key feature in Ted Nelson’s thinking about hypertext and [project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu).  
+  
 ## Add word variants as `aliases` in the frontmatter  
 You can use the note’s `aliases` property to add singular or plural forms of note titles. For example,  
 ![400](./Images/obsidian-tidbits-use-aliases-for-plurals.png)  
   
 It can also make sense to use aliases for acronyms such as ‘CSS’ and ‘css’. Lower case tends to make notes more legible, especially if you are inundated with acronyms. Your mileage may vary 😊  
+## Note types: time-based and not time-based  
+  
+![obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)  
+  
+A quick intro to the note types I use:  
+1. Daily notes: I use the ‘Daily Notes’ core plugin. All daily notes are in their own folder and there is a dedicated daily note template. The daily note has a logbook/diary section and a placeholder for today’s to do-list. The daily note is the default spot for off-the-cuff note taking. These loose ends can later be moved to a project, source or ‘note’ note.  
+2. Project note & journal: each project has its own ‘note’ note containing relevant links and a logbook to track my own contributions to the project  
+3. Source notes are the notes and mindmaps from attending lectures & trainings, watching videos, reading books and so on  
+4. ‘Note’ notes are written in my own words and can refer back to the other types of notes above  
+5. Atomic notes are refined ‘note’ notes that focus on a single concept or idea. Besides being shorter (‘atomic’), my aim is to make them interconnected with other relevant notes  
+  
+![250](./Images/obsidian-tidbits-file-explorer.png)  
+My folder hierarchy. I only have a few folders. Plain ‘note’ notes start out with ‘🍅pomodoro’.  
+  
 ## Use two-sided notes, combining markdown and Excalidraw  
 Setting up notes to combine markdown with Excalidraw makes sure each note always has its own scratch pad for diagrams and visual 🧠-storming. I find this especially useful for source notes. If this sounds interesting, have a look at Nicole van der Hoeven’s lovely video: [Visual note templates with Obsidian Excalidraw - YouTube](https://youtu.be/zmgqMZi6QL8)  
   
@@ -39,7 +77,6 @@ Here is a summary of my setup and experiences of using two-sided notes. Install 
 3. Saving > Compress Excalidraw JSON in Markdown – enable this to reduce clutter in search results.  
 4. Embedding Excalidraw > Auto-export Settings > Auto-export SVG: set to on  
 5. Miscellaneous features > Fade out Excalidraw markup. This helps avoid visual clutter at the bottom of each note file. Each note is self-contained and easy to share as a single markdown file.  
-  
 Also,  
 * You can convert an existing (textual) note to incorporate Excalidraw. Use the *‘Excalidraw: Convert markdown note to Excalidraw Drawing’* command  
 * To switch between the two sides of the note, use the *‘Excalidraw: Toggle between Excalidraw and markdown mode’* command.  
@@ -58,66 +95,39 @@ excalidraw-open-md: true
 ```  
 - The only (minor) disadvantage I’ve found is the extra svg files in the vault.  
   
-## Note types: time-based and not time-based  
-  
-![obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)  
-  
-To be elaborated.  
-## What I appreciate about Obsidian  
-![obsidian-tidbits-funnel-practice-1.png](./Images/obsidian-tidbits-funnel-practice-1.png)  
-To be elaborated.  
-## Anatomy of a note  
-* Name – you can change it and links will update automatically  
-* Frontmatter = metadata, including aliases for more   
-names/variants  
-* Textual content – markdown, rendered live  
-* Image content – Excalidraw, rendered as SVG  
-* Inline links to other notes  
-  
-Backlinks and the local graph are automatically generated for you. They are a great way of discovering connections. Mention Ted Nelson’s Xanadu vision for the web.  
 ## You can navigate your notes in many ways  
 * Find or create a note option (ctrl-O)  
-* Good ol' find (ctrl-F)  
+* Good ol’ find (ctrl-F)  
 * Via outgoing links from a note  
 * Linked mentions – at the bottom of each note  
 * Unlinked mentions  
-* Via the Files explorer – I use this mostly for organizing  
+* Via the Files explorer  
   
-On a related topic, there are good plugins for spaced repetition  
-## KISS, or less is more 😽  
-  
-| Less …                     | is more                                    |  
-| -------------------------- | ------------------------------------------ |  
-| folders                    | 🔗 links                                   |  
-| vaults, docs, notebooks    | 🔗 links, again 😆                         |  
-| organizing ahead of time   | 🎨 emergent themes via links 😊            |  
-| word count per ‘note’ note | 🤔 reusability – linking trains of thought |  
-| cloud                      | ⏳ future proofing                          |  
 ## Vault gardening – ways of learning and (re)discovering  
-* Find orphaned files and broken links plugin  
-* Improved random note plugin – re-visit stuff you might have forgotten  
+* Find orphaned files and broken links plugin – find potentially forgotten notes  
+* Improved random note plugin – rediscover notes and improve them in a more spontaneous way  
 * Use the local graph with neighbour links enabled (Filters)  
 * Good ol’ search is always available  
 * Try the Global graph view – your mileage may vary  
+  
+On a related topic, there are good plugins for spaced repetition  
 ## Single-page presentations using Excalidraw  
-To be elaborated.  
+To be elaborated.   
   
 For details, see Zsolt Viczian’s [A detailed walkthrough of the Excalidraw-Obsidian Slideshow 3.0 script - YouTube](https://www.youtube.com/watch?v=JwgtCrIVeEU)  
 ## My fave community plugins for Obsidian  
-* Auto Link Title  
-* Calendar  
-* Completr – word completion  
-* Emoji toolbar 🦄  
-* Excalidraw   
-* Find orphaned files and broken links  
-* Front matter time stamps  
-* Improved random note  
-* Paste image rename  
-* Smart typography  
-* Unicode search ☂️ꭅ  
-* Virtual linker / glossary  
-  
-These add small, nifty features. Excalidraw is the big exception  
+* [zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)  
+* [liamcain/obsidian-calendar-plugin: Simple calendar widget for Obsidian.](https://github.com/liamcain/obsidian-calendar-plugin)  
+* [tth05/obsidian-completr: Auto-completion plugin for the obsidian editor.](https://github.com/tth05/obsidian-completr)  
+* [oliveryh/obsidian-emoji-toolbar: An Obsidian plugin to quickly add emojis into your notes](https://github.com/oliveryh/obsidian-emoji-toolbar) 🦄  
+* [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin)  
+* [Vinzent03/find-unlinked-files: Find files, which are nowhere linked, so they are maybe lost in your vault.](https://github.com/Vinzent03/find-unlinked-files)  
+* [lighthousedino/obsidian-front-matter-timestamps](https://github.com/lighthousedino/obsidian-front-matter-timestamps) – set the update/creation time for a note  
+* [ShockThunder/improved-random-note](https://github.com/ShockThunder/improved-random-note) – rediscover your notes by throwing a dice  
+* [reorx/obsidian-paste-image-rename: Renames pasted images and all the other attachments added to the vault](https://github.com/reorx/obsidian-paste-image-rename)  
+* [mgmeyers/obsidian-smart-typography: Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses](https://github.com/mgmeyers/obsidian-smart-typography)  
+* [BambusControl/obsidian-unicode-search: Simple Unicode character search for Obsidian.md](https://github.com/BambusControl/obsidian-unicode-search) ☂️ꭅ  
+* [vschroeter/obsidian-virtual-linker: Plugin for obsidian that automatically generates virtual links for text within your notes that match with the titles or aliases of other notes in your vault.](https://github.com/vschroeter/obsidian-virtual-linker)  
 ## Learn more from my favourite teachers  
 * Morganeua:[ Make Your Notes Last A Practical Guide for Students](https://youtu.be/eId19ggnE4E)  
 	* This approach is as good for projects as for university courses  
