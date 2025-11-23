@@ -3,7 +3,7 @@ layout: default
 nav_order: 3
 share: "true"
 title: Obsidian tidbits
-updated: 2025-11-23 14:37
+updated: 2025-11-23 14:44
 ---
 # Obsidian tidbits  
 {: .no_toc }  
@@ -28,6 +28,7 @@ Notes with multiple names (aliases), two sides and flexible linking are the key 
 ## KISS, or less is more 😽  
 These are some guiding principles I’ve found useful when deciding how to use Obsidian.  
   
+  
 | Less …                     | is more                                             |  
 | -------------------------- | --------------------------------------------------- |  
 | folders                    | 🔗 links                                            |  
@@ -35,6 +36,7 @@ These are some guiding principles I’ve found useful when deciding how to use O
 | organizing ahead of time   | 🎨 emergent themes via links 😊                     |  
 | word count per ‘note’ note | 🤔 shorter notes – easier linking trains of thought |  
 | cloud                      | ⏳ future proofing                                   |  
+  
 ## What’s in a note? Isnt’t it just a bunch of text?  
 * Name – you can change it and links will update automatically  
 * Frontmatter = metadata, including aliases for more names/variants. See [[#Add word variants as `aliases` in the frontmatter]] below  
