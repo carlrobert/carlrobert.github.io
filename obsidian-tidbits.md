@@ -25,7 +25,7 @@ This page describes how I currently use [Obsidian](https://obsidian.md). Hope yo
 You can use the note’s `aliases` property to add singular or plural forms of note titles. For example,  
 ![400](./Images/obsidian-tidbits-use-aliases-for-plurals.png)  
   
-A related use case is to use aliases for acronyms such as ‘CSS’ and ‘css’. Lower case tends to make notes more legible, especially if you are inundated with acronyms. Your mileage may vary 😊  
+It can also make sense to use aliases for acronyms such as ‘CSS’ and ‘css’. Lower case tends to make notes more legible, especially if you are inundated with acronyms. Your mileage may vary 😊  
 ## Use two-sided notes, combining markdown and Excalidraw  
 Setting up notes to combine markdown with Excalidraw makes sure each note always has its own scratch pad for diagrams and visual 🧠-storming. I find this especially useful for source notes. If this sounds interesting, have a look at Nicole van der Hoeven’s lovely video: [Visual note templates with Obsidian Excalidraw - YouTube](https://youtu.be/zmgqMZi6QL8)  
   
@@ -63,10 +63,10 @@ excalidraw-open-md: true
 ![obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)  
   
 To be elaborated.  
-## In a nutshell  
+## What I appreciate about Obsidian  
 ![obsidian-tidbits-funnel-practice-1.png](./Images/obsidian-tidbits-funnel-practice-1.png)  
 To be elaborated.  
-## What’s in a note?  
+## Anatomy of a note  
 * Name – you can change it and links will update automatically  
 * Frontmatter = metadata, including aliases for more   
 names/variants  
@@ -84,8 +84,7 @@ Backlinks and the local graph are automatically generated for you. They are a gr
 * Via the Files explorer – I use this mostly for organizing  
   
 On a related topic, there are good plugins for spaced repetition  
-## KISS: 😽  
-  
+## KISS, or less is more 😽  
   
 | Less …                     | is more                                    |  
 | -------------------------- | ------------------------------------------ |  
@@ -94,20 +93,17 @@ On a related topic, there are good plugins for spaced repetition
 | organizing ahead of time   | 🎨 emergent themes via links 😊            |  
 | word count per ‘note’ note | 🤔 reusability – linking trains of thought |  
 | cloud                      | ⏳ future proofing                          |  
-  
 ## Vault gardening – ways of learning and (re)discovering  
 * Find orphaned files and broken links plugin  
 * Improved random note plugin – re-visit stuff you might have forgotten  
 * Use the local graph with neighbour links enabled (Filters)  
 * Good ol’ search is always available  
 * Try the Global graph view – your mileage may vary  
-  
 ## Single-page presentations using Excalidraw  
 To be elaborated.  
   
 For details, see Zsolt Viczian’s [A detailed walkthrough of the Excalidraw-Obsidian Slideshow 3.0 script - YouTube](https://www.youtube.com/watch?v=JwgtCrIVeEU)  
-  
-## My favourite community plugins for Obsidian  
+## My fave community plugins for Obsidian  
 * Auto Link Title  
 * Calendar  
 * Completr – word completion  
@@ -122,10 +118,9 @@ For details, see Zsolt Viczian’s [A detailed walkthrough of the Excalidraw-Obs
 * Virtual linker / glossary  
   
 These add small, nifty features. Excalidraw is the big exception  
-  
-## Learn more – my favourite teachers  
+## Learn more from my favourite teachers  
 * Morganeua:[ Make Your Notes Last A Practical Guide for Students](https://youtu.be/eId19ggnE4E)  
-	* This approach is as good for projects as well as university courses  
+	* This approach is as good for projects as for university courses  
 * Same: [Take RANDOMIZED zettelkasten notes with me!](https://youtu.be/bmolnULA3KY)  
 	* Vault gardening in a fun way, embracing serendipity  
 * Elizabeth Filips: [You’re Not Stupid: How to Easily Learn Difficult Things](https://youtu.be/Kz_brQBl8xk)  
