@@ -3,7 +3,7 @@ layout: default
 nav_order: 3
 share: "true"
 title: Obsidian tidbits
-updated: 2025-11-23 14:44
+updated: 2025-11-24 17:21
 ---
 # Obsidian tidbits  
 {: .no_toc }  
@@ -23,7 +23,8 @@ This page describes how I currently use [Obsidian](https://obsidian.md). Hope yo
   
 ## What I appreciate about Obsidian  
 ![obsidian-tidbits-funnel-practice-1.png](./Images/obsidian-tidbits-funnel-practice-1.png)  
-Notes with multiple names (aliases), two sides and flexible linking are the key features for me.  
+- Notes with multiple names (aliases), two sides and flexible linking are the key features for me  
+- A single vault keeps all notes. You cannot link between vaults, making multiple vaults much less useful  
   
 ## KISS, or less is more 😽  
 These are some guiding principles I’ve found useful when deciding how to use Obsidian.  
@@ -52,19 +53,29 @@ You can use the note’s `aliases` property to add singular or plural forms of n
 ![400](./Images/obsidian-tidbits-use-aliases-for-plurals.png)  
   
 It can also make sense to use aliases for acronyms such as ‘CSS’ and ‘css’. Lower case tends to make notes more legible, especially if you are inundated with acronyms. Your mileage may vary 😊  
-## Note types: time-based and not time-based  
+  
+## My note types: time-based, not time-based  
   
 ![obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)  
   
 A quick intro to the note types I use:  
 1. Daily notes: I use the ‘Daily Notes’ core plugin. All daily notes are in their own folder and there is a dedicated daily note template. The daily note has a logbook/diary section and a placeholder for today’s to do-list. The daily note is the default spot for off-the-cuff note taking. These loose ends can later be moved to a project, source or ‘note’ note.  
 2. Project note & journal: each project has its own ‘note’ note containing relevant links and a logbook to track my own contributions to the project  
-3. Source notes are the notes and mindmaps from attending lectures & trainings, watching videos, reading books and so on  
+3. Source notes are the notes and mind-maps from attending lectures & trainings, watching videos, reading books and so on  
 4. ‘Note’ notes are written in my own words and can refer back to the other types of notes above  
-5. Atomic notes are refined ‘note’ notes that focus on a single concept or idea. Besides being shorter (‘atomic’), my aim is to make them interconnected with other relevant notes  
+5. Atomic notes are refined ‘note’ notes that focus on a single concept or idea. Besides being shorter (‘atomic’), they should be interlinked with other relevant notes. Atomic notes emerge over time and not all ‘note’ notes end up in this state  
+  
+## Just a handful of folders  
   
 ![250](./Images/obsidian-tidbits-file-explorer.png)  
-My folder hierarchy. I only have a few folders. Plain ‘note’ notes start out with ‘🍅pomodoro’.  
+  
+In line with the principle of emergent organization, I keep the number of folders to a minimum.  
+- Daily notes are highly structured and deserve their own folders as to not swamp the vault  
+- Images are linked from notes and get their own folder  
+- Source notes get their own folder as a way of making ‘note’ notes stand out  
+- Templates are a key resource used by different plugins and need a dedicated folder  
+  
+The remainder of the vault are ‘note’ notes, starting out with ‘🍅pomodoro’ in the screenshot.  
   
 ## Use two-sided notes, combining markdown and Excalidraw  
 Setting up notes to combine markdown with Excalidraw makes sure each note always has its own scratch pad for diagrams and visual 🧠-storming. I find this especially useful for source notes. If this sounds interesting, have a look at Nicole van der Hoeven’s lovely video: [Visual note templates with Obsidian Excalidraw - YouTube](https://youtu.be/zmgqMZi6QL8)  
@@ -116,6 +127,7 @@ On a related topic, there are good plugins for spaced repetition
   
 ## Consider using Obsidian’s reading view when copy–pasting to other apps  
 When copying from Obsidian to paste into other tools, try copying from the reading view.   
+  
 ![obsidian-tidbits-reading-view-icon.png](./Images/obsidian-tidbits-reading-view-icon.png)  
 The HTML formatting you get with the reading view might be more suitable than the raw markdown, depending on your paste destination.  
   
@@ -123,6 +135,7 @@ The HTML formatting you get with the reading view might be more suitable than th
 To be elaborated.   
   
 For details, see Zsolt Viczian’s [A detailed walkthrough of the Excalidraw-Obsidian Slideshow 3.0 script - YouTube](https://www.youtube.com/watch?v=JwgtCrIVeEU)  
+  
 ## My fave community plugins for Obsidian  
 * [zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)  
 * [liamcain/obsidian-calendar-plugin: Simple calendar widget for Obsidian.](https://github.com/liamcain/obsidian-calendar-plugin)  
@@ -136,6 +149,7 @@ For details, see Zsolt Viczian’s [A detailed walkthrough of the Excalidraw-Obs
 * [mgmeyers/obsidian-smart-typography: Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses](https://github.com/mgmeyers/obsidian-smart-typography)  
 * [BambusControl/obsidian-unicode-search: Simple Unicode character search for Obsidian.md](https://github.com/BambusControl/obsidian-unicode-search) ☂️ꭅ  
 * [vschroeter/obsidian-virtual-linker: Plugin for obsidian that automatically generates virtual links for text within your notes that match with the titles or aliases of other notes in your vault.](https://github.com/vschroeter/obsidian-virtual-linker)  
+  
 ## Learn more from my favourite teachers  
 * Morganeua:[ Make Your Notes Last A Practical Guide for Students](https://youtu.be/eId19ggnE4E)  
 	* This approach is as good for projects as for university courses  
