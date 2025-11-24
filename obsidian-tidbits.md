@@ -39,8 +39,8 @@ These are some guiding principles I’ve found useful when deciding how to use O
 | cloud                      | ⏳ future proofing                                   |  
   
 ## What’s in a note? Isnt’t it just a bunch of text?  
-* Name – you can change it and links will update automatically  
-* Frontmatter = metadata, including aliases for more names/variants. See [[#Add word variants as `aliases` in the frontmatter]] below  
+* Name – you can always rename a note and links will update automatically  
+* Frontmatter = metadata, including aliases for more names/variants. See [Add word variants as aliases in the frontmatter](obsidian-tidbits.md##Add%2520word%2520variants%2520as%2520aliases%2520in%2520the%2520frontmatter) below  
 * Textual side – markdown, rendered live  
 * Image side – Excalidraw, rendered as SVG  
 * Inline links to other notes  
@@ -48,7 +48,7 @@ These are some guiding principles I’ve found useful when deciding how to use O
   
 Backlinks and the local graph are automatically generated for you. They are a great way of discovering connections. Having links *and* backlinks available was a key feature in Ted Nelson’s thinking about hypertext and [project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu).  
   
-## Add word variants as `aliases` in the frontmatter  
+## Add word variants as aliases in the frontmatter  
 You can use the note’s `aliases` property to add singular or plural forms of note titles. For example,  
 ![400](./Images/obsidian-tidbits-use-aliases-for-plurals.png)  
   
