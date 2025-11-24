@@ -22,7 +22,7 @@ This page describes how I currently use [Obsidian](https://obsidian.md). Hope yo
 >For searchability, that is, the mighty `ctrl-F`, I will keep this one page for now. Still, my ambition is to keep each topic/FAQ atomic, trying to fit each subsection on a typical screen.   
   
 ## What I appreciate about Obsidian  
-![[./Images/obsidian-tidbits-funnel-practice-1.png|obsidian-tidbits-funnel-practice-1.png]]  
+![obsidian-tidbits-funnel-practice-1.png](./Images/obsidian-tidbits-funnel-practice-1.png)  
 - Notes with multiple names (aliases), two sides and flexible linking are the key features for me  
 - A single vault keeps all notes. You cannot link between vaults, making multiple vaults much less useful  
   
@@ -40,7 +40,7 @@ These are some guiding principles I’ve found useful when deciding how to use O
   
 ## What’s in a note? Isnt’t it just a bunch of text?  
 * Name – you can always rename a note and links will update automatically  
-* Frontmatter = metadata, including aliases for more names/variants. See [Add word variants as aliases in the frontmatter](obsidian-tidbits.md##add-word-variants-as-aliases-in-the-frontmatter) below  
+* Frontmatter = metadata, including aliases for more names/variants. See [Add word variants as aliases in the frontmatter](https://storlind.nu/obsidian-tidbits.html#add-word-variants-as-aliases-in-the-frontmatter) below  
 * Textual side – markdown, rendered live  
 * Image side – Excalidraw, rendered as SVG  
 * Inline links to other notes  
@@ -50,13 +50,13 @@ Backlinks and the local graph are automatically generated for you. They are a gr
   
 ## Add word variants as aliases in the frontmatter  
 You can use the note’s `aliases` property to add singular or plural forms of note titles. For example,  
-![[./Images/obsidian-tidbits-use-aliases-for-plurals.png|400]]  
+![400](./Images/obsidian-tidbits-use-aliases-for-plurals.png)  
   
 It can also make sense to use aliases for acronyms such as ‘CSS’ and ‘css’. Lower case tends to make notes more legible, especially if you are inundated with acronyms. Your mileage may vary 😊  
   
 ## My note types: time-based, not time-based  
   
-![[./Images/obsidian-tidbits-four-note-types.png|obsidian-tidbits-four-note-types.png]]  
+![obsidian-tidbits-four-note-types.png](./Images/obsidian-tidbits-four-note-types.png)  
   
 A quick intro to the note types I use:  
 1. Daily notes: I use the ‘Daily Notes’ core plugin. All daily notes are in their own folder and there is a dedicated daily note template. The daily note has a logbook/diary section and a placeholder for today’s to do-list. The daily note is the default spot for off-the-cuff note taking. These loose ends can later be moved to a project, source or ‘note’ note.  
@@ -67,7 +67,7 @@ A quick intro to the note types I use:
   
 ## Just a handful of folders  
   
-![[./Images/obsidian-tidbits-file-explorer.png|250]]  
+![250](./Images/obsidian-tidbits-file-explorer.png)  
   
 In line with the principle of emergent organization, I keep the number of folders to a minimum.  
 - Daily notes are highly structured and deserve their own folders as to not swamp the vault  
@@ -81,7 +81,7 @@ The remainder of the vault are ‘note’ notes, starting out with ‘🍅pomodo
 Setting up notes to combine markdown with Excalidraw makes sure each note always has its own scratch pad for diagrams and visual 🧠-storming. I find this especially useful for source notes. If this sounds interesting, have a look at Nicole van der Hoeven’s lovely video: [Visual note templates with Obsidian Excalidraw - YouTube](https://youtu.be/zmgqMZi6QL8)  
   
 This setup lets you create note like this:  
-![[./Images/obsidian-tidbits-two-sided-notes.png|obsidian-tidbits-two-sided-notes.png]]  
+![obsidian-tidbits-two-sided-notes.png](./Images/obsidian-tidbits-two-sided-notes.png)  
 Left pane: markdown side – right pane: Excalidraw side, also embedded left via `![[...`   
   
 Here is a summary of my setup and experiences of using two-sided notes. Install and then configure [Excalidraw in Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) as follows:  
@@ -127,7 +127,7 @@ On a related topic, there are good plugins for spaced repetition
   
 ## Consider using Obsidian’s reading view when copy–pasting to other apps  
 When copying from Obsidian to paste into other tools, try copying from the reading view.   
-![[./Images/obsidian-tidbits-reading-view-icon.png|obsidian-tidbits-reading-view-icon.png]]  
+![obsidian-tidbits-reading-view-icon.png](./Images/obsidian-tidbits-reading-view-icon.png)  
 The HTML formatting you get with the reading view might be more suitable than the raw markdown, depending on your paste destination.  
   
 ## Single-page presentations using Excalidraw  
