@@ -40,7 +40,7 @@ These are some guiding principles I’ve found useful when deciding how to use O
   
 ## What’s in a note? Isnt’t it just a bunch of text?  
 * Name – you can always rename a note and links will update automatically  
-* Frontmatter = metadata, including aliases for more names/variants. See [Add word variants as aliases in the frontmatter](obsidian-tidbits.md##add-word-variants-as-aliases-in-the-frontmatter) below  
+* Frontmatter = metadata, including aliases for more names/variants. See [Add word variants as aliases in the frontmatter](add-word-variants-as-aliases-in-the-frontmatter) below  
 * Textual side – markdown, rendered live  
 * Image side – Excalidraw, rendered as SVG  
 * Inline links to other notes  
