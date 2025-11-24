@@ -127,7 +127,6 @@ On a related topic, there are good plugins for spaced repetition
   
 ## Consider using Obsidian’s reading view when copy–pasting to other apps  
 When copying from Obsidian to paste into other tools, try copying from the reading view.   
-  
 ![obsidian-tidbits-reading-view-icon.png](./Images/obsidian-tidbits-reading-view-icon.png)  
 The HTML formatting you get with the reading view might be more suitable than the raw markdown, depending on your paste destination.  
   
